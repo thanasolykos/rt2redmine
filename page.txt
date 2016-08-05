@@ -1,0 +1,3441 @@
+RT/3.8.4 200 Ok
+
+113192: [MPCADMIN] IPUMSI effort
+113283: [MPC-ADMINREQUEST] taking the day off as personal holiday
+113288: [MPCADMIN] ASSA Project Travel Form
+113371: [MPCADMIN] Travel receipt policy change?
+113397: [MPCADMIN] Fill out PAA request form if not requesting Center money?
+113408: [MPCADMIN] Notice of Award: MPC Research Development Program
+113457: [MPCADMIN] Fwd: Matt Nelson Salary
+113482: [MPCADMIN] Proposed MPC Visitor - for this week's Advisory Board meeting
+113559: [MPCADMIN] Note to Travel Committee
+113562: [MPCADMIN] Who controls mpc-staff@umn.edu
+113581: [MPCADMIN] Maggie Charleroy Going Away 5K Run/Jog/Walk and Happy Hour (Responses) - Invitation to edit
+113614: [MPCADMIN] Kevin Horne effort allocation
+113656: [MPCADMIN] request to use the MPC research award funds
+113659: [MPCADMIN] Notice of Award: MPC Research Development Program
+113676: [MPCADMIN] Praise for IASSIST organizational work
+113678: Re: [MPCADMIN] Praise for IASSIST organizational work
+113750: [MPCADMIN] request to use non-sponsered funds
+113766: [MPCADMIN] Fwd: Draft WebEx Instructions and FYI
+113797: [MPCADMIN] seminar room available Fri., Oct. 2?
+113895: [MPCADMIN] SPSS desktop software department license charge incoming
+113909: [MPCADMIN] itinerary for 11th ASSD, Libreville, Gabon
+113916: [MPCADMIN] travel request form
+113968: [MPCADMIN] Fwd: Put 10 hrs/wk for Kevin Huang on Gates budget
+113972: [MPCADMIN] officer's leave today 1/8
+114017: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114022: [MPCADMIN] Fwd: PAA project travel request form
+114026: Re: [MPCADMIN] Evan Roberts salary distribution
+114029: [MPCADMIN] Mikhal appointment
+114034: Re: [MPCADMIN] PAA project travel request form
+114035: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114036: [MPCADMIN] Fran Pcard Fwd: [Brown Paper Tickets] Order Confirmation
+114037: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+114038: [MPCADMIN] Fran Pcard Fwd: Credit Notification
+114039: [MPCADMIN] Fran Pcard Fwd: Credit Notification
+114040: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+114041: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+114042: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+114043: [MPCADMIN] Fwd: Your Amazon.com order of 2 x "Refactoring: Improving the...".
+114048: [MPCADMIN] Fabrizio Expense Report - Elasticon 2016
+114049: [MPCADMIN] Gorsuch PAA travel
+114052: [MPCADMIN] PCard form and receipt
+114055: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+114056: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114057: [MPCADMIN] Fwd: PAA travel
+114060: [MPCADMIN] Sick time
+114062: [MPCADMIN] PAA Travel Forms request
+114063: [MPCADMIN] King travel to PAA
+114064: [MPCADMIN] PAA Travel form for Raphael
+114066: [MPCADMIN] PAA travel Sula Sarkar
+114073: [MPCADMIN] 2 hours of sick leave for David Van Riper
+114074: [MPCADMIN] Travel reimbursement form
+114076: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114077: [MPCADMIN] Fran Pcard Fwd: Credit Notification
+114084: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+114085: [MPCADMIN] Fran Pcard Re: Your Flight Receipt - LAP VAN HUYNH 27MAY16
+114090: [MPCADMIN] TerraPop travel for Alex Jokela
+114095: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114096: [MPCADMIN] Fran Pcard Fwd: Your Order: Handsontable Single Website License (non-SaaS/OEM) [HAN160331-9622-70407]
+114099: [MPCADMIN] PCard form & receipt
+114100: [MPCADMIN] Reimbursement form
+114101: [MPCADMIN] reimbursement
+114106: [MPCADMIN] Fran Pcard Fwd: Order confirmation for order #SH1790
+114113: [MPCADMIN] Working at Dunn Bros
+114119: [MPCADMIN] MPC Outstanding Research Award
+114122: [MPCADMIN] Out
+114125: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114126: [MPCADMIN] Fran Pcard Fwd: Invoice from JetBrains INVJBA067712
+114127: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+114140: Re: [MPCADMIN] Sick leave?
+114144: [MPCADMIN] PCard forms
+114148: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114149: [MPCADMIN] pcard reconciliation
+114150: [MPCADMIN] Performance review attached
+114155: [MPCADMIN] Jason Goray Performance Review
+114158: [MPCADMIN] IASSIST travel request
+114161: [MPCADMIN] Garcia Time Use Conference/Workshop
+114168: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114169: [MPCADMIN] Fran Pcard Fwd: Order Status #260470591
+114172: [MPCADMIN] PCard form
+114173: [MPCADMIN] Reimbursement form
+114174: [MPCADMIN] Fran Pcard Fwd: Jon Renner Pycon Receipt
+114175: [MPCADMIN] Fran Pcard Fwd: PyCon 2016 Registration/Housing Confirmation
+114185: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114190: [MPCADMIN] Fran Pcard Fwd: Fw: Your Flight Receipt - BENJAMIN ALEXAND KLAAS 13JUL16
+114191: [MPCADMIN] Fran Pcard Fwd: Receipt/Invoice: SciPy 2016
+114196: [MPCADMIN] Notice of Award: MPC Research Development Program
+114200: [MPCADMIN] MPC Outstanding Research Award
+114209: [MPCADMIN] Fwd: Order Confirmation for devopsdays Minneapolis 2016
+114210: [MPCADMIN] Fitch P-Card - PAA
+114217: [MPCADMIN] reimbursement
+114218: [MPCADMIN] Pamela working at home
+114223: [MPCADMIN] Fwd: Receipt for Your Payment to IASSIST-US
+114224: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114225: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+114226: [MPCADMIN] Fran Pcard Fwd: Your MindMeister Invoice
+114227: [MPCADMIN] Fran Pcard Fwd: [Slack] mpcit: Your billing statement for June 2016
+114228: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+114233: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+114234: [MPCADMIN] Fran Pcard Fwd: Your Order is being processed – DPID 2005586299924
+114235: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+114238: [MPCADMIN] MPC Outstanding Research Award
+114241: [MPCADMIN] Fran Pcard Fwd: Your vNOC. receipt [#1263-0809]
+114242: [MPCADMIN] Fran Pcard Fwd: Maclocks: New Order # 400068632
+114243: [MPCADMIN] PCard form - SSHA 2016 registration
+114246: [MPCADMIN] Fwd: question about travel funding
+114255: [MPCADMIN] travel approval for Jonathan Schroeder
+114259: [MPCADMIN] In just a bit late, waiting out worst of storm
+113182: [MPCADMIN] Paying for page charge fees
+113183: [MPCADMIN] Matt Nelson
+113191: [MPCADMIN] Effort allocation changes for IT staff
+113197: Re: [MPCADMIN] Effort allocation changes for IT staff
+113322: [MPCADMIN] Camtasia license
+113324: [MPCADMIN] Whole Village
+113409: [MPCADMIN] Information about a mailing list
+113446: [MPCADMIN] Fwd: IMPORTANT: Training for supervisors and employees before Go Live
+113494: [MPCADMIN] Winzenburg Supervisor
+113545: [MPCADMIN] Paycheck
+113590: [MPCADMIN] PI funds request for summer RA
+113599: Re: [MPCADMIN] Pay Day Reminder
+113600: [MPCADMIN] sick leave
+113638: Re: [MPCADMIN] Pay Day Reminder
+113641: [MPCADMIN] Letterhead PDF?
+113662: [MPCADMIN] Changes in Pay Statement
+113664: Re: [MPCADMIN] Pay Day Reminder
+113665: [MPCADMIN] Paycheck Disprepancy
+113670: [MPCADMIN] Short-day today
+113679: [MPCADMIN] vacation / Jackie update
+113686: Re: [MPCADMIN] Pay Day Reminder
+113687: [MPCADMIN] End of year appointment - resign new letter?
+113688: [MPCADMIN] Vacation Reporting Error
+113697: Re: [MPCADMIN] Pay Day Reminder
+113702: [MPCADMIN] suspect payment error
+113714: [MPCADMIN] Reimbursement for conference expenses
+113795: Re: [MPCADMIN] Professional development reimbursement - form and receipt
+113802: [MPCADMIN] Utah effort adjustments
+113831: [MPCADMIN] Tuesday
+113854: [MPCADMIN] Question on pay - parking
+113855: [MPCADMIN] Payment
+113875: Approving Savanna time. Re: sick leave
+113876: Re: Approving Savanna time. Re: sick leave
+113877: Re: Approving Savanna time. Re: sick leave
+113924: [MPCADMIN] Fwd: MPC funding for summer school/career development
+113941: [MPCADMIN] Question about Advancing to Candidacy
+113944: [MPCADMIN] PCard form & receipts
+113947: [MPCADMIN] Fitch p-card MPC Bakery
+113951: Re: Question about Advancing to Candidacy
+113954: [MPCADMIN] Fwd: Stack Overflow Careers Order #130691 Confirmation
+113973: [MPCADMIN] 2016 MN tax withholding
+113979: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113985: [MPCADMIN] Fran Pcard Fwd: PyCon 2016 Registration/Housing Confirmation
+114003: [MPCADMIN] Fran Pcard Fwd: Order # 649211 Order Confirmation
+114004: [MPCADMIN] PAA travel form
+114010: [MPCADMIN] Garcia: PAA 2016 travel form
+114012: [MPCADMIN] MPC project travel form for PAA
+114021: [MPCADMIN] salary distributions
+114027: [MPCADMIN] PCard form
+114065: [MPCADMIN] Fran Pcard Fwd: PyCon 2016 Registration/Housing Confirmation
+114103: [MPCADMIN] Fwd: direct deposit change
+114133: [MPCADMIN] FMLA leave
+114176: [MPCADMIN] Absence this morning
+114230: [MPCADMIN] question regarding biweekly payroll
+114231: [MPCADMIN] schedule this week
+114232: Re: [MPCADMIN] Pay Day Reminder
+114240: [MPCADMIN] Request to hang a world map in front of my cube
+114251: [MPCADMIN] change in effort
+68077: test
+68082: Vacation leave
+68083: ordering an upgraded ESRI ArcInfo license for Sula Sarkar
+68382: Fwd: Vacation Days
+68409: Vacation leave request
+68430: Vacation request for December
+68433: sick day tomorrow
+68610: Tallying up the MPC bibliography: whose job?
+68650: Calendar display problem
+68651: Re: Tallying up the MPC bibliography: whose job?
+68652: Re: Calendar display problem
+68706: Reconfiguring IHIS and FWWB bullpen spaces?
+68723: Friday vacation
+68745: vacation request
+68805: Vacation request: 9/24
+68859: Fwd: [MPC-P&A] Issues with time off requests
+68917: p-card: Delta
+68946: Time off
+69025: Re: visiting professors?
+69039: Re: visiting professors?
+69044: folders for GIS workshop
+69073: ID Card Access to 50 Willey Hall
+69189: sick day
+69257: Fwd: Drew bereavement leave
+69401: Fwd: CATHERINE A MINNEAPOLS/STPA 12SEP10
+69471: Vacation leave request
+69498: P-Card -- Fwd: Moneris Receipt
+69501: Fwd: Registration for SSHA 2010 Exhibitors and Advertisors / Invoice
+69510: vick vacation
+69531: vacation day
+69533: Fwd: vick vacation
+69539: home with sick kid
+69685: Re: home with sick kid
+69700: Out sick today
+69805: Professional Development Request: Stata NetCourse 101
+69821: Blewett approval for IHIS travel by King, Moltz, and Lee to APHA, early November
+69853: request for travel funds
+69957: out Monday
+69988: P-Card order for SOPHE conference
+70012: Fwd: P-card Receipt for Stata course registration - 8 staff
+70060: Pete Clark sick day on Oct 19th 2010
+70126: Re: vacation request
+70154: sick today
+70184: 2 file cabinets
+70199: vacation day
+70215: Time off
+70216: Time off (with attachment)
+70280: out Monday
+70311: Fwd: McCaa vacation days
+70341: vacation form
+70403: vacation tracking
+70462: out thursday pm
+70489: David Van Riper vacation request
+70510: vacation day
+70513: Time off
+70520: Intereum Work Invoice, P-card Purchase
+70583: vick vacation day
+70584: vick vacation day with attachment
+70640: Pcard receipt for seminar speaker airfare
+70641: Pcard receipt, airfare for Geronimus
+70650: Fwd: Your United flight confirmation - November 17, 2010 - Washington to Chicago
+70663: Travel Funds Request
+70725: vacation request for December
+70726: Re: MPC internal web resources?
+70729: cubicle nameplates?
+70771: Pcard receipt- Tea
+70796: Pcard receipt for Tea
+70805: Time off
+70832: out friday pm
+70914: vacation time request
+70916: out sick
+70923: vacation reporting - Oct 2010
+70931: Vacation: Nov 4-5
+71013: out rest of the week
+71072: Fwd: Fox Vacation Request
+71140: Faculty/P&A Vacation Leave Reporting Form -- Natasha Rivers
+71146: Re: Faculty/P&A Vacation Leave Reporting Form -- Natasha Rivers
+71164: sick leave
+71293: out monday
+71315: Fwd: MPC itinerary
+71341: APHA expense sheet
+71438: vacation time
+71458: Sick day taken
+71469: Fwd: ALLIED SOCIAL SCIENCE ASSOCIATION ANNUAL MEETING Order Summary and Acknowledgement
+71474: Purchasing Card receipt. PAA Exhibit-Ad-Book Display
+71498: vacation days
+71541: out Friday/Monday
+71564: Time off
+71626: Fwd: King Sick days, November 15-19
+71658: Vacation
+71687: working from home today
+71688: sick day
+71690: Time off
+71696: vacation request - W 11/24/10
+71721: 1/2-day sick day - Clark - 11/23/2010
+71722: Folders for GIS training
+71732: vacation request
+71771: Internet connectivity problems and solutions
+71796: Time off
+71800: vacation days
+71801: vick vacation time
+71802: out this afternoon
+71810: overlapping meetings set by admin staff
+71884: Christmas in Brazil
+71913: ASSA electrical ordered via p-card
+71926: Vacation Day
+71942: (Half) Sick day
+71974: vacation request form
+71986: Professional development request for Kevin Horne
+71994: Vacation Leave Request
+72169: Personal holiday
+72171: Re: [MPC-P&A] Personal Holiday for Academic Employees
+72177: FW: [MPC-P&A] Personal Holiday for Academic Employees
+72256: Fwd: Miriam King half day sick leave, last Friday
+72367: contacting the telephone network administrator to reset the voicemail password for 5-7375
+72402: Fwd: Travel Document - Kevin Horne Palm Springs 3/6/11
+72405: Fwd: P-Card Registration Confirmation Kevin Horne ESRI
+72503: Sorry to bother you...
+72508: vacation day
+72509: Sick Day from Miriam King
+72586: vacation today
+72634: out today
+72640: Pete Clark Vacation - Dec 10th and 13th (1.5 days)
+72648: Fwd: Olevitch Vacation & Personal Holiday
+72695: form attached
+72702: Fwd: sick day
+72740: Personal Holiday for Employees
+72746: out sick today
+72749: Fwd: another sick day
+72790: FW: PKH holiday vacation
+72843: vacation & personal holiday request
+72851: Regents form
+72860: Reimbursement request for seminar speaker Larry Wu
+72866: Sick leave today
+72872: Re: [MPC-P&A] Personal Holiday for Academic Employees
+72880: December vacation
+72886: Vacation January
+72896: Personal Holiday
+72901: Personal Holiday
+72945: sick day
+73003: vacation time request
+73006: personal holiday
+73027: vick vacation
+73028: vick personal holiday
+73034: personal holiday on 12/30/2010
+73053: vacation day
+73075: David Van Riper personal holiday on December 28, 2010
+73076: David Van Riper personal holiday on January 7, 2011
+73091: Personal holiday
+73214: sick day for Pete Clark (P&A)
+73229: sick day
+73233: P-Card Receipt - Fine Awards
+73240: Time off
+73321: Fwd: Patt Kelly vacation Jan. 13-14
+73338: Fwd: order TwiningsTea-40602 from twiningsusashop.com
+73353: Personal Holiday - January 12, 2011
+73366: sick day - Pete Clark (P&A) - Jan 5 2011
+73377: Half sick-day
+73446: Vacation reporting for Pete Clark - Dec 2010, Jan 2011 - 7 days total
+73516: sick day
+73549: out 1/10 pm
+73607: vick vacation
+73664: Home today
+73733: vick vacation time
+73766: Time off
+73818: bereavement & vacation leave
+73853: Time off
+73859: vacation today
+73938: Vacation Reporting - Jan 14th 2011, 1 day
+73958: Fitch vacation reporting
+74052: out 1/21
+74075: Idea: coat rack in room 50E
+74094: Vick out sick
+74101: Fwd: McKee P-card Purchase Job Posting GIS Jobs Clearinghouse
+74185: Receipt for Catering Order - Lunds & Byerly's
+74324: Magennis vacation
+74333: Out sick
+74465: working from home today
+74566: out sick 1/31
+74569: Vacation and sick days
+74721: Time off
+74774: P-card purchases
+74796: Time off
+74865: out Friday pm
+74877: Website internal login
+74930: FW: sick day
+74987: FW: Feb. 4 vacation day
+75019: Sick day taken
+75103: Upcoming Vacation Time
+75119: sick day
+75173: Vacation reporting - Pete Clark, Feb 4th 2011
+75204: Fwd: Sick Leave
+75215: Fwd: Sick Leave
+75245: Request for use of PI money to travel to Population Association conference
+75272: sick child leave request
+75334: sick day
+75347: Re: Sick day
+75348: test
+75420: MPC non-sponsored PI account request
+75478: Fwd: Fox Vacation Request
+75524: Vacation time request
+75567: vacation request
+75573: vacation on 2-21-2011
+75641: Kitchen sink leak
+75715: David Van Riper vacation request for 2/21/2011
+75806: sick time for Pete C - 1/2 day, Feb 24th 2011
+75839: PCard receipt: CATHERINE A MINNEAPOLIS/SPA 30MAR11
+75846: Fwd: order TwiningsTea-44679 from twiningsusashop.com
+75854: Fwd: Sick Leave
+75934: dentist appointment today at 4:00
+75971: vacation request
+75979: out Friday, 3/4
+76079: p-card purchases
+76147: Request to change directory office phone number
+76183: sick today
+76245: Re: home with sick kid
+76391: half day sick day
+76506: Fwd: April 5 talk on Women, Work, & Reproduction
+76517: p-card for IHIS conference
+76589: vacation leave reporting
+76594: Time off
+76599: professional development request
+76600: Re: professional development request
+76619: P-Card Purchase - McKee - ASA Job Bank Posting
+76667: Vacation: Mar 21-25
+76670: P-Card Receipt - McKee - PublicServiceCareers.org job posting
+76687: out wed/thur
+77047: Vacation leave tomorrow
+77075: Time off
+77077: Time off
+77122: vacation leave Apr 4-5, jun 9-22
+77279: out wed
+77283: Home w/ sick child
+77476: Vacation reporting for Pete Clark - 4 days, March 21-24 2011
+77586: Magennis vacation days
+77656: David Van Riper vacation request for 3/31/11 and 4/1/11
+77661: out fri
+77664: 3/23
+77785: Fwd: April 5 talk on Women, Work, & Reproduction
+77942: Time off
+77944: Time off (w/ attachment)
+77949: Fwd: vacation form
+78021: Fwd: Travel Document - Minneapolis 4/24/11
+78022: Pcard receipt- US Airways 3/8/11
+78023: Pcard receipt- US airways 3/9/11
+78045: Vacation time Vick
+78178: PAA expense sheet
+78267: Fwd: April 7 vacation leave
+78268: Fwd: Vacation leave taken on March 8
+78505: working from home tomorrow
+78513: half day vacation 04/12/2011
+78552: Thank you reception for CLA freshman interns on Tuesday, May 3, 12:15-1:15
+78581: sick time
+78582: Fitch vacation - summer 2011
+78692: Sick time - 1/2 day, Apr 13th 2011
+78829: United Airlines Hout ticket 4-15-11
+79111: Time off
+79169: Fwd: Patt Kelly vacation leave April 18
+79218: Time off
+79387: Revised receipt - Matt Schroeder Class Fee
+79400: vacation 04/22/2011
+79412: Professional Development Funds Request
+79487: sick time for Pete Clark - 1/2-day on 4/21, 1/2-day on 4/22
+79509: Fwd: Wendy Thomas vacation days
+79599: Late Wednesday
+79696: vacation time request
+79700: Re: reimbursement form
+79730: vacation request
+79823: vacation request
+79838: Vacation days
+79855: Fwd: funeral vacation leave form
+79904: vick vacation time
+80046: David Van Riper - vacation request for May 12 and 13th
+80088: Fwd: FW: Vladimir Vladykin, Vacation request: 3/21/2011, 4/4-8/2011, 4/18/2011
+80122: travel requests
+80143: home with sick kid
+80324: out Monday - sick day
+80337: Time off
+80339: Twinings Tea receipt
+80343: vacation leave request
+80481: Vacation days for Pete Clark - May 5th and 0.5 each on may 10th-11th
+80552: vacation 5/12/11
+80633: out friday pm
+80674: vacation for May 16th and May 17th
+80701: David Van Riper - vacation request
+80795: Fwd: Kimberly Fox Vacation in June
+80797: Magennis vacation request
+80800: Magennis vacation with attachment
+80811: Borah - Sick Leave
+80853: Fwd: 1/s sick day, 5/17/11, Natasha Rivers
+80901: Renewal Request - Visiting Scholar
+80992: David Van Riper - sick this afternoon
+81020: vacation 5/20/11
+81029: Fwd: Sick day Wendy Thomas
+81034: vacation request
+81056: p-card order for ASA exhibit booth
+81092: vacation time request
+81103: Borah - Sick Leave
+81133: knish
+81197: out thur/fri
+81208: MPC Visiting Scholar
+81366: Fwd: need sun! half-day vacation today
+81518: Time off
+81603: Vladimir Vladykin, Vacation request: 5/31/2011, 6/1/2011
+81609: vacation 6/1/11
+81667: Vacation June 10-17
+81783: Delta Receipt for 4/26/11 Pcard purchase
+81784: Amazon Pcard receipt 5/9/11
+81785: Twinings Pcard receipt 5/9/11
+81837: June 10 vacation day
+81862: June vacation request
+81873: Fwd: Wendy Thomas sick leave
+82065: Fwd: [mpc-coordinators] File Server woes
+82125: Becky Vick Vacation Time
+82135: Fwd: [mpc-coordinators] Fwd: Restore status
+82141: vacation 6/10/11
+82245: vacation 6/13/11
+82320: Pete Clark sick day - 1/2 day, June 14th
+82346: FW: wrist rest for keyboard
+82347: Re: wrist rest for keyboard
+82351: RE: wrist rest for keyboard, keyboards with palm rests
+82352: Re: wrist rest for keyboard, keyboards with palm rests
+82375: Fwd: vacation for July
+82379: Schroeder vacation leave request
+82399: vacation tomorrow
+82439: Time off
+82448: Borah - Vacation Leave Request
+82456: Re: Borah - Vacation Leave Request
+82495: Pete Clark Vacation reporting - June 16th and 17th
+82545: may be late on Monday
+82567: out Monday
+82580: Jonathan Schroeder professional development request
+82593: Cleveland Vacation Day
+82595: Re: Cleveland Vacation Day
+82616: ASA Dept Affiliate Membership Renewal
+82742: Vacation time request for afternoon of 6/23
+82754: June vacation Sobek
+82836: out fri pm
+82848: request 1/2 day sick day: sick child
+82982: July vacation days plus July/August travel
+82996: Vacation request
+83004: Schroeder professional development request
+83011: Sick
+83029: Fwd: Fox Vacation in July
+83085: receipt for AHA exhibit booth P-card purchase
+83118: p-card purchase for ASSA exhibit space
+83179: vacation time leave request
+83241: vacation request
+83245: vacation request
+83257: Fwd: P-card Purchase Stata Journal order 1309464170
+83282: Re: vacation request
+83298: vacation July 5th to July 8th
+83315: Magennis vacation request
+83356: out wed, 7/6
+83413: pclark vacation day - July 5th, 2011
+83447: Working from home this morning
+83511: Time off
+83588: Kimberly Fox Vacation Time in August
+83589: Patt Kelly out Mon., July 11
+83655: half-day on Thursday
+83657: vacation time leave request
+83661: Vacation
+83668: vacation request -- Natasha Rivers
+83678: Re: Time off
+83679: Re: Time off
+83757: Pete Clark vacation - July 15th, then 19-22nd
+83783: Fwd: McCaa vacation days: jul 14-19
+83787: Vacation Leave
+83791: Re: Vacation Leave
+83837: vacation request (maryland trip)
+83840: out fri afternoon, 7/15
+83861: vacation request
+84129: [MPC-ADMINREQUEST] Test msg
+84263: [MPC-ADMINREQUEST] David Van Riper - vacation request for July 27th
+84448: [MPC-ADMINREQUEST] vacation request
+84455: [MPC-ADMINREQUEST] sick day
+84525: [MPC-ADMINREQUEST] couple things
+84573: [MPC-ADMINREQUEST] July Vacation Time
+84643: [MPC-ADMINREQUEST] vacation request travel abroad
+84655: [MPC-ADMINREQUEST] Vacation
+84946: [MPC-ADMINREQUEST] Magennis vacation
+84950: [MPC-ADMINREQUEST] Vacation reporting for Pete Clark - Aug 3-5, 2011
+84954: out thur/fri
+85046: [MPC-ADMINREQUEST] vacation request: 8/25-26
+85060: [MPC-ADMINREQUEST] Drew professional development request: Stata programming course
+85061: [MPC-ADMINREQUEST] August vacation
+85062: [MPC-ADMINREQUEST] Time off
+85191: [MPC-ADMINREQUEST] p-card receipt
+85196: [MPC-ADMINREQUEST] p-card purchase for APHA
+85202: [MPC-ADMINREQUEST] professional development request
+85204: [MPC-ADMINREQUEST] next week time sheets
+85430: [MPCADMIN] Testing RT routing
+85448: [MPCADMIN] Fwd: Request 1/2 sick day today J Schroeder
+85458: [MPC-ADMINREQUEST] vacation and sick leave
+85466: [MPC-ADMINREQUEST] Vick sick time
+85467: [MPC-ADMINREQUEST] Drew ASA travel request approval
+85469: [MPC-ADMINREQUEST] Genadek and Kennedy ASA travel
+85507: [MPC-ADMINREQUEST] Rowan ASA travel
+85519: [MPC-ADMINREQUEST] IT in 60C
+85570: sick friday
+85622: [MPCADMIN] P-Card Receipt - Charleroy Stata Course
+85739: [MPC-ADMINREQUEST] justification for mailing
+85803: [MPC-ADMINREQUEST] Clark vacation - 1 day, Aug 19th 2011
+86012: [MPC-ADMINREQUEST] pclark sick day - 1 day, August 24th
+86015: Re: [MPC-ADMINREQUEST] Genadek and Kennedy ASA travel
+86016: [MPC-ADMINREQUEST] vacation request
+86030: [MPC-ADMINREQUEST] David Van Riper vacation request for September 3, 2011
+86168: [MPC-ADMINREQUEST] Vacation: Sept 1-2
+86181: [MPC-ADMINREQUEST] Vacation request
+86188: Re: [MPC-ADMINREQUEST] Vacation request
+86198: [MPC-ADMINREQUEST] Time off
+86209: [MPC-ADMINREQUEST] vacation 8/29/11
+86239: [MPCADMIN] P-Card Purchase Stack Overflow Careers Order #38121
+86267: [MPC-ADMINREQUEST] Sick time today
+86396: [MPC-ADMINREQUEST] working from home today
+86400: [MPC-ADMINREQUEST] Another half sick day
+86411: [MPC-ADMINREQUEST] Sick Leave
+86421: [MPCADMIN] Fwd: McKee P-card Purchase HR Books
+86453: [MPC-ADMINREQUEST] Upcoming vacation request
+86641: [MPC-ADMINREQUEST] Sick day
+86693: [MPC-ADMINREQUEST] Vladimir Vladykin, Vacation request: 8/29/2011, 9/2/2011, 9/6/2011, 9/9/2011
+86775: [MPCADMIN] P-Card Receipt - Drew Stata Course
+86812: [MPC-ADMINREQUEST] dentist this afternoon
+86920: [MPCADMIN] vacation 9/9, 9/12
+87002: [MPC-ADMINREQUEST] vacation time
+87024: [MPC-ADMINREQUEST] MN GIS_LIS Conference registration
+87136: [MPC-ADMINREQUEST] Vacation request, 9/7
+87336: [MPCADMIN] McKee P-card purchase GIS Jobs Clearinghouse posting
+87481: [MPC-ADMINREQUEST] sick day for last Friday 09/09/2011
+87687: [MPC-ADMINREQUEST] Prof Dev Request Form
+87837: [MPC-ADMINREQUEST] Fwd: Registration Confirmation For Social Science History Association Annual Meeting (11/17/11 12:00 AM - 11/20/11 11:00 PM)
+87991: [MPCADMIN] Vacation Leave
+88168: [MPC-ADMINREQUEST] vacation request
+88226: [MPCADMIN] vacation 9/23
+88389: [MPCADMIN] Vacation balance problem
+88417: [MPC-ADMINREQUEST] vacation (report for August)
+88565: [MPC-ADMINREQUEST] Time off
+88616: [MPC-ADMINREQUEST] Fwd: Order GWSW-201109231256-055438
+89379: [MPCADMIN] Sick Day
+89556: [MPC-ADMINREQUEST] Out Sick 9/26
+89595: [MPCADMIN] P-Card Receipt: Travel for NSF Advisory Board Meeting
+89599: [MPCADMIN] P-Card Receipt: NSF Advisory Board Meeting Travel
+89601: [MPCADMIN] P-Card Receipt: NSF Advisory Board Meeting Travel
+89603: [MPCADMIN] P-Card Receipt: NSF Advisory Board Meeting Travel
+89712: [MPC-ADMINREQUEST]
+89798: [MPCADMIN] Vacation Leave
+89831: [MPC-ADMINREQUEST] Sick
+89837: [MPCADMIN] Vacation Leave, Correction
+90049: [MPC-ADMINREQUEST] sick day
+90069: [MPCADMIN] Fwd: Laura is out Sick Today
+90165: [MPC-ADMINREQUEST] sick day
+90199: [MPC-ADMINREQUEST] Vacation
+90610: [MPCADMIN] McKee P-card Purchase Stack Overflow Careers Job Posting
+90611: [MPCADMIN] McKee P-card purchase Stack Overflow Careers
+90881: [MPCADMIN] P-Card Receipt: Twinings Tea for MPC Kitchen
+90902: [MPCADMIN] Peter Clark p-card receipt
+90938: [MPCADMIN] vacation 10/14
+90941: [MPCADMIN] travel to SSHA
+90945: [MPCADMIN] SSHA travel approved
+90956: [MPC-ADMINREQUEST] P-Card purchase for GSA in Boston, Nov 18-21
+91004: [MPC-ADMINREQUEST] P-card purchase for APA exhibit booth
+91128: [MPC-ADMINREQUEST] Time off
+91130: [MPC-ADMINREQUEST] another p-card purchase..
+91207: [MPCADMIN] sick Monday 10/17
+91219: [MPC-ADMINREQUEST] Fwd: AERA booth registration receipt
+91287: [MPCADMIN] P-Card Receipt: USPS Stamps
+91290: [MPCADMIN] P-Card Receipt: Overstock.com for Kitchen Towels
+91407: [MPC-ADMINREQUEST] Fwd: Order Confirmation for Sales Order# 883233 for the AMERICAN PUBLIC HEALTH ASSOCIATION show
+91457: [MPC-ADMINREQUEST] vacation - 20th and 21st October
+91585: [MPC-ADMINREQUEST] Fwd: GSA'S ANNUAL SCIENTIFIC MEETING 2011 Order Summary and Acknowledgement
+91595: [MPC-ADMINREQUEST] Fwd: Order #1111019-00038 Confirmation
+91677: [MPC-ADMINREQUEST] Vacation request
+91681: [MPCADMIN] Time off
+91722: [MPCADMIN] David Van Riper - vacation request for November 21-23
+91734: [MPC-ADMINREQUEST] vacation balance
+91741: [MPC-ADMINREQUEST] vacation
+91744: [MPC-ADMINREQUEST] vacation request
+91885: [MPC-ADMINREQUEST] sick leave
+91896: [MPC-ADMINREQUEST] Vick sick time
+91922: [MPCADMIN] Vacation Wednesday 10/26
+92005: Re: [MPC-ADMINREQUEST] GSA'S ANNUAL SCIENTIFIC MEETING 2011 Order Summary and Acknowledgement
+92026: [MPC-ADMINREQUEST] Vacation request
+92063: Re: [MPC-ADMINREQUEST] another p-card purchase..
+92142: [MPCADMIN] Fwd: Coursolle Vacation Request
+92156: [MPC-ADMINREQUEST] Out ill 10/25/11
+92339: [MPC-ADMINREQUEST] Problem with HVAC system?
+92382: [MPC-ADMINREQUEST] vacation time request
+92486: [MPC-ADMINREQUEST] Nov 11 and Nov 28 2011 Magennis vacation
+92528: [MPC-ADMINREQUEST] Professional Development Request
+92708: [MPC-ADMINREQUEST] Vacation: Nov 10-11
+92805: [MPCADMIN] David Van Riper - sick day for an ill child
+92817: [MPCADMIN] Fwd: out sick
+92834: [MPC-ADMINREQUEST] Half day vacation today
+92950: [MPCADMIN] Fwd: Another sick day
+93035: [MPCADMIN] Fwd: Out sick
+93093: [MPC-ADMINREQUEST] APHA expense worksheet
+93113: [MPC-ADMINREQUEST] out sick today
+93136: FW: IHIS travel and other things....
+93161: [MPCADMIN] Fwd: Sick day
+93179: [MPC-ADMINREQUEST] Sobek vacation
+93228: [MPC-ADMINREQUEST] Scratch one vacation day
+93238: [MPC-ADMINREQUEST] Yet another vacation correction
+93251: [MPCADMIN] Fwd: Still out sick
+93286: [MPC-ADMINREQUEST] Vacation requests
+93301: [MPCADMIN] Vacation Leave Form
+93323: Re: [MPCADMIN] Vacation Leave Form
+93357: [MPCADMIN] Sick half-day request
+93359: [MPCADMIN] Schroeder vacation request 11/21-11/23
+93385: [MPC-ADMINREQUEST] Vacation
+93416: [MPCADMIN] Jason Borah professional development request
+93476: [MPCADMIN] Kelly SSHA 2011 travel request
+93477: Re: [MPCADMIN] [MPC-TRAVEL] travel request form
+93478: [MPCADMIN] Fitch travel to SSHA
+93493: [MPC-ADMINREQUEST] Fwd: Invoice for AMERICAN PUBLIC HEALTH ASSOCIATION
+93561: [MPCADMIN] Time off
+93601: [MPC-ADMINREQUEST] vacation request
+93606: [MPC-ADMINREQUEST] Fwd: Dec 5 MPC Seminar
+93653: [MPCADMIN] Fwd: McKee FineAwards.com P-Card Receipt
+93758: [MPC-ADMINREQUEST] Pete out sick today - Nov 21st 2011
+93787: [MPC-ADMINREQUEST] Undergrad RA for IDHSS
+93837: [MPCADMIN] Out Tuesday 11/22
+93861: [MPC-ADMINREQUEST] vacation day
+93862: [MPC-ADMINREQUEST] Magennis vacation tracking
+93864: [MPCADMIN] sick leave request
+93932: [MPCADMIN] Vacation Wednesday PM 11/23
+94010: [MPC-ADMINREQUEST] Vacation day: 11/23/11
+94023: p-card purchase for AHA exhibit stuff
+94147: [MPC-ADMINREQUEST] Vacation form for the week of Nov. 14
+94303: [MPC-ADMINREQUEST] vacation reporting for Pete Clark - 1 day, Nov 30th 2011
+94374: [MPC-ADMINREQUEST] vacation and sick leave
+94440: Re: [MPCADMIN] sick leave Thurs.-Fri., Dec. 1 & 2, 2011
+94455: [MPCADMIN] McKee P-card Purchase - GIS Jobs Clearinghouse
+94476: [MPC-ADMINREQUEST] home with sick kid
+94600: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+94639: [MPC-ADMINREQUEST] Personal Holiday use: 12/23/11
+94662: [MPCADMIN] Vacation Thursday PM 12/8
+94694: [MPC-ADMINREQUEST] Holiday time off: 12/21& 22
+94711: [MPC-ADMINREQUEST] Taxi recommendation
+94738: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+94746: [MPCADMIN] Fwd: december and january vacation
+94835: [MPC-ADMINREQUEST] vacation request
+94842: [MPCADMIN] vacation & personal holiday request
+94968: [MPCADMIN] out sick today
+94972: Re: [MPCADMIN] [MPC-GRAD] Personal Holiday for Academic Employees
+94984: [MPCADMIN] sick day
+95009: [MPCADMIN] December days off
+95014: [MPCADMIN] time out of the office and personal holiday
+95033: [MPCADMIN] Fwd: holiday personal day
+95042: [MPC-ADMINREQUEST] Personal Holiday Request
+95075: [MPC-ADMINREQUEST] P&A personal holiday
+95077: [MPCADMIN] pie - apple raspberry
+95093: [MPC-ADMINREQUEST] sick day
+95110: [MPC-ADMINREQUEST] Clark Vacation - Dec 23, 29, 30 in 2011, and Jan 3 and 5 in 2012
+95120: [MPC-ADMINREQUEST] Vacation request, 12/15/11
+95190: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+95213: [MPC-ADMINREQUEST] vacation leave request
+95286: [MPC-ADMINREQUEST] Vacation and Personal Days
+95289: [MPCADMIN] Family Sick Time request
+95303: [MPCADMIN] Vacation Leave Request
+95304: [MPCADMIN] Personal Holiday Day Request
+95306: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+95356: [MPC-ADMINREQUEST] vacations and personal holiday
+95359: [MPCADMIN] Time off request
+95377: [MPCADMIN] David Van Riper vacation request, December 29 - 30, 2011
+95389: [MPC-ADMINREQUEST] Fwd: APHA 140th Annual Meeting & Exposition Invoice
+95390: Re: [MPC-ADMINREQUEST] Vacation and Personal Days
+95455: [MPCADMIN] personal holiday
+95457: [MPC-ADMINREQUEST] vacation time
+95458: [MPCADMIN] Personal holiday request
+95465: [MPC-ADMINREQUEST] sick time for Pete Clark
+95469: [MPC-ADMINREQUEST] personal holiday
+95473: [MPCADMIN] vacation request: Friday 12/23/11
+95492: Re: [MPCADMIN] vacation request: Friday 12/23/11
+95518: [MPC-ADMINREQUEST] Fwd: Order Confirmation for Sales Order# 919027 for the AMERICAN HISTORICAL ASSOCIATION show
+95594: [MPCADMIN] Time off request
+95639: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+95642: [MPCADMIN] Funeral Leave
+95661: [MPCADMIN] McCaa vacation request
+95683: [MPC-ADMINREQUEST] personal holiday and vacation request
+95728: [MPCADMIN] Schroeder vacation 12/30/2011
+95730: [MPC-ADMINREQUEST] sick day for 12/29/2011
+95751: [MPC-ADMINREQUEST] Vladimir Vladykin, vacation request, untill Jan. 6, 2012
+95774: Re: [MPCADMIN] [MPC-PA] Personal Holiday for Academic Employees
+95785: [MPCADMIN] Fwd: sick leave report
+95795: [MPCADMIN] Fabrizio Vacation Request 1-10-2012
+95852: [MPC-ADMINREQUEST] Vacation day request, 1/4/12
+95860: [MPC-ADMINREQUEST] sick time
+95889: [MPCADMIN] Access to MPC Intranet
+95916: [MPCADMIN] out sick today
+95917: [MPC-ADMINREQUEST] Personal holiday
+96942: [MPC-ADMINREQUEST] Personal holiday
+96992: [MPC-ADMINREQUEST] sick day
+97031: [MPC-ADMINREQUEST] withdraw request
+97079: [MPC-ADMINREQUEST] Sick day
+97642: [MPC-ADMINREQUEST] Personal holiday
+97698: [MPCADMIN] receipt: P-card for Mail Chimp
+97704: [MPC-ADMINREQUEST] Replacement printer cartridge for HP Laser Jet 1012
+97711: [MPC-ADMINREQUEST] time off request
+97740: [MPCADMIN] Carhart union leave 1/12/12
+97786: [MPC-ADMINREQUEST] vacation request
+97858: [MPC-ADMINREQUEST] vacation - vick
+97942: [MPC-ADMINREQUEST] req for sprint modem reservation - Feb 24th thru March 5th
+98076: [MPCADMIN] Fwd: David Van Riper - vacation request
+98092: [MPCADMIN] Time off
+98331: Re: [MPCADMIN] 1/2 sick day
+98341: [MPCADMIN] Time off
+98347: [MPC-ADMINREQUEST] vacation request
+98349: [MPC-ADMINREQUEST] sick day
+98506: [MPC-ADMINREQUEST] Out PM
+98510: [MPCADMIN] Fwd: Reminder
+98531: [MPCADMIN] Half day sick leave
+98600: [MPC-ADMINREQUEST] I had taken a vacation yesterday 01/23/2012
+98627: [MPCADMIN] Sick Leave
+98648: [MPCADMIN] Sick time Wednesday 1/25
+98788: [MPC-ADMINREQUEST] vacation day
+98822: [MPCADMIN] Sick child today
+98904: [MPCADMIN] Fabrizio - family sick time notice
+98935: [MPC-ADMINREQUEST] Vacation request
+98950: [MPC-ADMINREQUEST] Attached doc for 1/24/12
+99005: [MPC-ADMINREQUEST] vacation time request
+99049: [MPCADMIN] out thur pm and fri (all day)
+99065: [MPCADMIN] Schroeder vacation request
+99100: [MPC-ADMINREQUEST] Out tomorrow
+99121: [MPC-ADMINREQUEST] Fwd: 2012 APC Dues
+99167: [MPC-ADMINREQUEST] sick day
+99199: [MPCADMIN] vacation request: half day, tomorrow (Feb 3)
+99227: [MPCADMIN] Fwd: Carhart union leave Friday
+99336: [MPCADMIN] sick child... again
+99339: [MPC-ADMINREQUEST] Home sick
+99387: [MPCADMIN] Sick Leave
+99395: [MPCADMIN] David Van Riper vacation request
+99407: [MPCADMIN] King Sick Leave
+99414: [MPC-ADMINREQUEST] Request to spend PI funds
+99446: [MPCADMIN] vacation day
+99589: [MPCADMIN] Fwd: Carhart union leave 2/8/12
+99640: [MPC-ADMINREQUEST] sick kid again
+99732: [MPCADMIN] Fwd: Carhart union leave 2/9/12
+99860: [MPCADMIN] Vacation Leave Request
+99873: [MPC-ADMINREQUEST] sick leave request + cancelling previously submitted vacation request
+100946: [MPCADMIN] Fwd: Carhart union leave Wednesday 2/15
+101165: [MPCADMIN] Out sick Wednesday 2/15
+101170: [MPCADMIN] vacation request
+101200: [MPC-ADMINREQUEST] vacation on Presidents day
+101226: [MPC-ADMINREQUEST] doctor appointment Friday morning
+101281: [MPC-ADMINREQUEST] Magennis vacation March 15 and March 19, 2012
+101497: Re: [MPC-ADMINREQUEST] sick leave request + cancelling previously submitted vacation request
+101498: [MPCADMIN] Fwd: sick leave request + cancelling previously submitted vacation request
+101719: [MPC-ADMINREQUEST] Clark Vacation Feb 20th 2012 - 1/2 day
+101758: [MPC-ADMINREQUEST] Half a vacation day
+101835: [MPCADMIN] Updated Carhart Union Leave for Tuesday 2/21
+102001: [MPCADMIN] Time off request
+102021: [MPC-ADMINREQUEST] travel request form to PAA
+102040: [MPCADMIN] Schroeder vacation request
+102076: [MPC-ADMINREQUEST] vacation request
+102362: [MPC-ADMINREQUEST] vacation time
+102368: [MPC-ADMINREQUEST] Out Thursday AM
+102429: [MPCADMIN] Carhart Union Leave Thursday 3/1
+102449: [MPCADMIN] Out sick Thursday 3/1
+102461: [MPCADMIN] Test Msg
+102514: [MPCADMIN] David Van Riper vacation request for 03/09/2012
+102547: Re: [MPCADMIN] vacation day
+102551: [MPCADMIN] Fwd: vacation day
+102568: [MPCADMIN] Carhart union leave Fri 3/2/12
+102582: [MPCADMIN] King Vacation Leave 2/27/12
+102620: [MPCADMIN] out Monday & Tuesday--bereavement & vacation
+102659: [MPCADMIN] Fwd: Fox Vacation Request
+102664: Re: [MPCADMIN] Fwd: Fox Vacation Request
+102671: [MPCADMIN] REPA Department Approver
+102701: [MPCADMIN] vacation request for 3-6-12
+102731: [MPC-ADMINREQUEST] Pete Clark sick day - 3/6/12
+102744: [MPCADMIN] Borah - Vacation
+102863: [MPCADMIN] Fwd: McCaa vacation days
+102867: [MPC-ADMINREQUEST] Out Friday AM
+102876: [MPCADMIN] out friday, 3/9
+102892: [MPCADMIN] vacation request: 4/6-4/13
+102913: [MPCADMIN] Fwd: Carhart union leave Thurs 3/8
+102921: [MPC-ADMINREQUEST] Vacation reporting - pete clark, March 7th 2012
+102950: [MPCADMIN] McKee P-card Purchase- TCHRA Spring Conference 2012 registration
+103055: [MPCADMIN] Fwd: .5 sick day today
+103085: [MPCADMIN] Fwd: Carhart Union Leave 3/13/12
+103127: [MPCADMIN] vacation request
+103155: [MPCADMIN] Fwd: Carhart union leave Wed 3/14
+103180: [MPC-ADMINREQUEST] Vacation request for Thursday
+103236: [MPCADMIN] Time off
+103272: [MPCADMIN] 1 day of sick time for David Van Riper
+103280: [MPCADMIN] vacation request mar 21
+103342: [MPC-ADMINREQUEST] Doc for 3/19/12
+103498: [MPC-ADMINREQUEST] 1/3-day sick leave, Pete Clark, 3/20/2012
+103600: [MPCADMIN] Fwd: Carhart unpaid union leave Friday 3/23
+103693: [MPCADMIN] Time off
+103735: [MPC-ADMINREQUEST] Clark - 1 vacation day - 3/26/12
+104051: [MPCADMIN] Out Monday 4/2
+104059: [MPC-ADMINREQUEST] Borah Sick Leave
+104107: [MPCADMIN] Application for MPC Professional Development Fund
+104214: [MPCADMIN] David Van Riper vacation request - 4/9 - 4/12/2012
+104218: [MPC-ADMINREQUEST] at home sick today
+104223: [MPCADMIN] Fwd: Carhart union leave 4/4/12 & 4/5/12
+104251: [MPCADMIN] Fwd: Vacation day for Miriam, April 3
+104301: Re: [MPC-ADMINREQUEST] at home sick today
+104333: [MPCADMIN] Time off
+104383: [MPCADMIN] Fwd: Magennis vacation tracking
+104550: [MPCADMIN] Fabrizio - Family sick time report
+104552: [MPCADMIN] Upcoming vacation time
+104561: [MPCADMIN] Fwd:Carhart unpaid union leave 4/10 & 4/11
+104595: [MPC-ADMINREQUEST] Vladimir Vladykin, vacation request
+105315: [MPC-ADMINREQUEST] vacation time
+105325: [MPCADMIN] Fwd: Carhart union leave Thursday 4/12
+105469: Re: [MPCADMIN] vacation form
+105898: [MPCADMIN] Carhart union leave Thursday 4/19
+106078: [MPCADMIN] sick time
+106126: [MPCADMIN] Request "Dining Out For Life" announcement be sent to 50 Willey mailing list
+106142: [MPCADMIN] Eating Out to Support the Aliveness Project
+106229: [MPCADMIN] May vacation time
+106265: [MPCADMIN] Vacation Leave
+106269: [MPCADMIN] Carhart union leave 4/25/12
+106293: [MPCADMIN] Fwd: Carhart union leave (4/26)
+106309: [MPCADMIN] Need Cyan Ink Cartridge for printer in Blegen 420
+106314: [MPC-ADMINREQUEST] vacation tomorrow
+106342: [MPC-ADMINREQUEST] Clark vacation - 1 day, April 27th, 2012
+106470: [MPCADMIN] sick leave request
+106488: [MPCADMIN] vacation day 5/7
+106497: [MPCADMIN] Vacation Leave
+106522: [MPCADMIN] Time off
+106575: [MPCADMIN] Vacation Requests
+106634: [MPC-ADMINREQUEST] Magennis vacation day
+106640: [MPCADMIN] Carhart Union Leave Thursday & Friday 5/3-5/4
+106733: [MPC-ADMINREQUEST] Absence for 5/4/12 pm
+106782: [MPCADMIN] Half day vacation leave
+106876: [MPCADMIN] vacation request: May 21
+106879: [MPCADMIN] Vacation Leave Reporting Attached
+106983: [MPCADMIN] vacation
+107027: [MPCADMIN] MPC home page
+107096: [MPCADMIN] Sick day
+107228: [MPCADMIN] Time off
+107255: [MPCADMIN] vacation day - Friday
+107366: [MPC-ADMINREQUEST] clark sick day 5/14/12
+107373: [MPCADMIN] vacation
+107382: [MPCADMIN] Professional Development Request
+107423: [MPCADMIN] vacation request
+107508: [MPC-ADMINREQUEST] Pete Clark 1/2-day sick time - 5/16/12
+107537: [MPCADMIN] Vacation form for vacation day 5/15
+107553: [MPCADMIN] Vacation June 12-13
+107577: [MPCADMIN] Fwd: Carhart union leave today (Friday, 5/18/12)
+107799: [MPCADMIN] sick day
+107804: [MPCADMIN] Fwd: McKee P-card Purchase - Stata Journal order 1337626494
+107812: [MPCADMIN] vacation days next week
+107886: [MPCADMIN] sick day
+107891: [MPC-ADMINREQUEST] Out Friday, 5/25
+107910: [MPC-ADMINREQUEST] vacation day yesterday 05-22-2012
+107987: [MPC-ADMINREQUEST] vacation tomorrow - 05/24/2012
+108038: [MPCADMIN] Conference call for 5/31
+108043: [MPCADMIN] sick days for Mayo visit
+108064: [MPCADMIN] David Van Riper vacation request for June 14-15
+108065: [MPCADMIN] David Van Riper vacation request - 7/2-7/6
+108083: [MPCADMIN] Travel request document
+108097: [MPC-ADMINREQUEST] vacation request
+108143: [MPCADMIN] Jury duty next week
+108156: [MPCADMIN] telecommuting agreement
+108176: [MPCADMIN] Fwd: McKee P-card purchase Newegg.com External Hard Drive
+108183: [MPCADMIN] Fabrizio - family sick time report
+108204: [MPCADMIN] vacation day
+108205: [MPCADMIN] out friday, june 1
+108255: [MPCADMIN] Vacation request: June 18-22
+108263: [MPC-ADMINREQUEST] track June 11 vacation day
+108355: [MPCADMIN] Vacation Request
+108357: Re: [MPCADMIN] Vacation Request
+108380: [MPC-ADMINREQUEST] vaca day
+108415: [MPC-ADMINREQUEST] footrest
+108457: Re: [MPCADMIN] flextime
+108529: [MPC-ADMINREQUEST] Out Friday
+108613: [MPCADMIN] Fwd: Carhart union leave 6/7 & 6/8
+108745: [MPC-ADMINREQUEST] 0.5 vacation days for Pete Clark - June 11th, 2012
+108757: [MPCADMIN] Carhart union leave 6/12/12
+108817: [MPC-ADMINREQUEST] Out Wednesday, 6/13/12
+108829: [MPCADMIN] Half day sick leave
+108830: [MPCADMIN] Time off request
+108908: [MPCADMIN] Time off
+108910: Re: [MPCADMIN] Half day sick leave
+108916: [MPCADMIN] Leave request for 6/22
+108926: [MPC-ADMINREQUEST] Magennis vacation tracking
+108949: [MPCADMIN] vacation request
+108951: [MPCADMIN] sick days
+108992: [MPCADMIN] vacation time
+109033: [MPCADMIN] Vacation Request
+109128: [MPCADMIN] vacation request: 6/22
+109173: [MPCADMIN] Vacation Leave request
+109257: [MPCADMIN] McKee P-card purchase - MNCNP Job Board Posting
+109322: [MPC-ADMINREQUEST] July 5-6 Magennis vacation days
+109374: [MPCADMIN] Fwd: Melissa Brown sick leave
+109398: [MPCADMIN] Fabrizio family sick time report
+109426: [MPCADMIN] vacation request
+109460: [MPCADMIN] Fwd: [MPC-PA] P&A Personal Holiday Flexibility
+109463: [MPC-ADMINREQUEST] Vacation request for 7/3 & 7/5
+109464: [MPCADMIN] Vacation June and July
+109466: Re: [MPCADMIN] [MPC-PA] P&A Personal Holiday Flexibility
+109474: [MPCADMIN] out next week: m, tu, th, f
+109483: [MPCADMIN] vacation request
+109492: [MPCADMIN] Time off
+109503: [MPC-ADMINREQUEST] Vacation request for 7/6
+109506: [MPC-ADMINREQUEST] vacation: July 3rd, July 5th, and July 6th
+109507: [MPCADMIN] Vacation request: July 16-19
+109508: [MPCADMIN] Vacation Request
+109511: [MPCADMIN] vacation day - 7/6
+109523: [MPCADMIN] vacation request
+109528: [MPC-ADMINREQUEST] vaca day
+109532: [MPCADMIN] vacation request
+109533: [MPCADMIN] Fwd: Carhart Officers Leave 6/19-6/22 week
+109534: [MPCADMIN] Wendy Vacation time
+109535: [MPC-ADMINREQUEST] Vacation reporting - Pete Clark, July 2,3,5,6
+109536: [MPC-ADMINREQUEST] vaca day
+109545: [MPCADMIN] vacation request: 7/13 and 7/30-8/3
+109546: Re: [MPCADMIN] vacation request: 7/13 and 7/30-8/3
+109552: [MPCADMIN] Kne Vacation Leave Form
+109555: [MPCADMIN] electrical outlet
+109565: [MPCADMIN] Out sick Wednesday 7/11
+109571: [MPCADMIN] vacation day
+109586: [MPCADMIN] Fwd: Carhart union leave 7/12/12
+109587: [MPC-ADMINREQUEST] sick time
+109589: [MPCADMIN] Conference call
+109592: [MPCADMIN] vacation request
+109593: [MPC-ADMINREQUEST] vacation request form for vacation on 07-12-2012
+109594: [MPCADMIN] 1/2 day vacation today
+109595: Re: [MPCADMIN] 1/2 day vacation today
+109597: [MPC-ADMINREQUEST] Out Monday, 7/16
+109598: [MPCADMIN] Vacation Request
+109609: [MPC-ADMINREQUEST] Magennis vacation tracking
+109611: [MPCADMIN] sick time Friday
+109618: Re: [MPCADMIN] telecommuting agreement
+109622: [MPCADMIN] Fwd: Carhart union leave 7/17
+109643: [MPCADMIN] Fwd: Carhart union leave 7/19
+109647: [MPCADMIN] Fwd: Carhart union leave 7/20
+109656: [MPCADMIN] McKee P-Card Purchase Apple Order VESA Adaptors
+109658: [MPCADMIN] Personal Holiday Request
+109665: [MPCADMIN] sick leave request
+109667: [MPCADMIN] vacation request
+109678: [MPCADMIN] out friday
+109679: [MPCADMIN] Time off
+109682: [MPCADMIN] Sick Leave
+109683: [MPCADMIN] Fwd: Carhart union leave 7/25
+109693: [MPC-ADMINREQUEST] Vacation request for August
+109697: [MPCADMIN] Fwd: Carhart union leave 7/26
+109702: [MPCADMIN] Fabrizio - family sick time report
+109705: [MPCADMIN] Vacation Leave
+109708: [MPCADMIN] out sick today
+109709: [MPC-ADMINREQUEST] Magennis vacation tracking
+109716: [MPCADMIN] Pete Clark - 2.5 days vacation
+109728: [MPC-ADMINREQUEST] test message
+109730: [MPC-ADMINREQUEST] vaca day
+109734: [MPCADMIN] Fwd: Leave request 8/6
+109741: [MPC-ADMINREQUEST] VAC form
+109745: [MPCADMIN] Fwd: Carhart paid and unpaid union leave 8/1
+109752: [MPCADMIN] McKee P-card Purchase - USPS postage
+109754: [MPC-ADMINREQUEST] vacation 08/01/2012 (half day)
+109757: [MPCADMIN] Printer Ink Cartridge needed
+109767: [MPCADMIN] Time off
+109768: Re: [MPCADMIN] Time off
+109784: [MPCADMIN] Fwd: Carhart unpaid union leave 8/2
+109785: [MPCADMIN] printer p4015x
+109803: [MPCADMIN] July vacation
+109804: [MPCADMIN] vacation request
+109807: [MPCADMIN] out 8/8 pm; 8/9 all day
+109812: [MPCADMIN] Time off
+109823: [MPCADMIN] Fwd: Carhart union leave 8/9
+109825: [MPCADMIN] Sick day
+109829: [MPCADMIN] vacation request: 8/17
+109830: [MPCADMIN] Fwd: Carhart 2nd union leave of 8/9
+109831: [MPCADMIN] Vacation Reporting for Peter Clark - 3 days, Aug 6-8, 2012
+109850: [MPCADMIN] McKee P-card purchase
+109852: [MPCADMIN] Fwd: Carhart union leave 8/14
+109858: [MPCADMIN] McKee P-card Purchase - WIHE, JOE, and Chronice ads
+109866: [MPCADMIN] Borah Vacation Request 8-17-2012
+109867: [MPCADMIN] vacation request
+109882: [MPC-ADMINREQUEST] tracking sick day
+109897: [MPCADMIN] picking up some extra computers in 420 Blegen Hall
+109898: [MPCADMIN] Cathy vacation day
+109905: [MPCADMIN] vacation day - Friday 8/24
+109908: [MPCADMIN] Fwd: Carhart union leave 8/21 (end of day) and 8/22 (all)
+109909: [MPCADMIN] Black Ink Cartridge Needed
+109913: [MPCADMIN] Leave request - Aug. 27 & 28
+109930: [MPCADMIN] Fwd: Carhart union leave today (8/23)
+109932: [MPCADMIN] vacation day
+109937: [MPCADMIN] Time off
+109941: [MPCADMIN] Vacation days
+109951: [MPCADMIN] David Van Riper - 1 day of vacation for August 31, 2012
+109952: [MPCADMIN] David Van Riper vacation request for September 13-14
+109953: [MPCADMIN] Fwd: McCaa vacation
+109954: [MPC-ADMINREQUEST] Funding Application for SSHA '12
+109968: [MPCADMIN] McKee P-card purchase - Assoc of Black Sociologists job posting
+109971: [MPC-ADMINREQUEST] Vacation request
+109972: [MPCADMIN] vacation Friday
+109975: [MPC-ADMINREQUEST] Out this PM
+109976: [MPCADMIN] half day tomorrow afternoon
+109978: [MPC-ADMINREQUEST] vacation half day (8/30/2012) and full day (8/31/2012)
+109983: [MPCADMIN] Fwd: Carhart unpaid union leave 8/30
+109984: [MPCADMIN] vacation
+109998: [MPCADMIN] Vacation Request
+109999: Re: [MPCADMIN] Vacation Request
+110001: [MPCADMIN] Fabrizio vacation report 8/22 - 8/24 (2.5 days)
+110002: [MPCADMIN] vacation day
+110006: [MPC-ADMINREQUEST] Vacation Request
+110020: [MPCADMIN] Fwd: 2012-2013 Student-Staff Directory with TXT-U
+110022: [MPCADMIN] vacation day - form attached
+110025: [MPC-ADMINREQUEST] Magennis vacation days
+110030: [MPCADMIN] Fwd: Carhart union leave today 9/6
+110031: [MPCADMIN] Grant approval
+110039: [MPC-ADMINREQUEST] vacation time
+110048: [MPCADMIN] Access to room 29?
+110049: [MPCADMIN] Fwd: Carhart union leave 9/7
+110071: [MPCADMIN] out fri 9/14
+110072: [MPCADMIN] Vacation Request
+110077: [MPCADMIN] Fwd: McKee P-card JOE October Ad
+110078: [MPCADMIN] Fwd: Carhart Union leave 9/13
+110079: [MPCADMIN] Fwd: McKee P-card Purchase H NET Job Ad
+110089: [MPCADMIN] Fwd: Carhart union leave 9/14
+110091: [MPCADMIN] half day
+110092: [MPCADMIN] Vacation Request
+110100: [MPCADMIN] IT Core area laser jet complaining about being low on toner
+110101: [MPCADMIN] out rest of the day
+110105: [MPCADMIN] Vacation form
+110107: [MPCADMIN] vacation
+110114: [MPCADMIN] Vacation Request - September 2012
+110128: [MPCADMIN] Fwd: Carhart Out tuesday 9/18/12
+110130: [MPCADMIN] out rest of afternoon
+110132: [MPCADMIN] Fwd: half day sick leave today
+110133: Re: [MPCADMIN] half day sick leave today
+110134: [MPCADMIN] Fwd: Carhart union leave 9/20
+110140: [MPCADMIN] Time off
+110145: [MPCADMIN] Leave request
+110146: [MPCADMIN] Time off
+110147: [MPCADMIN] Out sick Wednesday 9/24
+110154: [MPCADMIN] Message about registering to vote to 50 Willey mailing list?
+110155: [MPCADMIN] half day vacation
+110165: [MPCADMIN] Fwd: Sick Day
+110168: [MPC-ADMINREQUEST] Dr appt this pm
+110172: [MPCADMIN] Kne Vacation Request
+110187: [MPC-ADMINREQUEST] Vacation Leave Requests
+110190: [MPCADMIN] Vacation Leave
+110195: [MPCADMIN] P&A sick time usage - 1 day - Pete Clark - 10/1/12
+110196: [MPCADMIN] Fwd: Carhart union leave 10/4 & 10/5
+110214: [MPCADMIN] Time off
+110216: [MPCADMIN] taking a vacation day - 10/9
+110224: [MPCADMIN] Leave Request
+110231: [MPCADMIN] Marcus Peterson vacation report
+110240: [MPCADMIN] Fwd: Carhart union leave 10/10
+110241: [MPCADMIN] vacation reporting
+110242: [MPCADMIN] Sick Leave for yesterday
+110251: [MPCADMIN] Vacation Request for 10-22-12
+110252: [MPCADMIN] Fwd: Carhart union leave 10/11 & 10/12
+110254: [MPCADMIN] vacation request, plus conference travel
+110255: [MPCADMIN] 4 hours of sick leave for David Van Riper
+110256: [MPCADMIN] vacation day
+110257: [MPC-ADMINREQUEST] Out this PM (Dr)
+110258: [MPCADMIN] Fwd: Carhart adjustment to 10/12 union leave total
+110259: [MPCADMIN] Fwd: McKee P-card JOE November faculty ad
+110260: [MPCADMIN] Sick day
+110261: [MPCADMIN] Time off
+110268: [MPC-ADMINREQUEST] vacation day
+110270: [MPCADMIN] Fwd: Carhart union leave 10/16
+110276: [MPCADMIN] Fwd: Carhart union leave 10/17
+110281: [MPC-ADMINREQUEST] vacation for 10/19/2012
+110284: [MPC-ADMINREQUEST] vacation day
+110291: [MPCADMIN] vacation day
+110293: [MPCADMIN] Fwd: Carhart union leave 10/18
+110296: [MPC-ADMINREQUEST] Out this AM
+110297: [MPCADMIN] Sick day (half)
+110298: [MPCADMIN] Fwd: Carhart union leave 10/19 & 10/23
+110302: [MPCADMIN] Out Monday sick half day 10/22
+110308: [MPCADMIN] P&A Vacation reporting - Pete Clark - Oct 18-19 2012
+110311: [MPC-ADMINREQUEST] Out sick
+110312: [MPCADMIN] out fri afternoon 10/26 and all day monday 10/29
+110313: [MPCADMIN] Vacation Leave
+110317: [MPCADMIN] Fwd: Rumore Vacation Request for November and Sick Day in October
+110319: [MPC-ADMINREQUEST] Out sick again
+110321: [MPCADMIN] Fwd: Carhart union leave 10/25
+110331: [MPCADMIN] Fabrizio vacation report - Sep 2012
+110332: [MPCADMIN] Fabrizio sick time report
+110335: [MPC-ADMINREQUEST] vacation day
+110337: [MPCADMIN] Sick Leave for Jason Borah
+110341: [MPCADMIN] half day of sick time for David Van Riper
+110346: [MPCADMIN] Fwd: Carhart union leave 10/30
+110348: [MPCADMIN] Vacation for October and November
+110351: [MPCADMIN] sick leave & vacation request
+110352: [MPCADMIN] vacation day
+110353: [MPCADMIN] Vacation Request
+110355: [MPCADMIN] Time off
+110357: [MPCADMIN] Fwd: Carhart union leave 11/1
+110367: [MPCADMIN] Pete Clark sick time: 1/2 day on 10/31, 1/2 day on 11/2.
+110382: [MPCADMIN] Pete Clark - sick day 11/5/12
+110383: [MPCADMIN] Funeral Leave
+110389: [MPCADMIN] Fwd: Carhart union leave 11/8
+110390: [MPCADMIN] taking the afternoon off...
+110391: [MPCADMIN] Fwd: Carhart union leave 11/8 REVISED
+110396: [MPCADMIN] Leave request 11/21/12
+110397: [MPCADMIN] morning fender bender
+110399: [MPCADMIN] taking some vacation time after TG - form attached
+110405: [MPC-ADMINREQUEST] vacation day - Vick
+110406: [MPCADMIN] David Van Riper - vacation request - November 2012
+110411: [MPCADMIN] Fwd: Carhart officers leave Friday 11/16
+110413: [MPC-ADMINREQUEST] Out Friday
+110415: [MPCADMIN] vacation request: 11/26
+110416: [MPC-ADMINREQUEST] Magennis vacation tracking
+110422: [MPCADMIN] vacation
+110424: [MPCADMIN] Fwd: Carhart union and officer's leave 11/15
+110427: [MPCADMIN] vacation days
+110430: [MPCADMIN] 1/2 day of sick leave for David Van Riper
+110432: [MPCADMIN] vacation day yesterday
+110435: [MPCADMIN] Marcus Peterson vacation report
+110436: [MPCADMIN] vacation sheet
+110437: [MPCADMIN] Sick Leave
+110439: [MPC-ADMINREQUEST] Vacation Day Request, 11-20-12
+110442: [MPCADMIN] Fwd: Carhart union leave 11/20
+110444: [MPCADMIN] out wed 11/21
+110449: [MPC-ADMINREQUEST] out tomorrow
+110452: [MPCADMIN] Time off
+110453: [MPCADMIN] Sick
+110454: [MPCADMIN] Vacation Reporting
+110457: [MPCADMIN] Fwd: Rumore Vacation Time for Wednesday, November 21
+110459: [MPCADMIN] Out 11/27
+110467: [MPCADMIN] test msg
+110468: [MPCADMIN] Fwd: Vacation reporting - peter clark - Nov 21st and 1/2 of Nov 26th
+110471: [MPCADMIN] sick day
+110472: [MPC-ADMINREQUEST] vacation on 11/30/2012
+110487: [MPC-ADMINREQUEST] Absence for Tuesday
+110491: [MPCADMIN] sick leave request
+110494: [MPCADMIN] going home sick for rest of day
+110499: [MPCADMIN] Coursolle sick day
+110500: [MPCADMIN] Fwd: Carhart union leave 12/5
+110502: [MPCADMIN] Fwd: Carhart union leave 12/6
+110509: [MPCADMIN] Fwd: Carhart additional union leave 12/6
+110511: [MPCADMIN] vacation request: 12/14
+110512: [MPCADMIN] 1/2 day today
+110521: [MPCADMIN] out mon 12/10
+110522: [MPCADMIN] Fwd: Carhart union leave 12/7
+110529: [MPCADMIN] Fwd: Carhart union leave 12/11
+110530: [MPCADMIN] vacation time today (half-day)
+110541: [MPCADMIN] vacation sheet
+110542: [MPCADMIN] Fwd: sick leave
+110543: [MPCADMIN] vacation request: 12/26-27
+110545: [MPCADMIN] P&A personal holiday reporting
+110551: [MPCADMIN] Vacation Day
+110553: [MPCADMIN] Personal Holiday Vacation Request
+110554: [MPCADMIN] vacation in February
+110560: [MPCADMIN] Time off
+110561: [MPC-ADMINREQUEST] Vacation Leave Request
+110562: [MPCADMIN] personal holiday and vacation request for David Van Riper
+110566: [MPCADMIN] Personal holiday 12/18/12
+110569: [MPCADMIN] vacation day tomorrow
+110570: [MPCADMIN] Vacation Request - December 2012
+110571: [MPC-ADMINREQUEST] Magennis vacation tracking
+110574: Re: [MPCADMIN] vacation request: 12/26-27
+110575: [MPCADMIN] Personal Holiday
+110578: [MPC-ADMINREQUEST] SICK TIME used
+110579: [MPC-ADMINREQUEST] vacation time
+110580: [MPC-ADMINREQUEST] Vacation request
+110581: [MPCADMIN] Sick Time
+110582: [MPCADMIN] Sick day
+110583: Re: [MPCADMIN] Sick day
+110585: [MPCADMIN] Vacation Request
+110590: Re: [MPCADMIN] Sick day
+110591: Re: [MPCADMIN] Sick day
+110592: [MPCADMIN] december vacation
+110593: [MPCADMIN] vacation
+110594: [MPCADMIN] vcacation
+110595: [MPCADMIN] Taking Boxing Day off
+110596: [MPCADMIN] Time off
+110597: [MPCADMIN] Fwd: Rumore Vacation Sheet for Last Week
+110598: [MPCADMIN] Fwd: Rumore February Vacation Request
+110599: [MPCADMIN] out thur. 12/27
+110600: [MPCADMIN] Taking a half day
+110601: Re: [MPCADMIN] Working a half day today
+110602: [MPCADMIN] Fitch - vacation/sick time
+110603: [MPCADMIN] Vacation form wlt
+110604: [MPCADMIN] Sick day
+110605: [MPCADMIN] Kne Time Off
+110606: [MPCADMIN] vacation day form
+110607: [MPC-ADMINREQUEST] vacation time
+110609: [MPC-ADMINREQUEST] 4 Magennis vacation days
+110610: [MPCADMIN] Fwd: Carhart union leave 1/3
+110611: [MPC-ADMINREQUEST] vacation time
+110612: [MPCADMIN] out sick today
+110615: [MPCADMIN] Time off
+110620: [MPCADMIN] Fwd: Carhart officers leave & unpaid union leave 1/8/13
+110622: [MPC-ADMINREQUEST] revised vacation form
+110626: [MPCADMIN] Fwd: Carhart union leave 1/9
+110627: [MPCADMIN] Fabrizio vacation report
+110630: [MPCADMIN] Fabrizio vacation report - 1/8/13
+110632: [MPCADMIN] Sick Leave
+110633: [MPCADMIN] Vacation Leave
+110634: [MPCADMIN] Fwd: Carhart Doctor and union leave 1/10/13
+110636: [MPCADMIN] Marcus Peterson vacation report
+110638: [MPCADMIN] Fwd: McKee P-card purchase - SHRM Annual Conference Registration
+110639: [MPC-ADMINREQUEST] half day vacation today
+110642: [MPCADMIN] Vacation day
+110643: [MPCADMIN] P&A Vacation reporting - Peter Clark, 10 days
+110647: [MPCADMIN] Fwd: Carhart Union Leave 1/15
+110648: [MPC-ADMINREQUEST] half day vacation
+110652: [MPCADMIN] Fwd: Carhart union leave 1/16 & 1/17
+110654: [MPCADMIN] Vacation days and personal leave
+110659: [MPC-ADMINREQUEST] vacation on 01/18/2013
+110667: [MPCADMIN] Fwd: Carhart union leave 1/18
+110669: [MPCADMIN] effort adjustment for Sheela Kennedy
+110672: [MPCADMIN] Adobe Professional?
+110675: [MPC-ADMINREQUEST] cancel 1 vacation day
+110679: [MPC-ADMINREQUEST] going home sick
+110681: [MPCADMIN] vacation request
+110682: [MPC-ADMINREQUEST] Another sick day
+110694: [MPCADMIN] David Van Riper vacation requests
+110695: [MPCADMIN] Fwd: Order for 23 Steelcase Leap chairs
+110703: [MPC-ADMINREQUEST] Advil empty
+110704: [MPCADMIN] 1 day of sick leave for David Van Riper
+110705: [MPCADMIN] PAA travel request
+110708: [MPCADMIN] Sarkar PAA Travel Request
+110709: [MPCADMIN] Fwd: Carhart union leave 1/31
+110717: [MPCADMIN] Time off
+110718: [MPCADMIN] out mon. 2/4
+110720: [MPC-ADMINREQUEST] Vacation Request
+110721: [MPC-ADMINREQUEST] Vacation request
+110728: [MPC-ADMINREQUEST] Magennis vacation days
+110729: Re: [MPCADMIN] out mon. 2/4
+110730: [MPCADMIN] Fwd: Rodrigo Lovaton Distrib Change
+110739: [MPCADMIN] Time off (half day)
+110740: [MPCADMIN] vacation(s) request: 2/15 and 3/25-29
+110741: [MPCADMIN] Intereum P.O. Request - Lounge, Steve's Ofc, Etc.
+110742: [MPCADMIN] Fwd: effort reallocation for Jason Goray
+110743: [MPCADMIN] taking the afternoon off
+110744: [MPCADMIN] Vacation
+110758: [MPCADMIN] Fwd: Carhart union leave Friday 2/8
+110766: [MPCADMIN] Fwd: Carhart union leave 2/12
+110772: [MPCADMIN] Vick PAA Travel
+110776: [MPCADMIN] MPC Outstanding Research Award
+110780: [MPCADMIN] Fwd: Carhart union leave 2/14
+110781: [MPCADMIN] Fwd: Rumore February Vacation Form
+110784: [MPCADMIN] Fwd: McKee P-card Purchase Amazon.com
+110785: [MPCADMIN] Travel request for Cleveland
+110786: [MPCADMIN] Vacation Request
+110787: [MPCADMIN] Fwd: Carhart union leave 2/15
+110789: [MPCADMIN] out sick mon. 2/18
+110790: [MPCADMIN] Lightner telecommuting agreement
+110791: [MPCADMIN] McKee P-card Purchase -OSA crystal awards
+110792: [MPCADMIN] Fwd: MSI combocode for Kerrie's payroll
+110794: Re: [MPCADMIN] MSI combocode for Kerrie's payroll
+110796: [MPCADMIN] sick leave request
+110797: [MPCADMIN] David Van Riper - half day of vacation request
+110802: [MPCADMIN] Time off
+110803: [MPCADMIN] Fwd: Carhart union leave 2/20
+110804: [MPCADMIN] Fwd: Pete Clark sick day - 1/2-day, Feb 20th
+110807: [MPCADMIN] MPC policy re: new conferencing services
+110810: [MPCADMIN] vacation day 2/22
+110811: [MPCADMIN] vacation day mon feb 25
+110823: [MPCADMIN] Request from Kathy Fennelly about announcing her upcoming retirement
+110828: [MPC-ADMINREQUEST] Half day vacation tomorrow
+110835: [MPC-ADMINREQUEST] half day vacation
+110836: [MPCADMIN] sick day
+110837: [MPCADMIN] Fwd: McKee P-card Purchase Stack Overflow Careers Ad
+110840: [MPCADMIN] Vacation Day 3/8/13
+110841: [MPCADMIN] taking a half day this afternoon
+110842: [MPCADMIN] out tues. 3/5
+110843: [MPCADMIN] vacation
+110844: [MPCADMIN] ATUS travel to Oxford
+110845: [MPCADMIN] Vacation time
+110846: [MPCADMIN] Sociology Job Talk on "Population Dynamics and Network Dynamics" on Thursday at 4:00
+110847: [MPCADMIN] Fabrizio sick time report
+110850: [MPCADMIN] Fwd: Carhart union leave 3/6
+110852: [MPCADMIN] Fwd: McCaa vacation, out of town: Mar 11-15 (Baltimore/DC), Apr 1-5 (Belize)
+110853: [MPCADMIN] vacation form for tues. 3/5
+110857: [MPCADMIN] Time off
+110858: [MPCADMIN] Fwd: Carhart union leave Friday 3/8/13
+110859: [MPCADMIN] McKee P-card Receipt - LinkedIn Job Posting
+110862: [MPC-ADMINREQUEST] Magennis 2 days vacation tracking
+110863: [MPCADMIN] Sick time reporting for Pete Clark
+110864: [MPCADMIN] vacation request
+110865: [MPCADMIN] Vacation request
+110871: [MPCADMIN] Fwd: Carhart union leave 3/12
+110873: [MPC-ADMINREQUEST] vacation tomorrow (03/13)
+110874: [MPCADMIN] Fwd: McKee P-card Purchase LinkedIn Order 63091340
+110879: [MPCADMIN] vacation day yesterday
+110881: [MPCADMIN] Professional Development Request: Miriam King
+110882: [MPCADMIN] out friday 3/15 vacation
+110883: [MPCADMIN] Sick Leave
+110884: [MPCADMIN] Fwd: Carhart officers leave today 3/14
+110885: [MPCADMIN] Fwd: Carhart Union leave 3/13
+110886: [MPCADMIN] McKee P-card Purchase TECHdotMN Job Posting
+110888: [MPCADMIN] effort adjustment
+110889: [MPCADMIN] Anthony Gerbi Salary Distribution Change
+110890: [MPCADMIN] Vacation day
+110891: [MPCADMIN] Fwd: Carhart union and officer's leave today 3/15
+110897: [MPCADMIN] Sick Leave
+110898: [MPC-ADMINREQUEST] Vacation day
+110901: [MPCADMIN] sick day
+110903: [MPCADMIN] David Van Riper - half day vacation request
+110904: [MPC-ADMINREQUEST] sick day
+110908: [MPCADMIN] Fwd: Carhart union leave 3/19
+110912: [MPCADMIN] McKee P-card Purchase - LinkedIn Order 63841714
+110913: [MPCADMIN] Heading home/sick day
+110915: [MPC-ADMINREQUEST] Vacation request for 3/21/13 (funeral)
+110923: [MPCADMIN] PAA travel approved and effort adjustment
+110924: [MPCADMIN] PAA travel approved
+110925: Re: [MPCADMIN] PAA travel approved and effort adjustment
+110926: [MPCADMIN] Vacation day
+110928: [MPC-ADMINREQUEST] sick day today
+110933: [MPCADMIN] vacation form for 3/25
+110935: [MPCADMIN] Prof Dev request - Clark & Kugler to FOSS-4G conference - please expedite
+110938: [MPCADMIN] Marcus Peterson vacation report
+110939: [MPCADMIN] Fwd: Carhart union leave today (3/28)
+110942: [MPCADMIN] resubmission - Clark/Kugler FOSS4G conference
+110943: [MPCADMIN] vacation day 3/29
+110944: [MPC-ADMINREQUEST] Vladimir Vladykin, vacation request 03/29/2013-- 4/03/2013, 07/08/1213 -- 08/29/2013
+110946: [MPCADMIN] Fwd: Carhart union leave 3/29
+110947: [MPCADMIN] taking a half day today
+110948: [MPCADMIN] out Monday 4/1 sick
+110949: [MPCADMIN] Sick
+110955: [MPCADMIN] professional development request - Alex Jokela, OSCON 2013
+110956: [MPCADMIN] Coursolle PAA travel
+110957: [MPCADMIN] Sick
+110960: [MPCADMIN] McKee P-card Purchase - R/T airfare SHRM Annual Conference 6/16 & 6/19
+110961: [MPCADMIN] Fwd: Carhart union leave 4/3
+110965: [MPCADMIN] Fwd: McKee P-card Purchase - Stack Overflow Careers Order #60231
+110966: [MPCADMIN] Sick Leave
+110968: Re: [MPC-ADMINREQUEST] CORRECTED: Vladimir Vladykin, vacation request 03/29/2013-- 4/03/2013, 07/08/1213 -- 08/2/2013
+110969: Re: [MPC-ADMINREQUEST] CORRECTED: Vladimir Vladykin, vacation request 03/29/2013-- 4/03/2013, 07/08/1213 -- 08/2/2013
+110970: [MPCADMIN] Fwd: Carhart officer's leave 4/5
+110973: [MPCADMIN] sick day
+110974: [MPCADMIN] taking a half day today
+110976: [MPCADMIN] Time off
+110977: [MPCADMIN] Sick day
+110980: [MPCADMIN] out Thur 4/11 vacation
+110983: [MPCADMIN] Fwd: Carhart union leave 4/9
+110985: [MPCADMIN] Fwd: Carhart union leave 4/11
+110986: Re: [MPCADMIN] out Thur 4/11 vacation
+110987: [MPCADMIN] Fwd: Carhart union leave 4/12
+110991: [MPC-ADMINREQUEST] FMLA leave
+110996: [MPCADMIN] 3.5 hours of sick leave for David Van Riper
+111004: [MPCADMIN] 2013 commuter challenge-- MPC participating?
+111005: [MPCADMIN] taking a half day
+111007: [MPCADMIN] Fwd: Invoice
+111008: [MPCADMIN] vacation request
+111009: [MPCADMIN] out Fri 4/19 vacation
+111010: Re: [MPCADMIN] out Fri 4/19 vacation
+111011: [MPCADMIN] Fwd: Sick leave used
+111017: [MPCADMIN] Fabrizio sick time report
+111018: [MPCADMIN] Fabrizio Vacation Requests, May-June 2013
+111019: [MPCADMIN] Vacation request: Friday afternoon (half day)
+111020: [MPCADMIN] Fwd: Carhart union leave 4/24
+111022: [MPCADMIN] Marcus Peterson vacation report
+111023: [MPCADMIN] Vacation 1/2 day Friday
+111024: [MPCADMIN] taking a half day tomorrow
+111025: [MPCADMIN] Fwd: Carhart union leave 4/25
+111026: [MPC-ADMINREQUEST] Fwd: vacation tomorrow (03/13)
+111027: [MPCADMIN] Vacation request: 1/2 day, 4/25 (yesterday)
+111034: [MPC-ADMINREQUEST] Fwd: FMLA leave
+111035: [MPCADMIN] out Mon half day 4/29 vacation
+111037: [MPCADMIN] Time off
+111038: [MPC-ADMINREQUEST] Vacation doc for 4/29/13
+111039: [MPCADMIN] Vacation day
+111042: [MPC-ADMINREQUEST] vacation time
+111045: [MPCADMIN] Sick day
+111046: [MPC-ADMINREQUEST] home with sick kid
+111048: Re: [MPCADMIN] Vacation day
+111050: [MPCADMIN] sick day
+111056: [MPCADMIN] half day of vacation
+111057: [MPCADMIN] Leave Request 5/8/13
+111061: [MPC-ADMINREQUEST] vacation tracking
+111065: [MPCADMIN] Fabrizio vacation change
+111068: [MPCADMIN] taking a half day
+111071: Re: [MPCADMIN] taking a half day
+111076: [MPCADMIN] Fitch - vacation
+111077: [MPC-ADMINREQUEST] vacation
+111080: [MPCADMIN] Fwd: Carhart union leave 5/9/13
+111085: [MPC-ADMINREQUEST] FMLA leave request
+111089: [MPCADMIN] taking a half day tomorrow
+111094: [MPCADMIN] Time off
+111098: [MPCADMIN] out Fri half day 5/17 vacation
+111099: [MPCADMIN] Fwd: Carhart union leave 5/17, 5/21 & 5/22
+111100: [MPC-ADMINREQUEST] 2 vacation days
+111101: [MPC-ADMINREQUEST] June vacation days, Magennis
+111104: [MPCADMIN] Fwd: Sobek Sick day
+111106: [MPCADMIN] P-card Receipt - McKee SEVIS Fee for New Employee
+111110: [MPCADMIN] Vacation request: May 28-29
+111111: [MPCADMIN] 2 days of sick leave requested for David Van Riper
+111114: [MPCADMIN] vacation request: 5/24
+111116: [MPC-ADMINREQUEST] Vacation leave requests
+111117: [MPCADMIN] taking a half day today
+111120: [MPCADMIN] vacation leave
+111121: [MPCADMIN] Travel request IASSIST 2013
+111122: [MPCADMIN] half sick day today
+111123: [MPCADMIN] Time off
+111126: [MPCADMIN] Vacation: 5/24 half day; 5/28 full day
+111127: [MPCADMIN] sick day
+111129: [MPC-ADMINREQUEST] Out tomorrow (Friday, May 24th)
+111130: [MPCADMIN] taking a half day today
+111132: [MPC-ADMINREQUEST] vacation time
+111133: [MPCADMIN] Kne Vacation Request
+111134: [MPCADMIN] Time off
+111137: [MPCADMIN] Vacation time
+111138: [MPCADMIN] Lap's effort
+111139: [MPCADMIN] McKee P-card Receipt - GIS Jobs Clearinghouse Ad
+111140: [MPCADMIN] Time off
+111141: [MPCADMIN] Marcus Peterson personal holiday 5/24
+111145: [MPCADMIN] Vacation Leave
+111146: [MPCADMIN] taking a half day today
+111147: [MPCADMIN] 1/2 Sick Day for Tuesday, 5/28
+111148: [MPC-ADMINREQUEST] half day today
+111149: [MPCADMIN] Vacation requests
+111150: [MPCADMIN] out half day 6/3
+111160: [MPCADMIN] Vacation Form for Gina Rumore
+111163: [MPCADMIN] Taking a half day
+111164: [MPCADMIN] vacation days
+111165: [MPCADMIN] Sick
+111166: [MPCADMIN] effort distribution Sobek
+111167: [MPCADMIN] distribution changes (Fitch and Thomas) post-1960
+111170: Re: [MPCADMIN] Taking a half day
+111171: [MPCADMIN] Jonathan Schroeder's effort change
+111172: [MPCADMIN] David Van Riper effort allocation
+111175: [MPCADMIN] Effort allocations
+111176: Re: [MPCADMIN] distribution changes (Fitch and Thomas) post-1960
+111187: [MPC-ADMINREQUEST] Out tomorrow AM, Dr's appt
+111188: [MPCADMIN] professional development form for Tom Lynch
+111196: [MPC-ADMINREQUEST] Vacation Request, June 7th PM
+111198: [MPCADMIN] Taking a half day today
+111199: Re: [MPCADMIN] Taking a half day today
+111204: [MPCADMIN] Fwd: Out sick
+111205: [MPCADMIN] vacation request: 6/12 (1/2 day), 7/1-5
+111206: [MPCADMIN] Taking a half day
+111207: [MPC-ADMINREQUEST] vacation tomorrow 6/11
+111209: Re: [MPCADMIN] Taking a half day
+111212: Re: [MPCADMIN] Taking a half day
+111220: [MPCADMIN] out friday june 14
+111221: [MPCADMIN] Notice of Award: MPC Research Development Program
+111222: [MPC-ADMINREQUEST] vacation time
+111223: [MPCADMIN] vacation sheet
+111225: [MPCADMIN] Taking a half day today
+111238: Re: [MPCADMIN] Taking a half day today
+111242: [MPCADMIN] Reimbusement request
+111243: [MPCADMIN] Vacation days
+111248: [MPC-ADMINREQUEST] vacation time tomorrow
+111249: [MPCADMIN] Home Sick Today.
+111250: [MPCADMIN] Sick Leave
+111251: [MPCADMIN] Vacation reporting for Pete Clark - 2 weeks, 1 day
+111252: [MPCADMIN] Friday 6/21
+111254: [MPCADMIN] Jesse's effort allocation
+111255: Re: [MPCADMIN] Jesse's effort allocation
+111258: [MPC-ADMINREQUEST] Vacation request for 7/1, 7/5 & 7/8
+111259: [MPCADMIN] Time off
+111261: [MPCADMIN] Jason Goray vacation for 06/21/2013
+111262: [MPCADMIN] Jason Goray sick time for 06/20/2013
+111264: [MPCADMIN] Out of office 7/5
+111267: [MPCADMIN] Time off
+111268: [MPCADMIN] Time off
+111270: [MPCADMIN] Fwd: utah effort
+111272: [MPCADMIN] vacation
+111280: [MPCADMIN] half day vacation form attached
+111281: [MPCADMIN] 1/2-day sick leave for Pete Clark
+111282: [MPC-ADMINREQUEST] vacation for the afternoon
+111286: [MPC-ADMINREQUEST] Vacation time request
+111291: [MPC-ADMINREQUEST] vacation day
+111293: [MPCADMIN] David Van Riper vacation request for July 5, 2013
+111294: [MPCADMIN] Time off
+111295: [MPCADMIN] out wed/fri july 3/5
+111298: [MPC-ADMINREQUEST] Magennis vacation tracking
+111299: [MPCADMIN] Jeff Kerzner cleanup from mailing lists
+111300: Re: [MPCADMIN] current effort allocation for Jason Goray?
+111301: [MPC-ADMINREQUEST] vacation July 5 to 12
+111302: Re: [MPCADMIN] current effort allocation for Jason Goray?
+111304: [MPCADMIN] Fabrizio sick time report
+111306: [MPCADMIN] vacation 7/5
+111308: [MPCADMIN] sick time
+111309: Re: [MPCADMIN] sick time
+111310: [MPCADMIN] P&A Vacation Time
+111311: [MPCADMIN] partial sick day
+111315: [MPCADMIN] leave request form
+111316: [MPCADMIN] Marcus Peterson vacation report
+111317: [MPCADMIN] July 1-3 Vacation and July 5 Personal Holiday
+111321: [MPCADMIN] Vacation Leave
+111322: [MPCADMIN] Jason Goray vacation for 06/28 and 07/05, 2013
+111323: [MPCADMIN] sick day
+111325: [MPCADMIN] July vacation request
+111326: [MPCADMIN] Fwd: vacation day tomorrow
+111327: [MPCADMIN] Vacation Request
+111329: [MPCADMIN] sick time
+111331: [MPCADMIN] Vacation request: July 18, 18, 22 plus half-day today
+111335: [MPC-ADMINREQUEST] Fwd: paper on our website
+111338: [MPCADMIN] vacation request: 7/19 (1/2 day), 8/16, 8/26-30
+111339: [MPCADMIN] P&A sick time usage
+111340: [MPCADMIN] Time off
+111343: [MPCADMIN] sick time reporting
+111347: [MPCADMIN] David Van Riper vacation request for 7/19/2013
+111353: [MPCADMIN] out mon july 22
+111354: [MPCADMIN] Fwd: McCaa 7 days vacation: 7/18-7/29
+111356: [MPCADMIN] Vacation Form
+111362: [MPCADMIN] Vacation Request form for Gina Rumore 8/7-8/9
+111363: [MPCADMIN] Time off
+111365: [MPCADMIN] Upcoming vacation days
+111366: [MPC-ADMINREQUEST] Vacation time request, 7-25 to 7-26
+111368: [MPCADMIN] sick time reporting
+111369: [MPCADMIN] vacation request 7/25-8/2
+111370: [MPC-ADMINREQUEST] vacation time
+111371: [MPCADMIN] vacation
+111372: [MPCADMIN] Jason Goray vacation for 07/19 and 07/22, 2013
+111376: [MPCADMIN] Fwd: vacation leave form
+111378: [MPC-ADMINREQUEST] sick day tomorrow 7/29
+111380: [MPCADMIN] 4 hours of sick time for Jason Goray on 7/29/2013
+111385: [MPCADMIN] Vacation Leave
+111386: [MPCADMIN] Sick 7/30/2013
+111387: [MPC-ADMINREQUEST] sick day today too
+111388: [MPCADMIN] 1/2 day sick leave for David Van Riper
+111389: [MPCADMIN] Reporting 3 sick days
+111392: [MPCADMIN] Fwd: Variables for 2000 census
+111393: [MPCADMIN] sick and vacation time for July
+111396: [MPCADMIN]
+111397: [MPCADMIN] Vacation Request
+111399: [MPCADMIN] Vacation Reporting Form - for July 31, 2013
+111400: [MPC-ADMINREQUEST] Sick Leave for 7/25/13
+111404: [MPCADMIN] vacation for 2Aug2013
+111405: [MPCADMIN] Pete Clark Vacation - 2.5 days, July 29th thru 31st.
+111406: [MPCADMIN]
+111407: [MPCADMIN] out fri august 2 pm and august 5
+111408: [MPC-ADMINREQUEST] Out Monday, 8/5 (Vac request)
+111409: [MPCADMIN] Leave Request
+111411: [MPCADMIN] vacation
+111412: [MPC-ADMINREQUEST] vacation day today
+111418: [MPCADMIN] Vacation Request
+111419: Re: [MPCADMIN] Half day Monday morning
+111425: [MPCADMIN] sick time reporting
+111426: [MPCADMIN] vacation time reporting
+111428: [MPCADMIN] Vacation reporting - pclark, 1 day, Aug 5th
+111429: [MPCADMIN] Personal day
+111430: [MPCADMIN] Sick Leave
+111432: [MPCADMIN] Professional Development fund request for Jason Borah
+111434: [MPC-ADMINREQUEST] vacation tomorrow 8/8
+111443: [MPCADMIN] Fwd: vac form
+111444: [MPCADMIN] Sick Time for Monday, August 6
+111445: [MPCADMIN] 8/9 Afternoon off
+111446: [MPCADMIN] 4 hours of sick time for Jason Goray on 8/2/2013
+111447: [MPCADMIN] Jason Goray vacation for July31 and Aug07, 2013
+111448: Re: [MPCADMIN] 4 hours of sick time for Jason Goray on 8/2/2013
+111449: [MPCADMIN] APPROVED Re: ASA travel request
+111450: [MPCADMIN] David Van Riper vacation request for 8/16/2013
+111451: [MPCADMIN] Vacation Request
+111452: [MPCADMIN] Vacation Reporting Form - for August 9, 2013
+111453: [MPC-ADMINREQUEST] vacation
+111454: [MPCADMIN] Fwd: McCaa vacation request Aug 12-21
+111460: [MPCADMIN] Leave request - Wednesday afternoon (8/14)
+111463: [MPCADMIN] sick leave request
+111464: [MPCADMIN] Marcus Peterson vacation report
+111465: [MPCADMIN] Fwd: Sound Masking Quote
+111477: [MPCADMIN] 1 sick day, 1 vacation day
+111478: [MPCADMIN] Fwd: McCaa cutting vacation short 2 days; delivered IPUMS message to North Korea border guard
+111481: Re: [MPCADMIN] Jason Goray vacation for Jul31, Aug07, and Aug14 2013
+111482: [MPC-ADMINREQUEST] vacation 8/14-8/15
+111486: [MPCADMIN] Professional Development Request Approved - MN GIS/LIS Conference
+111497: [MPCADMIN] Time off
+111499: [MPCADMIN] vacation time reporting
+111500: Re: [MPCADMIN] ISI Travel Funds Request Form
+111501: [MPC-ADMINREQUEST] Vacation time request
+111502: [MPCADMIN] Kevin Horne vacation time
+111503: [MPCADMIN] 1/2 day vacation request for 8/19/2013
+111513: [MPCADMIN] Personal holiday August 30th
+111514: [MPCADMIN] Jason Goray vacation for Aug21 2013
+111515: [MPC-ADMINREQUEST] Vacation request: Friday, August 30th
+111518: [MPCADMIN] out friday 8/23 pm
+111519: [MPCADMIN] Time off
+111520: [MPCADMIN] out sick mon. 8/26
+111521: [MPCADMIN] Kevin Horne vacation time : Friday August 23
+111522: [MPCADMIN] vacation time reporting
+111523: [MPCADMIN] vacation day last Friday
+111524: [MPCADMIN] Kevin Horne effort allocation
+111525: [MPCADMIN] Marcus Peterson vacation report
+111526: [MPCADMIN] Sick leave and Vacation this week
+111530: [MPCADMIN] McKee P-card Purchase - ASA Job Bank posting
+111533: [MPCADMIN] Vacation reporting - Pete Clark, Aug 26th
+111534: [MPCADMIN] Vacation
+111535: [MPC-ADMINREQUEST] vacation tomorrow 8/30
+111536: [MPCADMIN] McKee P-card Purchase WIHE.com Order
+111539: Fwd: poster?
+111540: [MPCADMIN] out friday 8/30 pm
+111552: [MPCADMIN] Time off
+111560: [MPCADMIN] Time off
+111562: [MPC-ADMINREQUEST] vacation day 9/3
+111565: [MPCADMIN] sick time reporting
+111568: [MPCADMIN] Fwd: The Chronicle of Higher Ed- Print Ad Invoice - Order # 792301
+111571: [MPCADMIN] Fwd: McKee P-card Purchase - JOE Ad for Faculty Search
+111574: [MPCADMIN] Fwd: Xerox ColorQube 8570 warranty/service agreement expiring
+111576: [MPCADMIN] out friday 9/6
+111586: [MPCADMIN] Vacation day - Friday 9/27
+111587: [MPCADMIN] out sick Monday 9/9
+111588: [MPCADMIN] Sick Day
+111595: [MPCADMIN] Fwd: McKee P-card Purchase - AAG Job Ad for Faculty Search
+111596: [MPCADMIN] Fwd: McKee P-card Purchase - Faculty ad in AHA Perspectives
+111600: [MPC-ADMINREQUEST] vacation day
+111601: [MPCADMIN] 8 hours of sick time for Jason Goray on 9/10/2013
+111605: [MPCADMIN] half day on Friday
+111607: [MPCADMIN] Vacation Request Form
+111610: [MPCADMIN] Vacation Request
+111611: [MPCADMIN] Planned conference travel: Oct. 9-11
+111617: [MPCADMIN] Vacation day Monday 9/16
+111619: [MPCADMIN] Time off
+111631: [MPCADMIN] Jason Goray vacation for Sep13 2013
+111632: [MPCADMIN] McKee P-card Receipt - LinkedIn Job Posting
+111633: [MPCADMIN] Time off
+111634: [MPCADMIN] Vacation half day
+111636: [MPC-ADMINREQUEST] Magennis vacation day
+111637: [MPCADMIN] McKee P-card Receipt - StackOverflow Job Posting
+111639: [MPCADMIN] Vacation 9/20
+111643: [MPCADMIN] vacation time
+111644: [MPCADMIN] Fwd: American Journal of Epidemiology, 9-17-13, 30 Day Online Job Posting: Invoice
+111645: [MPCADMIN] Fwd: McKee P-card Purchase LinkedIn Order 1114301201
+111647: [MPCADMIN] SSHA travel requests: Charleroy & Nelson
+111648: [MPCADMIN] Sick Leave
+111649: [MPC-ADMINREQUEST] Sick days - 9/19 & 9/23
+111652: [MPCADMIN] Vacation Leave
+111657: [MPCADMIN]
+111658: Re: [MPCADMIN] Vacation day Monday 9/16
+111661: [MPCADMIN] Request for Professional Development Time
+111664: [MPCADMIN] McKee P-card Purchase - LinkedIn Order 1183965401
+111668: [MPC-ADMINREQUEST] vacation time request
+111671: [MPCADMIN] Marcus Peterson vacation report
+111676: [MPCADMIN] Personal Holiday for 9/27
+111677: [MPCADMIN] Fabrizio Vacation
+111678: [MPCADMIN] Sick Leave
+111681: [MPCADMIN] McKee P-card Receipt - Two LinkedIn Job Postings
+111682: [MPCADMIN] sick
+111684: [MPC-ADMINREQUEST] Vacation Time Request, 10/1, 10/7-10/11
+111685: [MPCADMIN] P&A sick/medical leave time reporting
+111689: [MPCADMIN] half day on Monday
+111690: [MPCADMIN] Sarkar effort adjustment
+111692: [MPCADMIN] Sarkar travel form
+111693: [MPCADMIN] McKee P-card Purchase - Association of Black Sociologists
+111694: [MPCADMIN] Out sick
+111696: [MPCADMIN] Black Toner
+111698: [MPCADMIN] vacation request, 1 day, 10/17
+111699: [MPCADMIN] home with a sick child
+111700: [MPC-ADMINREQUEST] Vacation form for 10/4/13
+111701: [MPCADMIN] Kevin Horne uses three days vacation
+111703: [MPCADMIN] Sick 10/7/2013
+111704: [MPCADMIN] Vacation Request for Gina Rumore 10/17-10/18
+111706: [MPCADMIN] Fwd: sick day today
+111709: [MPCADMIN] Sheela Kennedy Effort
+111710: [MPCADMIN] Fabrizio Vacation
+111712: [MPC-ADMINREQUEST] Vick vacation time 10/17-18
+111713: [MPCADMIN] Fwd: MPC Outstanding Research Award
+111714: [MPCADMIN] Sick Leave
+111717: [MPC-ADMINREQUEST] half day vacation today - leaving now
+111719: [MPCADMIN] sick day
+111720: [MPCADMIN] sick leave Thurs., Oct. 10
+111721: [MPCADMIN] McKee P-card Purchase - LinkedIn Orders 1234794501, 1306849101 & 1388847001
+111723: [MPCADMIN] Vacation Reporting Form - for Oct 7 - Oct 10, 2013
+111724: [MPCADMIN] P&A sick/medical leave time
+111726: [MPCADMIN] Vacay form for monday the 14th
+111729: [MPCADMIN] Ellen Manovich Fellowship - Distribution Change & HSA
+111730: Re: [MPCADMIN] vacation request, 1 day, 10/17
+111731: [MPCADMIN] vacation request
+111732: [MPCADMIN] Fabrizio sick time
+111735: [MPC-ADMINREQUEST] vacation tomorrow 10/18
+111736: [MPCADMIN] Fwd: vacation request
+111737: [MPCADMIN] P&A vacation time reporting
+111739: [MPCADMIN] American Journal of Epidemiology Print Ad Invoices
+111740: [MPCADMIN] McKee P-card Purchase - Academic Keys, LLC
+111745: [MPCADMIN] Time off
+111749: [MPCADMIN] McKee P-Card Purchase - ASA Dept Membership Renewal
+111751: [MPC-ADMINREQUEST] Vacation day Friday
+111752: [MPCADMIN] Sick days, 10/16, 10/17, 10/18
+111754: [MPCADMIN] sick day
+111756: [MPCADMIN] Home sick
+111758: [MPCADMIN] McKee P-card Purchase LinkedIn Order 1442402101
+111759: [MPCADMIN] Fwd: MPC Outstanding Research Award
+111762: [MPC-ADMINREQUEST] vick vacation half day tomorrow
+111764: [MPCADMIN] half day tomorrow
+111769: [MPCADMIN] Vacation day Monday 10/28
+111770: [MPCADMIN] Fabrizio sick time
+111771: [MPCADMIN] Kevin Horne vacation request - November 1
+111772: Re: [MPCADMIN] Kevin Horne vacation request - November 1
+111773: [MPCADMIN] Kevin Horne vacation request January 2014
+111774: Re: [MPCADMIN] Kevin Horne vacation request January 2014
+111775: Re: [MPCADMIN] Kevin Horne vacation request January 2014
+111781: [MPCADMIN] Vacation
+111782: Re: [MPCADMIN] Vacation
+111784: [MPC-ADMINREQUEST] sick time
+111785: [MPC-ADMINREQUEST] dental appo. - will take half sick day
+111786: [MPCADMIN] vacation day Friday
+111787: [MPC-ADMINREQUEST] Sick Leave (1/2 day) 10/18/13
+111789: [MPCADMIN] Vacation Request
+111790: [MPCADMIN] Personal day on 10/30
+111793: [MPCADMIN] Vacation Reporting Form - for October 25, 2013
+111803: [MPC-ADMINREQUEST] Headed home
+111804: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+111805: [MPCADMIN] Fwd: HipChat Payment Receipt
+111808: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+111809: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+111814: [MPC-ADMINREQUEST] Out sick today
+111815: [MPCADMIN] Marcus Peterson vacation report
+111820: [MPCADMIN] Form for King personal day taken 10/30
+111821: [MPCADMIN] Time off
+111830: [MPCADMIN] P&A sick/medical leave time reporting
+111831: [MPCADMIN] sick day
+111832: [MPC-ADMINREQUEST] vacation time request
+111833: [MPCADMIN] Receipts for CODAP hotel cancellation
+111834: [MPC-ADMINREQUEST] vacation day today
+111837: [MPCADMIN] Time off
+111847: [MPCADMIN] MPC Project Travel form for SSHA conference
+111849: [MPCADMIN] Vacation Leave
+111851: [MPC-ADMINREQUEST] Magennis vacation request
+111852: [MPCADMIN] Time off
+111853: [MPCADMIN] Travel request Vick
+111857: [MPCADMIN] McKee P-Card Purchase - FineAwards.com OSA Awards
+111858: [MPCADMIN] Sick Leave
+111862: [MPCADMIN] sick day
+111864: [MPCADMIN] Vacation this afternoon
+111875: [MPCADMIN] 1/2 day out November 18, 2013
+111882: [MPCADMIN] King upcoming vacation time
+111886: [MPCADMIN] Fabrizio Sick Time
+111888: [MPCADMIN] Vacation: half day Friday 11/22
+111891: [MPCADMIN] Time off
+111892: [MPCADMIN] Vacation Request
+111893: [MPCADMIN] Vacation request
+111894: [MPCADMIN] Time off
+111895: [MPCADMIN] Marcus Peterson vacation report
+111899: [MPC-ADMINREQUEST] vacation day
+111902: [MPCADMIN] Vacation: half day Wednesday 11/27
+111903: [MPCADMIN] Reimbursement for candidate lunch
+111904: [MPCADMIN] Reimbursement for staff appreciation event
+111905: [MPCADMIN] Christmas vacation request + personal holiday.12/13
+111907: Re: [MPCADMIN] Christmas vacation request + personal holiday.12/13
+111908: [MPCADMIN] Illness out of office reporting
+111909: [MPC-ADMINREQUEST] vacation leave report for 11/26-11/27
+111912: [MPCADMIN] Vacation 11/27/2013
+111913: [MPCADMIN] Garcia Roman Christmas vacation leave
+111919: [MPCADMIN] vacation time request
+111921: Re: [MPCADMIN] vacation time request
+111922: [MPCADMIN] Vacation Leave
+111924: [MPCADMIN] December return to work
+111925: [MPCADMIN] P&A sick/medical leave time reporting (FMLA)
+111926: [MPCADMIN] Fwd: MPC Professional Development Request Form for Strata
+111927: [MPCADMIN] Fwd: HipChat Payment Receipt
+111928: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+111929: [MPCADMIN] Fwd: Order # 499984 Order Confirmation
+111930: [MPCADMIN] Fwd: Order # 499954 Order Confirmation
+111931: [MPCADMIN] Pcard receipt for Opscode training
+111932: [MPCADMIN] Fwd: CCE Registration Confirmation
+111933: [MPCADMIN] Fwd: Thank you for your order!
+111939: [MPCADMIN] Sick time for 12/5/2013
+111941: [MPCADMIN] sick leave and vacation request
+111943: [MPCADMIN] Kugler personal holiday 12/10/13
+111944: [MPCADMIN] David Van Riper vacation request for 12/13 and 12/19
+111945: [MPCADMIN] David Van Riper vacation request for 12/27 through 1/3
+111946: [MPC-ADMINREQUEST] Vacation request for 12/20/13
+111947: [MPCADMIN] sick day
+111948: [MPCADMIN] vacation form
+111949: [MPCADMIN] Rumore Vacation Form for 12/20/13
+111950: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+111951: [MPCADMIN] Fabrizio sick time report
+111952: [MPCADMIN] Vacation paperwork
+111959: [MPCADMIN] Jason Goray Sick Time 12/3, 12/5, 12/6
+111960: [MPCADMIN] King vacation, December 26 and 27, 2013
+111961: [MPCADMIN] Out wed, 12/11
+111965: [MPCADMIN] Vacation form
+111966: [MPCADMIN] Time off
+111967: [MPCADMIN] Sick Leave
+111968: [MPC-ADMINREQUEST] staying at home sick
+111969: [MPCADMIN] P&A vac/medical leave time reporting
+111973: [MPC-ADMINREQUEST] vacation today 12/16
+111977: [MPC-ADMINREQUEST] Sick Day - 12/12/13
+111979: [MPC-ADMINREQUEST] Vacation Time Request: 12/20, 12/26-12/27, 1/3
+111980: [MPCADMIN] ASSA Conference -Travel Approval
+111984: [MPCADMIN] Vacation day 12/11/2013
+111991: [MPC-ADMINREQUEST] Vacation request: 12/25 & 27
+111999: [MPCADMIN] MPC telecommuting agreement
+112004: Re: [MPCADMIN] ASSA
+112005: [MPCADMIN] Vacation requests: December 26, 27, 30, 31; April 1-4, 7-9 2014
+112006: [MPCADMIN] Vacation
+112007: [MPCADMIN] Kari Williams Personal Holiday Time Off Request
+112008: [MPCADMIN] Vacation request
+112009: [MPCADMIN] December vacation request
+112010: [MPCADMIN] Time off
+112013: [MPCADMIN] Holiday vacation request
+112016: [MPCADMIN] Kne Vacation Request
+112017: [MPCADMIN] time off
+112019: [MPCADMIN] vacation last week
+112020: [MPCADMIN] Temporary Desk
+112023: [MPCADMIN] (resending) P&A vacation time reporting
+112024: [MPCADMIN] Fwd: CDW-G Order Confirmation: Order #1BDQSV7/P.O. Ref. 1BDQSV7
+112025: [MPCADMIN] Fwd: VMware Official Online Store - Order confirmation for order #8848437136
+112026: [MPCADMIN] Pcard receipts
+112027: [MPCADMIN] Fwd: HipChat Payment Receipt
+112028: [MPCADMIN] Fwd: Invoice for order STRATA2014-206
+112029: [MPCADMIN] pcard receipt for oreilly charge 12/12
+112030: [MPCADMIN] Fwd: Amazon.com order of Corsair Apple Certified....
+112031: [MPCADMIN] Sick Day Reporting
+112032: [MPCADMIN] vacation 12/31 half day
+112033: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112034: [MPC-ADMINREQUEST] out sick today
+112035: [MPC-ADMINREQUEST] vacation tomorrow 01/03
+112036: [MPCADMIN] Vacation 12/17/2013, 12/26-31/2013
+112037: [MPCADMIN] Leave request - 1/3/14
+112038: [MPCADMIN] Sick Leave
+112039: [MPCADMIN] 1/2 Vacation Day Request
+112040: [MPCADMIN] floating day
+112041: [MPC-ADMINREQUEST] vacation time & personal holiday
+112042: [MPCADMIN] vacation 1/6
+112043: [MPCADMIN] Vacation Leave, January 17
+112044: Re: [MPCADMIN] Vacation Leave, January 17
+112045: [MPCADMIN] Vacation request: half day today, 1/6, and one day, Tuesday, 1/21
+112046: [MPCADMIN] Vacation Leave
+112047: [MPCADMIN] Marcus Peterson vacation report
+112048: [MPCADMIN] Fwd: JESSE E MPLS-ST PAUL 10FEB14
+112049: [MPC-ADMINREQUEST] vacation tomorrow 1/7
+112055: [MPCADMIN] Leave request 1/6/14
+112056: [MPCADMIN] Time off
+112058: [MPC-ADMINREQUEST] Vacation 1/2 day: 1/6/2014
+112059: [MPCADMIN] Vacation Form
+112060: [MPCADMIN] Wastebasket
+112061: Re: [MPCADMIN] vacation hours
+112063: [MPCADMIN] Sick day
+112064: [MPCADMIN] Time off
+112065: [MPCADMIN] time off
+112066: [MPCADMIN] Fwd: HipChat Payment Receipt
+112067: [MPCADMIN] Fwd: OWC Invoice 3976489 has been processed!
+112068: [MPCADMIN] Fwd: Your Amazon.com order of 2x "StarTech.com DP2MDPMF6IN..." has shipped!
+112072: [MPCADMIN] Kevin took vacation on Jan 6 (half-day), Jan 10, and Jan 12
+112083: [MPCADMIN] time off
+112090: [MPCADMIN] Kne Vacation Request
+112092: [MPCADMIN] Jason Goray Sick Time 01/14, 01/15
+112093: [MPC-ADMINREQUEST] vacation tomorrow 1/17
+112095: [MPCADMIN] Vacation Leave
+112096: [MPC-ADMINREQUEST] Vacation request for 3/6-18
+112098: [MPCADMIN] Out sick 1/17/2014
+112100: [MPCADMIN] sick time report for Kevin Horne
+112101: [MPCADMIN] half-day vacation 1/21
+112104: [MPCADMIN] vacation request: 4 days, Feb. 6-7 and Feb. 28 + March 3
+112113: [MPCADMIN] vacation request
+112114: [MPCADMIN] McKee P-card Purchase - TerraPop Candidate R/T Airfare
+112119: [MPCADMIN] Medical Leave
+112120: [MPCADMIN] Fwd: Order # 511056 Order Confirmation
+112121: [MPCADMIN] Fwd: Order # 511061 Order Confirmation
+112122: [MPCADMIN] vacation 1/27
+112123: [MPCADMIN] Vacation Request
+112124: [MPCADMIN] Leave request 1/31/14
+112128: [MPCADMIN] vacation 1/27
+112131: [MPCADMIN] Vacation Time Request
+112132: [MPCADMIN] Time off
+112134: [MPCADMIN] Personal Holiday Request
+112135: Re: [MPCADMIN] Personal Holiday Request
+112136: [MPCADMIN] McKee P-card Purchase - TerraPop Candidate R/T Airfare Krivacsy
+112144: [MPC-ADMINREQUEST] Vacation day for Monday, 1/27/14
+112151: [MPCADMIN] McKee P-Card Purchase LinkedIn Order 346734971
+112153: [MPCADMIN] Fabrizio sick time report
+112154: [MPCADMIN] Sick time for 1/31
+112155: [MPCADMIN] Time off
+112156: [MPC-ADMINREQUEST] vacation time taken
+112161: [MPCADMIN] Half day off next week
+112163: [MPCADMIN] McKee P-card Purchases - Amazon Gift Cards Flexible Work & Well-Being Project
+112164: [MPCADMIN] Vacation Report
+112165: [MPC-ADMINREQUEST] Vacation day, 2/4/14
+112166: Re: [MPCADMIN] Vacation this AM
+112168: [MPCADMIN] Sick Time
+112169: [MPCADMIN] McKee P-card Purchases - Additional Amazon Gift Cards Flexible Work & Well-Being Project
+112170: [MPCADMIN] Medical Leave
+112172: [MPCADMIN] McKee P-card Purchase WIHE.com Order
+112173: [MPCADMIN] Fwd: You submitted an order in the amount of $79.99 USD to O'Reilly Media Inc
+112176: [MPCADMIN] out sick 2/10
+112177: [MPCADMIN] David Van Riper vacation request for 2/17 and 2/18
+112178: [MPCADMIN] vacation request
+112182: [MPCADMIN] Fwd: vacation days from last week
+112186: [MPCADMIN] Vacation requestion
+112191: [MPCADMIN] Vacation request
+112194: [MPCADMIN] Vacation 2/6/2014
+112197: [MPCADMIN] Vacation Request
+112198: [MPCADMIN] Fwd: PAA Travel Funds request
+112199: [MPCADMIN] Fwd: PAA travel funds request
+112201: [MPCADMIN] Kennedy effort allocation
+112202: [MPC-ADMINREQUEST] vacation time, 2-14-14
+112205: [MPCADMIN] PCard receipt question
+112206: [MPCADMIN] Fwd: ESSHC funding form for you to sign off on
+112207: Re: [MPCADMIN] ESSHC funding form for you to sign off on
+112208: Re: [MPCADMIN] ESSHC funding form for you to sign off on
+112209: [MPCADMIN] vacation time take by Kevin Horne
+112210: [MPCADMIN] Time off
+112211: [MPCADMIN] Vacation request
+112212: [MPCADMIN] McKee P-card Purchase - Emily Merchant Airfare (Candidate Interview)
+112213: [MPCADMIN] McKee P-card Purchase - Lori Reeder Airfare (Candidate Expense)
+112220: [MPCADMIN] Vacation Request
+112221: [MPCADMIN] Fwd: Illness
+112226: [MPCADMIN] Professional Dev Request
+112227: [MPC-ADMINREQUEST]
+112228: [MPCADMIN] half day vacation today + "spring break" 3/31-4/4
+112230: [MPCADMIN] Vacation March
+112232: [MPC-ADMINREQUEST] Sick day
+112236: [MPC-ADMINREQUEST] Absence form for Friday, 2/21
+112240: Re: [MPCADMIN] ESSHC funding form for you to sign off on
+112243: [MPCADMIN] Sick day for 2/17
+112246: [MPCADMIN] vacation form attached
+112249: [MPC-ADMINREQUEST] vacation leave
+112253: [MPCADMIN] Medical Leave
+112254: [MPC-ADMINREQUEST] Sick day
+112256: [MPCADMIN] Professional Development Request Form for Kari Williams
+112257: [MPC-ADMINREQUEST] vacation in March
+112258: [MPCADMIN] Installing Textpad on conference room computers
+112263: [MPC-ADMINREQUEST] sick day
+112264: [MPCADMIN] McKee P-card Purchase - Kari Williams NetCourse Stata Programming
+112266: [MPC-ADMINREQUEST] vacation for 2/28/2014
+112267: [MPCADMIN] Kne Vacation Request
+112268: Re: [MPCADMIN] Vacation Request
+112270: [MPCADMIN] Time off
+112271: [MPCADMIN] Time off for the next 3.5 days
+112272: [MPCADMIN] Fwd: MARCUS P MPLS-ST PAUL 21APR14
+112273: [MPCADMIN] Fwd: Order Confirmation for RailsConf 2014
+112274: [MPCADMIN] Fwd: Order Confirmation for RailsConf 2014
+112275: [MPCADMIN] Fwd: FABIO T MPLS-ST PAUL 21APR14
+112276: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112277: [MPCADMIN] Fwd: HipChat Payment Receipt
+112278: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112279: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112280: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112281: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112282: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112283: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112284: [MPCADMIN] McKee P-card Purchase - David Case Airfare (Candidate Expense)
+112285: [MPCADMIN] Fabrizio vacation report
+112286: [MPCADMIN] Fabrizio vacation report
+112290: [MPCADMIN] Charleroy professional development request
+112297: [MPCADMIN] Sick day
+112303: [MPCADMIN] Leave request
+112304: [MPCADMIN] Vacation Request
+112305: [MPCADMIN] Fedex Printing - February Billing Invoice - Total $104.40
+112306: [MPC-ADMINREQUEST] vacation day
+112309: [MPCADMIN] TIme off
+112312: [MPCADMIN] Sick day 3/5
+112313: Re: [MPCADMIN] Sick day
+112316: [MPCADMIN] upgrade Jack Lam's computer to STATA 13
+112317: [MPC-ADMINREQUEST] half day
+112319: [MPCADMIN] 1/2 day vacation this afternoon
+112320: [MPCADMIN] McKee P-card Purchase - Visa SEVIS Fee
+112321: [MPCADMIN] McKee P-card Purchase - TerraPop Post-doc Ad ASA Job Bank
+112323: [MPCADMIN] Fwd: MailChimp Invoice/Receipt
+112325: [MPCADMIN] Vacation Form for 03/07/2014
+112330: [MPCADMIN] Fwd: MPC Outstanding Research Award
+112332: [MPCADMIN] Out sick
+112333: [MPCADMIN] David Van Riper vacation request - June 20-July 2, 2014
+112337: [MPC-ADMINREQUEST] vacation day
+112338: [MPCADMIN] not feeling good
+112341: [MPCADMIN] Marcus Peterson vacation report
+112342: [MPC-ADMINREQUEST] Sick day
+112343: [MPC-ADMINREQUEST] vacation time request
+112346: [MPC-ADMINREQUEST] sick day
+112350: [MPC-ADMINREQUEST] 1/2 vacation day
+112351: [MPCADMIN] vacation 3/21 half day
+112356: [MPCADMIN] Time off
+112359: [MPCADMIN] Vacation
+112360: [MPCADMIN] Sick day today
+112362: Re: [MPCADMIN] Funding for ESSHA
+112363: [MPCADMIN] Out Sick
+112365: [MPC-ADMINREQUEST] Sick Day - Wednesday, 3/19/14
+112367: [MPCADMIN] Vacation for 3/14 and 3/21
+112368: [MPCADMIN] Test Msg - Tracy: send confirmation to Kathy if you receive this
+112377: [MPCADMIN] Vacation Request
+112378: [MPCADMIN] vacation 3/31
+112384: [MPCADMIN] Vacation Leave
+112385: [MPCADMIN] Reporting Sick Days
+112386: [MPCADMIN] Out again, sorry
+112387: [MPCADMIN] Vacation requests and travel/conference plans
+112389: [MPCADMIN] Vacation, end of week
+112390: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112391: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112392: [MPCADMIN] Fwd: Order # 525007 Order Confirmation
+112393: [MPCADMIN] Fwd: Order # 525008 Order Confirmation
+112394: [MPCADMIN] Fwd: Registration Confirmation for MinneWebCon 2014
+112395: [MPCADMIN] Fwd: HipChat Payment Receipt
+112396: [MPCADMIN] Fwd: [Pragmatic Bookstore] Your Order #473617
+112397: [MPCADMIN] Fwd: Receipt for Your Payment to EasyDNS Technologies Inc.
+112398: [MPCADMIN] Fwd: Rejected posting to MPCADMIN@LISTS.UMN.EDU
+112399: [MPCADMIN] Fwd: Rejected posting to MPCADMIN@LISTS.UMN.EDU
+112400: [MPCADMIN] Joan Garcia Roman PAA 2014 Travel Form
+112401: [MPCADMIN] McKee P-Card Purchases - Candidate & Spouse Recruiting Visit
+112402: [MPCADMIN] Fwd: PAA travel request
+112404: [MPCADMIN] Kevin takes vacation day April 1, 2014
+112405: [MPCADMIN] Jason Goray sick time 3/31, 4/1
+112407: [MPCADMIN] Sick days
+112408: [MPCADMIN] vacation 4/4
+112412: [MPCADMIN] Out again
+112414: [MPCADMIN] vacation request
+112415: Re: [MPCADMIN] vacation 4/4
+112417: [MPCADMIN] Vacation Request(s)
+112418: [MPCADMIN] professional development request
+112423: Re: [MPCADMIN] Campus club membership #
+112427: Re: [MPCADMIN] Campus club membership #
+112428: [MPCADMIN] professional development funds- Kaduk
+112429: [MPCADMIN] vacation day
+112430: [MPCADMIN] Grover: PAA travel form
+112431: [MPCADMIN] vacation 4/9 half day
+112434: [MPCADMIN] Fwd: David Van Riper vacation request for 4/7-4/8
+112436: [MPCADMIN] Fwd: MPC Outstanding Research Award
+112443: Re: [MPCADMIN] Fedex Printing - February Billing Invoice - Total $104.40
+112448: [MPCADMIN] Out Sick Today
+112451: [MPCADMIN] Vick travel form
+112453: [MPCADMIN] Rumore Vacation Request (4/18/14)
+112454: [MPCADMIN] p-card receipts - Masa and Bistro
+112455: [MPCADMIN] Request for editing service purchase
+112457: Re: [MPCADMIN] More travel
+112458: [MPCADMIN] Fabrizio sick time
+112464: [MPCADMIN] Vacation time 4/18
+112465: [MPCADMIN] vacation - half day tomorrow
+112467: [MPCADMIN] Fwd: HipChat Payment Receipt
+112471: [MPCADMIN] Vacation Request--Kari Williams
+112472: Re: [MPCADMIN] Vacation Request--Kari Williams
+112473: [MPCADMIN] MPC Telecommuting Agreement
+112474: [MPCADMIN] Half sick day
+112476: [MPCADMIN] Time off
+112477: [MPCADMIN] Fwd: Request for editing service purchase
+112478: [MPCADMIN] King PAA travel request
+112479: [MPCADMIN] PAA Travel approval for Kristen Jeffers
+112480: [MPCADMIN] Cleveland travel request
+112484: [MPCADMIN] Sick
+112487: Re: [MPCADMIN] Sick
+112488: Re: [MPCADMIN] Sick
+112489: [MPCADMIN] Medical Leave
+112490: [MPCADMIN] Vacation 4/11 and 4/24
+112491: [MPCADMIN] out sick thur 4/24
+112492: [MPCADMIN] Vacation Request 30.April
+112493: [MPC-ADMINREQUEST] Vacation leave request, 4/18 and 4/21
+112501: Re: [MPCADMIN] Charleroy professional development request
+112502: [MPCADMIN] out (again) sick fri 4/25
+112503: [MPCADMIN] Request for reimbursement
+112504: [MPCADMIN] 50C 1:30-2:30 tomorrow?
+112505: [MPCADMIN] Vacation Day tomorrow
+112507: [MPCADMIN] vacation report
+112508: [MPCADMIN] Kaduk professional development funds request
+112510: [MPC-ADMINREQUEST] 1/2 day Vacation on April 28th
+112513: [MPCADMIN] Travel approval for PAA
+112514: [MPCADMIN] Reserving an MPC room on Friday?
+112515: [MPCADMIN] Vacation Form for 4/25/2014
+112516: [MPCADMIN] out tomorrow
+112517: [MPCADMIN] Time off
+112520: [MPCADMIN] half day - Friday
+112521: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112523: [MPCADMIN] Out sick today
+112524: Writing Hunker Friday, May 2 from 9 AM-4 PM in the Seminar Room
+112533: [MPCADMIN] Vacation Leave
+112534: [MPCADMIN] RailsConf Professional Development Request Form
+112535: [MPCADMIN] P&A Vacation Leave Reporting
+112536: [MPCADMIN] travel for Jonathan Schroeder and Jason Borah to APA 2014
+112537: [MPCADMIN] Fwd: ACS users group travel request
+112542: [MPCADMIN] half day - tomorrow afternoon
+112545: [MPC-ADMINREQUEST] vacation time request: 5/5/14, 5/22/14-5/23/14
+112546: [MPCADMIN] off tomorrow 5/7
+112547: [MPCADMIN] vacation request, july 2014
+112549: [MPCADMIN] Winzenburg Vacation Leave Reporting, April 2014
+112556: [MPC-ADMINREQUEST] sick day today
+112557: [MPC-ADMINREQUEST] Vacation day 5/6/14
+112558: Fwd: Renewal Contracts SUN-US1021418 & SUN-US1047843 - University of Minnesota (MN Population Center)
+112559: [MPCADMIN] More vacation days
+112561: [MPC-ADMINREQUEST] Becky taking vacation time
+112562: [MPCADMIN] sick day
+112563: [MPC-ADMINREQUEST] home again sick
+112564: [MPCADMIN] Vacation Request
+112565: [MPCADMIN] Vacation reporting
+112571: [MPCADMIN] Medical Leave
+112572: [MPCADMIN] Joan: travel to IATUR 2014
+112577: [MPCADMIN] Invitation: Patt - vac. @ Fri Jun 6, 2014 (pkelly@umn.edu)
+112578: [MPCADMIN] Invitation: Patt - vac @ Fri Jun 6, 2014 8am - 6pm (pkelly@umn.edu)
+112579: [MPCADMIN] Canceled Event: Patt - vac @ Fri Jun 6, 2014 8am - 6pm (pkelly@umn.edu)
+112580: [MPCADMIN] Invitation: Patt - vac. @ Fri May 16, 2014 (pkelly@umn.edu)
+112581: [MPCADMIN] Fwd: HipChat Payment Receipt
+112601: [MPCADMIN] Medical Leave
+112607: [MPCADMIN] vacation day Friday
+112609: [MPCADMIN] vacation request
+112614: [MPCADMIN] vacation 5/16 half day
+112615: [MPC-ADMINREQUEST] Sick Day, 5/14/14
+112629: [MPCADMIN] Time off
+112632: Re: [MPCADMIN] MPC Seed Grant Submission
+112633: Re: [MPCADMIN] MPC Seed Grant Submission
+112635: [MPCADMIN] vacation report
+112636: [MPCADMIN] Time off
+112638: [MPCADMIN] Seed Grant Award for Carolyn Liebler
+112641: [MPCADMIN] Half sick day
+112642: [MPCADMIN] personal holiday
+112643: [MPCADMIN] Sick time for 5/15 and 5/16
+112645: Re: [MPCADMIN] Joan: travel to IATUR 2014
+112653: [MPC-ADMINREQUEST] sick day
+112656: [MPCADMIN] vacation
+112664: [MPCADMIN] Vacation Request
+112666: [MPC-ADMINREQUEST] vacation tomorrow 5/23
+112669: [MPC-ADMINREQUEST] 1/2 Day VAC request for 5/23/14
+112673: [MPCADMIN] Fwd: Order # 533140 Order Confirmation
+112674: [MPCADMIN] Fwd: Order # 533141 Order Confirmation
+112676: [MPC-ADMINREQUEST] vacation time
+112677: [MPCADMIN] Fwd: Your MindMeister Invoice
+112678: [MPCADMIN] Fwd: Invoice 60891 from Code Complete Software, Inc.
+112680: [MPCADMIN] Kevin Horne vacation taken on May 19
+112683: [MPCADMIN] vacation 5/23 half day
+112689: [MPCADMIN] Fwd: PCard Receipt
+112690: [MPCADMIN] Fwd: Your Amazon.com order of "Eloquent Ruby..." and 1 more item.
+112691: [MPCADMIN] Fwd: Your Amazon.com order of "Kuzy - Anti-Glare Matte..." has shipped!
+112695: [MPCADMIN] vacation request for David Van Riper
+112699: [MPCADMIN] vacation day request, June 13 and June 16
+112700: [MPCADMIN] Personal holiday
+112701: [MPCADMIN] Vacation Request June 13
+112702: [MPCADMIN] P&A vacation request
+112705: [MPCADMIN] vacation form for 5/23/2014
+112713: [MPCADMIN] Vacation leave, personal holiday
+112717: [MPCADMIN] Personal holiday - tomorrow
+112718: [MPCADMIN] Fwd: Order # 529983 Order Confirmation
+112719: [MPCADMIN] Fwd: Order # 529985 Order Confirmation
+112722: [MPCADMIN] vacation request
+112726: [MPCADMIN] out sick today.
+112729: [MPCADMIN] personal holiday
+112731: [MPCADMIN] Fabrizio vacation report - Apr 2014
+112732: [MPCADMIN] 2014 FY personal holiday (resubmission with form)
+112735: [MPCADMIN] personal holiday request: 6/13/14
+112736: Re: [MPCADMIN] personal holiday request: 6/13/14
+112738: [MPCADMIN] Vacation Monday
+112739: [MPCADMIN] vacation leave request
+112740: [MPCADMIN] Vacation May 27-28 2014
+112743: [MPCADMIN] FY14 P&A Personal Holiday
+112747: [MPCADMIN] McKee P-card Purchases - Stack Overflow Job Listings
+112748: [MPCADMIN] vacation and personal day 6/9, 6/10
+112749: [MPCADMIN] Jason Goray sick time 6/2
+112750: Re: [MPCADMIN] Vacation Request
+112754: [MPCADMIN] Vacation Request
+112755: [MPCADMIN] Personal holiday Wednesday, 6/11
+112756: [MPCADMIN] Kne Vacation Request
+112757: [MPC-ADMINREQUEST] sick time
+112760: [MPCADMIN] vacation day Friday
+112761: Re: [MPCADMIN] vacation day Friday
+112762: [MPCADMIN] DataONE User Group Meeting - Travel Request
+112763: Re: [MPCADMIN] DataONE User Group Meeting - Travel Request
+112764: [MPCADMIN] Vacation Reporting for Gina Rumore
+112771: [MPC-ADMINREQUEST] vacation time request, 6/10-6/11
+112773: [MPCADMIN] Request for reimbursement
+112774: [MPCADMIN] Fwd: Stata order 1402422228
+112775: reimbursement
+112776: [MPCADMIN] Vacation and Personal Holiday
+112777: [MPCADMIN] Personal Holiday
+112783: [MPCADMIN] FlexWork Pcard Receipt
+112788: [MPCADMIN] Pcard reporting form and receipt
+112789: [MPCADMIN] Vacation and Personal Holiday
+112790: [MPCADMIN] PCard forms & receipts
+112791: [MPCADMIN] MPC Outstanding Research Award
+112792: [MPCADMIN] Vacation Leave (and Personal Holiday)
+112793: [MPC-ADMINREQUEST] vacation today 6/13
+112794: [MPCADMIN] P-Card CATHERINE A MPLS-ST PAUL 24JUN14
+112795: [MPCADMIN] PI Invoice for editing
+112796: [MPCADMIN] Vacation 1/2 day
+112799: [MPCADMIN] Funeral Leave
+112800: [MPCADMIN] Personal Holiday and Vacation Request
+112801: [MPCADMIN] Vacation Request
+112802: [MPC-ADMINREQUEST] 1/2 Day VAC request for Monday, 6/16/14
+112805: [MPCADMIN] Vacation: May 20, 2014; Personal holiday: June 13, 2014
+112806: [MPCADMIN] Matt Nelson Vacation Leave 6/27/14
+112807: [MPCADMIN] Matt Nelson Vacation Leave 7/21/14
+112808: [MPCADMIN] leave on Friday
+112809: Re: [MPCADMIN] Matt Nelson Vacation Leave 6/27/14
+112810: [MPCADMIN] Personal day for FY 2014
+112811: [MPCADMIN] Time off
+112812: [MPC-ADMINREQUEST] vacation time
+112813: [MPCADMIN] Keyword tray
+112814: [MPCADMIN] vacation
+112817: [MPCADMIN] vacation requests: July 2-3, July 11, August 25-29
+112818: [MPCADMIN] vacation request
+112819: [MPCADMIN] Personal Holiday request for 6/20/14
+112821: [MPCADMIN] Vacation June 18 (half day), 26, 27, July 7-11, 14-18, 21-25.
+112822: [MPCADMIN] Personal Holiday - June 20, 2014
+112823: [MPCADMIN] Medical Leave
+112827: Re: [MPCADMIN] Vacation Request
+112828: [MPCADMIN] Jason Goray sick time 6/17, 6/18
+112829: Re: [MPCADMIN] Vacation Request
+112831: [MPCADMIN] Access to email into mpcadmin
+112832: [MPCADMIN] Kevin Horne reporting his Personal Holiday for 2013-2014
+112833: [MPCADMIN] Vacation Leave
+112834: [MPCADMIN] Test request
+112835: [MPCADMIN] Fwd: Your Amazon.com order of "Logitech Wireless Wave...".
+112836: [MPCADMIN] personal holiday request
+112837: Re: [MPCADMIN] personal holiday request
+112838: [MPC-ADMINREQUEST] VAC form for 1/2 day - 6/19/14
+112840: [MPCADMIN] Personal Holiday - 6/27
+112841: [MPC-ADMINREQUEST] half-day vacation
+112842: [MPCADMIN] Sick
+112843: [MPC-ADMINREQUEST] Sick Day 6/26/14
+112844: [MPCADMIN] Fwd: PAA Demography Journal Invoice - Golberstein Research Award
+112845: [MPCADMIN] Vacation form for 6/25 - 6/26
+112846: [MPCADMIN] Time off request
+112847: Re: [MPCADMIN] Sick
+112848: [MPCADMIN] Fwd: Receipt for Your Payment to WrapMarket LLC
+112849: [MPCADMIN] Fwd: HipChat Payment Receipt
+112850: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112851: [MPCADMIN] Fwd: Refund on order 002-1389428-5621002
+112852: [MPCADMIN] Vacation Summer 2014
+112854: [MPCADMIN] Winzenburg Vacation Reporting
+112855: [MPCADMIN] Time off
+112858: [MPCADMIN] vacation form
+112859: [MPCADMIN] Pcard receipt - ACM Membership Renewal
+112860: [MPCADMIN] July 3rd day off
+112861: Re: [MPCADMIN] Time off request
+112862: [MPCADMIN] McKee P-card Purchases - Brian Gottreu Candidate Airfare
+112863: [MPC-ADMINREQUEST] SICK - 1/2 day
+112864: [MPCADMIN] out at 10:30
+112865: Re: [MPCADMIN] Vacation Request
+112866: [MPCADMIN] Fwd: Kallestad Personal holiday 6/20 and sick time 6/12 and 6/13
+112867: [MPCADMIN] Cathy's schedule
+112868: [MPCADMIN] Fwd: vacation
+112870: [MPC-ADMINREQUEST] OUT PM appt
+112871: [MPCADMIN] Reimbursement form
+112872: [MPCADMIN] Personal Holiday Tomorrow (7/11)
+112873: [MPCADMIN] out half day 7/11
+112874: [MPCADMIN] Retroactive Effort Allocation Adjustments for IT Personnel
+112875: [MPCADMIN] Sick
+112876: [MPCADMIN] Fwd: HipChat Payment Receipt
+112877: [MPCADMIN] Vacation day
+112878: [MPCADMIN] Vacation request
+112879: Re: [MPCADMIN] Sick
+112880: [MPCADMIN] McKee P-card Purchase - Fans
+112885: [MPCADMIN] Time off
+112886: [MPC-ADMINREQUEST] Vacation request for Thursday 7/17
+112887: [MPCADMIN] vacation report
+112888: [MPC-ADMINREQUEST] vacation time request
+112889: [MPCADMIN] P&A Vacation Request Form
+112890: [MPCADMIN] McKee P-card Purchase - Gotham Gandhi Nadendla Candidate Airfare
+112891: [MPC-ADMINREQUEST] vacation request
+112894: [MPCADMIN] Leave request - tomorrow afternoon
+112895: [MPCADMIN] Vacation Form for 7/9 - 7/11
+112896: [MPCADMIN] Sick Leave
+112897: [MPCADMIN] Vacation Leave
+112898: [MPCADMIN] Medical Leave
+112899: [MPCADMIN] Half day sick day 7/18
+112900: [MPCADMIN] Vacation plans
+112901: [MPCADMIN] vacation time - update to previous request
+112902: [MPCADMIN] half day - Thurs
+112903: [MPCADMIN] Reporting Sick Time
+112904: [MPCADMIN] Vacation
+112905: [MPCADMIN] McKee P-card Purchase - Raphael Nawrotzki Candidate Airfare
+112906: [MPCADMIN] vacation request
+112907: [MPCADMIN] Sick today
+112908: Re: [MPCADMIN] Sick today
+112909: [MPCADMIN] Vacation Request
+112910: [MPCADMIN] Time Off Request
+112911: [MPCADMIN] Vacation Leave
+112912: [MPCADMIN] Fwd: Your Amazon.com order of "Crucial 16GB Kit (8GBx2...".
+112913: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112914: [MPCADMIN] Sick and Vacation Time
+112915: [MPCADMIN] Fwd: [frafab1 92021137] DreamHost Payment Receipt
+112916: [MPCADMIN] Fwd: Order Confirmation for #WB0H81R24
+112917: [MPCADMIN] vacation next week
+112918: [MPCADMIN] Fwd: [Leanpub] Your receipt for Reliably Deploying Rails Applications
+112919: [MPCADMIN] Fwd: Order # 537712 Order Confirmation
+112920: [MPCADMIN] Vacation 7/7-11
+112921: [MPCADMIN] Kne Payroll Funding Change
+112922: [MPCADMIN] Vacation leave
+112923: [MPCADMIN] Vacation and conference travel
+112924: [MPCADMIN] Vacation request
+112925: [MPC-ADMINREQUEST] VAC request for Mon & Tues, 8/4 & 8/5
+112926: [MPCADMIN] sick day, 7/31
+112927: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+112928: [MPCADMIN] Fwd: Receipt for Your Payment to Self Positioning LTD
+112929: [MPCADMIN] Sick
+112930: [MPCADMIN] Sick day
+112931: [MPCADMIN] Matt Nelson Vacation Leave 8/8/14
+112932: [MPCADMIN] Vacation Request, 8/1
+112933: [MPCADMIN] Sick leave
+112935: [MPCADMIN] Kevin Horne : Personal Holiday + Vacation
+112936: [MPCADMIN] Medical Leave
+112937: [MPCADMIN] ASA travel request
+112938: [MPCADMIN] Vacation request for Friday Aug 1
+112939: [MPCADMIN] Vacation 7/28-8/1
+112940: [MPCADMIN] half day 8/5
+112941: [MPC-ADMINREQUEST] vacation time
+112942: [MPCADMIN] Time off
+112943: [MPCADMIN] Fwd: Order # 539233 Order Confirmation
+112944: [MPCADMIN] Vacation Leave
+112945: [MPCADMIN] Sick and vacation time
+112946: [MPCADMIN] Leave request for 8/20/2014
+112947: [MPCADMIN] Vacation request form submission
+112948: [MPCADMIN] Vacation Request
+112949: [MPCADMIN] vacation: thur/fri (8/14, 8/15)
+112950: [MPCADMIN] Fwd: McKee P-card purchase Stata Journal Subscription 1407860249
+112951: [MPCADMIN] Medical Leave for Monday, August 25th
+112952: [MPCADMIN] McKee P-card Purchase - Desk Fans
+112953: [MPCADMIN] More vacation!
+112954: [MPCADMIN] vacation next week
+112955: [MPCADMIN] MPC Project Travel Form
+112956: [MPCADMIN] Vacation Request Form
+112957: Re: [MPCADMIN] MPC Project Travel Form
+112958: Re: [MPCADMIN] MPC Project Travel Form
+112959: [MPCADMIN] vacation request
+112960: [MPCADMIN] Vacation leave
+112961: Re: [MPCADMIN] vacation request
+112962: [MPC-ADMINREQUEST] SICK 1/2 day - 8/11/14
+112963: [MPC-ADMINREQUEST] SICK 1/2 day - 8/12/14
+112964: [MPCADMIN] vacation days
+112965: [MPCADMIN] vacation report
+112966: [MPCADMIN] Slight change to recent vacation request
+112967: [MPC-ADMINREQUEST] vacation time form for 8/19/14
+112968: [MPCADMIN] Leave request
+112969: [MPCADMIN] Notice of Award: MPC Research Development Program
+112970: [MPCADMIN] Vacation
+112971: [MPCADMIN] Sick yesterday (8/21)
+112972: [MPCADMIN] Kennedy travel to ASA approval
+112973: Re: [MPCADMIN] Kennedy travel to ASA approval
+112974: [MPCADMIN] Fabrizio vacation report for 8/4 and 8/18 - 8/22
+112975: [MPCADMIN] Sick
+112976: [MPCADMIN] Vacation day
+112977: [MPCADMIN] ASA for Katie Coursolle
+112978: Re: [MPCADMIN] ASA for Katie Coursolle
+112979: [MPCADMIN] Vacation day Sept 23rd
+112980: [MPC-ADMINREQUEST] Vacation request for Sept 2nd thru 5th
+112981: [MPCADMIN] Vacation Leave
+112982: [MPCADMIN] Fwd: CLOUDNEXA INC: Receipt of Payment
+112983: [MPCADMIN] Fwd: Subscription Receipt for Subscription Registration
+112984: [MPCADMIN] Fwd: HipChat Payment Receipt
+112985: [MPCADMIN] Vacation leave for August 20th tracked?
+112986: [MPC-ADMINREQUEST] vacation tomorrow
+112987: [MPCADMIN] Kne Vacation Request
+112988: [MPCADMIN] David Van Riper - vacation request
+112989: [MPCADMIN] Rumore Vacation Day 8/28/14
+112990: [MPCADMIN] Pcard receipt for answerbase
+112991: [MPCADMIN] Vacation Request: September 05
+112992: [MPCADMIN] Vacation request: September 4, 5, 8, 9
+112993: [MPCADMIN] Fruit Flies
+112994: [MPCADMIN] vacation requests
+112995: [MPC-ADMINREQUEST] Magennis vacation request
+112996: [MPCADMIN] Sick Leave for 9/4 afternoon
+112997: [MPCADMIN] reporting vacation time
+112998: [MPCADMIN] Professional Development request (on-line Stata course) for Ali Collins
+112999: [MPCADMIN] Vacation Request
+113000: [MPCADMIN] Pcard receipt for Fabrizio Fwd: Invoice from Cloudnexa
+113001: [MPCADMIN] Sick
+113003: [MPCADMIN] out sick today
+113004: [MPCADMIN] Kennedy effort change
+113005: [MPCADMIN] Fwd: Receipt for Your Payment to Pragmatic Programmers, LLC
+113006: [MPCADMIN] Out sick again
+113007: [MPCADMIN] Vacation and sick
+113008: [MPCADMIN] IPUMSI at BBQ tomorros
+113009: [MPCADMIN] vacation request for 18 sept 2014
+113010: [MPCADMIN] Sarkar travel to SSHA
+113011: [MPCADMIN] Medical Leave
+113012: [MPCADMIN] Kne Vacation Request
+113013: [MPCADMIN] Standing desk request
+113014: [MPCADMIN] Vacation leave for P&A
+113015: [MPCADMIN] Fwd: Order # 558708 Order Confirmation
+113016: [MPCADMIN] Fwd: Order # 558710 Order Confirmation
+113017: [MPC-ADMINREQUEST] vacation time
+113018: [MPCADMIN] Matt Nelson Sick Leave 9/19
+113019: [MPCADMIN] Matt Nelson Vacation Leave 10/17/14
+113020: [MPCADMIN] Sick
+113021: [MPCADMIN] vacation report
+113022: [MPCADMIN] Vacation Request
+113023: Re: [MPCADMIN] Sick
+113024: [MPCADMIN] Fwd: Your Amazon.com order of "Logitech Corded Mouse (M500)".
+113025: [MPCADMIN] Sick today
+113026: Re: [MPCADMIN] Sick
+113027: [MPCADMIN] vacation reporting
+113028: [MPCADMIN] two half days this week
+113029: [MPCADMIN] Fabrizio vacation - September 2014
+113030: [MPCADMIN] Fabrizio sick time report
+113031: [MPCADMIN] Out sick, day 2
+113032: [MPCADMIN] vacation day
+113033: [MPCADMIN] sick day
+113034: [MPCADMIN] vacation request: October 10 (half day) and 17
+113035: [MPCADMIN] vacation form
+113036: [MPCADMIN] Personal day September 26th
+113037: [MPCADMIN] Rumore Sick Time
+113038: [MPCADMIN] Medical leave
+113039: [MPC-ADMINREQUEST] sick day
+113040: [MPCADMIN] Sick day
+113041: Re: [MPCADMIN] Sick day
+113042: Re: [MPCADMIN] Sick
+113043: [MPCADMIN] out half day 9/26
+113044: [MPCADMIN] reimbursement
+113045: [MPCADMIN] Medical Leave
+113046: [MPCADMIN] out sick 9/29
+113047: Re: [MPCADMIN] Sick
+113048: [MPCADMIN] Fwd: Your Amazon.com order of "2" x ASUS PA248Q 24-Inch LED-Lit... and 2 more items.
+113049: [MPCADMIN] Fwd: Your AmazonSmile order of "2" x ASUS PA248Q 24-Inch LED-Lit... and 2 more items.
+113050: [MPCADMIN] Fwd: Your AmazonSmile order of "Das Keyboard Professional...".
+113051: [MPCADMIN] Fwd: CLOUDNEXA INC: Receipt of Payment
+113052: [MPCADMIN] Fwd: HipChat Payment Receipt
+113053: [MPCADMIN] Fwd: Your Amazon.com order of "Cable Matters Gold Plated..." and 1 more item has shipped!
+113054: [MPCADMIN] Fwd: Your AmazonSmile order of "Cable Matters Gold Plated..." and 1 more item has shipped!
+113055: [MPCADMIN] Fwd: Your Amazon.com order of "Kensington K72426AM...".
+113056: [MPCADMIN] Pcard receipts for Code School - Fran
+113057: [MPC-ADMINREQUEST] SICK day - 9/24/2014
+113058: [MPC-ADMINREQUEST] Vacation request for Oct 16-21
+113059: [MPCADMIN] Fwd: Your Purchase Information
+113060: [MPCADMIN] Fran Pcard receipt fwd: You sent an automatic payment of $200.00 USD
+113061: [MPCADMIN] PCard form
+113062: [MPCADMIN] PCard form (2 of 2)
+113063: Re: [MPCADMIN] Sick
+113064: [MPCADMIN] Half day sick leave for Thursday (10/2)
+113065: [MPCADMIN] vacation - 10/3/14
+113066: [MPCADMIN] out half day 10/3
+113067: [MPCADMIN] two vacation requests
+113068: [MPCADMIN] Vacation request, October
+113069: [MPCADMIN] Fran Pcard Fwd: VMware Official Online Store – Amo unt refunded for order #9487029636
+113072: [MPCADMIN] Fran Pcard Fwd: VMware Official Online Store - Order confirmation for order #9487029636
+113075: [MPCADMIN] Sick Leave 10/6/14
+113076: [MPCADMIN] Vacation request and sick day
+113078: [MPCADMIN] McKee P-card Purchase - OSA Crystal Awards
+113079: [MPCADMIN] Kevin takes 40 hours vacation Oct 6 - Oct 10
+113080: [MPCADMIN] Fwd: Request for reimbursement
+113081: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113082: [MPCADMIN] reimbursement
+113083: [MPCADMIN] out 10/16 and 10/17
+113084: [MPCADMIN] Vacation days request
+113085: [MPCADMIN] Sick and Vacation time
+113086: [MPCADMIN] Sick leave and similar absenses
+113087: [MPCADMIN] Matt Nelson Vacation Leave
+113088: [MPCADMIN] Fran Pcard Fwd: Your Amazon.com order of "Automation through Chef..." and 3 more items.
+113089: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113090: [MPC-ADMINREQUEST] vacation request Oct 15-29
+113091: [MPCADMIN] Fall vacation
+113092: [MPCADMIN] Rumore Vacation Request -- 10/7 and 10/16-10/17
+113095: [MPCADMIN] Vacation Request
+113096: [MPCADMIN] Medical Leave
+113097: Fwd: Your Itinerary for Boston, MA - Oct 08, 2014 (Itinerary #10059140303)
+113098: Fwd: ALAN B MPLS-ST PAUL 26SEP14
+113099: [MPCADMIN] vacation form for Oct 10, 2014
+113100: [MPCADMIN] Fwd: Half day this morning
+113101: [MPCADMIN] Message sent to mpc-50willey
+113102: [MPC-ADMINREQUEST] sick at home
+113103: [MPCADMIN] vacation report
+113104: [MPCADMIN] Sick day (half)
+113105: [MPC-ADMINREQUEST] vacation request
+113106: [MPCADMIN] Leave request for 10/17
+113107: [MPCADMIN] MPC Outstanding Research Award
+113108: [MPCADMIN] Notice of Award: MPC Research Development Program
+113109: [MPCADMIN] Medical Leave
+113110: [MPC-ADMINREQUEST] half day
+113111: [MPCADMIN] Fwd: Fitch P-card Delta 30 October
+113112: [MPCADMIN] Fwd: Fitch P-Card Delta 15 October
+113113: [MPCADMIN] Alison Collins effort adjustment
+113114: [MPCADMIN] out sick 10/24
+113115: [MPC-ADMINREQUEST] vacation half day
+113116: [MPCADMIN] Fitch P-card Delta Nov 6
+113117: [MPCADMIN] Reimbursement & PCard form for TerraPop 36-month review
+113118: [MPCADMIN] Vacation Request: Friday, October 31
+113119: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Omni Development, Inc.
+113120: [MPCADMIN] Sheela Kennedy effort
+113121: [MPCADMIN] vacation form for oct 24, 27 & 28
+113122: [MPCADMIN] Sick time
+113123: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113124: [MPCADMIN] Fran Pcard codeschool
+113125: [MPCADMIN] Fran Pcard Fwd: Newegg - Order Confirmation
+113126: [MPCADMIN] Kevin sick on Tuesday, October 28
+113127: [MPCADMIN] out sick today
+113128: [MPCADMIN] out Friday 10/31
+113129: [MPCADMIN] Fwd: Your Amazon.com order of "The C Programming Language..." and 6 more items.
+113130: [MPCADMIN] Migraine day
+113131: [MPCADMIN] Out of Office 10/31 and 11/3
+113132: [MPCADMIN] Vick Travel
+113133: [MPCADMIN] Jesse Erdmann effort change
+113134: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113135: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+113136: [MPCADMIN] Taking sick day 11/11/14
+113137: [MPCADMIN] Fran PCard Fwd: Confirmation for Your Order # A145019 from JetBrains Store
+113138: [MPCADMIN] Message sent to mpc-50willey
+113139: [MPCADMIN] vacation request, 7 november 2014
+113140: [MPCADMIN] Friday vacation
+113141: [MPCADMIN] Reimbursement for AEA membership
+113142: [MPCADMIN] vacation request
+113143: [MPCADMIN] McKee P-card Purchase - ASA Affiliate Membership Renewal
+113144: [MPCADMIN] Sick Leave
+113145: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113146: [MPCADMIN] out Monday 11/10
+113147: [MPCADMIN] Out sick today
+113148: [MPCADMIN] vacation request: F 11/21
+113149: [MPCADMIN] Leave request for 11/4 - Personal Holiday
+113150: [MPCADMIN] ArcGIS Question
+113151: Re: [MPCADMIN] out Monday 11/10
+113152: [MPCADMIN] reimbursement
+113153: [MPCADMIN] Vacation this week
+113154: [MPCADMIN] vacation day
+113155: [MPC-ADMINREQUEST] SICK days (10/23, 10/31 AM & 11/3 PM)
+113156: [MPCADMIN] Medical Leave
+113157: [MPCADMIN] 1/2 sick day Monday
+113158: [MPCADMIN] Vacation requests through end of year
+113159: [MPCADMIN] Vacation
+113160: [MPCADMIN] Vacation leave, 11/26/2014
+113161: [MPC-ADMINREQUEST] sick day for yesterday 11/12
+113162: [MPCADMIN] sick leave for Mayo appointments
+113163: [MPCADMIN] David Van Riper vacation request for November 26, 2014
+113164: [MPCADMIN] sick today
+113165: [MPCADMIN] Sick time
+113166: [MPCADMIN] Vacation Leave
+113167: [MPCADMIN] out 4 hours Tuesday Nov 11
+113168: [MPCADMIN] Leave request for 11/14 (half day)
+113169: [MPCADMIN] Time Off Request
+113170: [MPCADMIN] Sick and vacation time
+113171: [MPCADMIN] Fabrizio Vacation - Oct 2014
+113172: [MPCADMIN] Matt Nelson Vacation Leave 12/24
+113173: [MPC-ADMINREQUEST] vacation time, 11/19-11/20
+113174: [MPCADMIN] efficient, inexpensive conference call option Fwd: Conference Call Receipt
+113175: [MPCADMIN] King reported vacation days not showing up, form resubmitted
+113176: [MPCADMIN] sick day
+113177: [MPCADMIN] Fran Pcard Receipt - HootSuite
+113178: [MPCADMIN] Fran Pcard receipt for RailsCast tutorials
+113179: [MPCADMIN] Sick Time and Vacation Request for Gina Rumore
+113180: [MPCADMIN] Fran Pcard license upgrade PathFinder software
+113181: [MPCADMIN] Matt Nelson-Adobe Pro
+113184: [MPCADMIN] vacation for November and December
+113185: [MPCADMIN] half sick day
+113186: [MPCADMIN] Vacation Days, November 24 and November 26, 2014
+113187: [MPCADMIN] Vacation time for November and December, 2014
+113188: [MPCADMIN] I may have already sent this, but just in case
+113189: [MPCADMIN] Vacation Form Attached for 11/21
+113190: [MPCADMIN] IPUMSI effort reallocation
+113193: [MPC-ADMINREQUEST] Vacation request for Wed, 11/26/14
+113194: [MPCADMIN] Fwd: Invoice
+113195: [MPCADMIN] Fwd: Invoice
+113196: [MPCADMIN] out nov 26 half day
+113198: [MPCADMIN] Vacation Request 11/26/14
+113199: [MPCADMIN] Fwd: E-Ticket Confirmation-FMAEWY 01DEC
+113200: [MPCADMIN] Fwd: AA eTDS Notification-FMAEWY
+113201: [MPCADMIN] Fwd: AA eTDS Notification-SWNCOE
+113202: [MPCADMIN] Fwd: E-Ticket Confirmation-SWNCOE 01DEC
+113203: [MPCADMIN] Time off
+113204: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113205: [MPCADMIN] Fran Pcard Fwd: Hootsuite - Payment Invoice
+113206: [MPCADMIN] Delta purchase - DTW 19 November
+113207: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113208: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113209: [MPCADMIN] Fran Pcard Code School Nov 2014
+113210: [MPCADMIN] Vacation Leave 12/9 Matt Nelson
+113212: [MPCADMIN] vacation form for nov 21 & 26
+113213: [MPCADMIN] MPC Vacation Request Form
+113214: [MPCADMIN] Sick Leave and Vacation Leave
+113215: [MPC-ADMINREQUEST] Vick vacation time
+113216: [MPCADMIN] December leave time
+113217: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113218: [MPCADMIN] out dec 5 half day
+113219: [MPCADMIN] Christmas vacation
+113220: [MPCADMIN] Vacation leave, 12/12/2014
+113221: [MPCADMIN] Sick Time Reporting
+113222: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113223: [MPCADMIN] Medical Leave
+113224: [MPCADMIN] out dec 8 sick day
+113225: [MPC-ADMINREQUEST] sik children
+113226: [MPCADMIN] Sickday/halfday
+113227: [MPCADMIN] vacation report
+113228: [MPCADMIN] Sick day
+113229: [MPCADMIN] Time off
+113230: [MPCADMIN] vacation request, dec 2014
+113231: [MPCADMIN] vacation report
+113232: [MPC-ADMINREQUEST] SICK days claimed - 11/19 & 12/8
+113233: [MPCADMIN] Fran Pcard Fwd: Order # 568751 Order Confirmation
+113234: [MPCADMIN] Fran Pcard Fwd: Order # 568752 Order Confirmation
+113235: [MPCADMIN] Fabrizio sick time
+113236: [MPCADMIN] sick day
+113237: [MPCADMIN] Out sick today
+113238: [MPCADMIN] Sick leave
+113239: [MPCADMIN] Funeral Leave & Vacation Leave
+113240: [MPCADMIN] Professional Development Funds Request - Jason Borah
+113241: [MPCADMIN] Vacation and sick time
+113242: [MPCADMIN] vacation and personal holiday request
+113243: [MPCADMIN] Kne Vacation Request
+113244: [MPC-ADMINREQUEST] vacation day
+113245: [MPCADMIN] personal holiday and vacation request for David Van Riper
+113246: [MPCADMIN] Medical / child sick day
+113247: [MPC-ADMINREQUEST] Sick yet again!!
+113248: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113249: Re: [MPCADMIN] Medical / child sick day
+113250: [MPCADMIN] Half day this afternoon
+113251: [MPCADMIN] Vacation leave for Christmas Eve
+113252: Re: [MPCADMIN] vacation report
+113253: [MPCADMIN] sick leave
+113254: [MPCADMIN] Vacation Request, December 19-January 2
+113255: [MPCADMIN] Dec Vacation Days
+113256: [MPCADMIN] holiday vacation
+113257: [MPC-ADMINREQUEST] Vacation request for Dec 22 & 24, 2014
+113258: [MPCADMIN] vacation form
+113259: [MPCADMIN] Vacation Next Week
+113260: [MPCADMIN] Leave request for 12/17 and 12/18
+113261: [MPCADMIN] Vacation request
+113263: [MPCADMIN] vacation 12/24
+113264: [MPCADMIN] Vacation request for David Van Riper
+113265: [MPCADMIN] Vacation Leave
+113266: [MPCADMIN] Vacation Leave
+113267: [MPCADMIN] Sick today
+113268: [MPCADMIN] Kne Vacation Request
+113269: [MPCADMIN] Vacation leave
+113270: [MPC-ADMINREQUEST] Vacation Time Request
+113271: Re: [MPC-ADMINREQUEST] Vacation Time Request
+113272: [MPC-ADMINREQUEST] vacation day tomorrow
+113273: [MPCADMIN] December vacation
+113274: [MPCADMIN] Vacation Request
+113275: [MPCADMIN] vacation request
+113276: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113277: [MPCADMIN] Fran Pcard Code School monthly receipt
+113278: [MPCADMIN] Fran Pcard UMN Bookstore
+113279: [MPCADMIN] Cancel vacation leave request (12/29, 12/30, 12/31)
+113280: [MPCADMIN] Pay Day Reminder emails
+113281: [MPCADMIN] Jason Goray Sick Time 12/16 - 12/19
+113282: [MPCADMIN] Kne Vacation Request
+113284: [MPCADMIN] Holiday Vacation
+113285: [MPCADMIN] McKee P-Card Purchase - Niche Job Boards, LLC
+113286: [MPCADMIN] Kennedy travel approved for ASSA
+113287: [MPCADMIN] Fwd: ASSA - have fun - and a form
+113289: [MPCADMIN] Kevin Horne reporting vacation time taken: 6 days
+113290: [MPCADMIN] vacation form
+113291: [MPCADMIN] Child sick day
+113292: [MPCADMIN] Leave request
+113293: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113294: [MPCADMIN] P&A Vacation Request Form
+113295: Re: [MPCADMIN] vacation and personal holiday request
+113296: [MPCADMIN] vacation request, Feb. 4-6
+113297: [MPCADMIN] Travel reimbursement for IDCC
+113298: [MPCADMIN] Sick time
+113299: [MPCADMIN] Vacation for Dec, 2014
+113300: [MPCADMIN] Fabrizio vacation report
+113301: Re: [MPCADMIN] vacation report
+113302: [MPCADMIN] Out Sick Today
+113303: Re: [MPCADMIN] Out Sick Today
+113304: [MPCADMIN] Sick today
+113305: [MPCADMIN] Camtasia Studio licenses
+113306: [MPCADMIN] Vacation request form
+113307: [MPCADMIN] Time off
+113308: [MPCADMIN] Sick Leave
+113309: [MPCADMIN] Sick again today
+113310: [MPCADMIN] 1/2 sick day
+113311: [MPCADMIN] Request for reimbursement
+113312: [MPCADMIN] Test Message for CH Training
+113313: [MPCADMIN] McKee P-card Purchase - Ruby.Now
+113314: [MPC-ADMINREQUEST] vacation time request
+113315: [MPCADMIN] Out - Sick kid
+113316: [MPCADMIN] Out sick Jan 8
+113317: [MPCADMIN] More sick time
+113318: [MPCADMIN] sick day
+113319: [MPCADMIN] Leave request 1/9/15
+113320: [MPCADMIN] Reimbursement form
+113321: [MPCADMIN] sick day
+113323: [MPCADMIN] Vacation form
+113325: [MPCADMIN] McKee P-card Purchase - LinkedIn 5-Job Posting Pkg
+113326: [MPCADMIN] sick day
+113327: [MPCADMIN] PTO
+113328: [MPCADMIN] sick day, 1/15
+113329: [MPCADMIN] sick day, 1/16
+113330: [MPC-ADMINREQUEST] half day vacation today (1/16) and getting in late due to dental procedure on Tuesday (1/20)
+113331: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113332: [MPC-ADMINREQUEST] signs for Humphrey
+113333: [MPCADMIN] Vacation Request January
+113334: [MPCADMIN] Sick Leave
+113336: [MPCADMIN] Sick
+113337: [MPC-ADMINREQUEST] personal holiday
+113338: [MPC-ADMINREQUEST] standing pad
+113339: [MPCADMIN] Fwd: Scan from MPC Xerox WorkCentre
+113341: [MPCADMIN] vacation request, 1/26-1/30
+113342: [MPCADMIN] Sick time
+113343: Re: [MPCADMIN] Out this am
+113344: [MPCADMIN] Vacation Leave
+113345: [MPCADMIN] Vacation Leave 1/30
+113347: [MPCADMIN] Request approval of on-line Stata course for 2 IDHS staff members
+113348: [MPCADMIN] Fwd: Your easyDNS Technologies Inc. receipt [#1541-7112]
+113349: [MPCADMIN] Fwd: Your easyDNS Technologies Inc. receipt [#1065-6466]
+113350: [MPCADMIN] Fwd: Your easyDNS Technologies Inc. receipt [#1390-8597]
+113352: [MPCADMIN] half sick/migraine day
+113353: [MPCADMIN] Fran Pcard Fwd: Order # 584024 Order Confirmation
+113354: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113355: [MPCADMIN] Fran Pcard Fwd: MacLocks: New Order # 400051026
+113356: [MPCADMIN] Fran Pcard CodeSchool Jan 2015
+113357: [MPCADMIN] reporting vacation for Kevin Horne
+113358: [MPCADMIN] out sick today
+113359: Re: [MPCADMIN] out sick today
+113360: [MPCADMIN] Vacation Reporting
+113361: [MPCADMIN] out sick today
+113362: [MPC-ADMINREQUEST] vacation day
+113363: [MPC-ADMINREQUEST] Vacation request for Feb 2nd
+113364: [MPCADMIN] Leave request for 1/27/15
+113365: [MPCADMIN] Vacation Leave
+113366: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113367: [MPC-ADMINREQUEST] Vacation Time request, 1/29, 2/5-2/6
+113368: [MPCADMIN] Jason Goray Sick Time 01/30
+113369: [MPCADMIN] Fwd: vacation request, Feb. 16 and 27
+113370: [MPCADMIN] Pcard report
+113372: [MPCADMIN] Change of status - Paycheck
+113373: [MPCADMIN] vacation request
+113374: [MPCADMIN] Telecommuting agreement - Raphael Nawrotzki
+113375: [MPCADMIN] Sick Leave
+113376: [MPCADMIN] Out sick today.
+113377: [MPCADMIN] Vacation day
+113378: [MPCADMIN] Professional Development Request Form: Marcus Peterson, RailsConf 2015
+113379: [MPCADMIN] Vacation days
+113380: [MPCADMIN] vacation report
+113381: [MPCADMIN] Fwd: Order # 586896 Order Confirmation
+113382: [MPCADMIN] Fwd: MPC Timesheet
+113383: [MPCADMIN] Vacation Reporting for Gina Rumore
+113384: [MPCADMIN] MPC Vacation Request
+113385: Re: [MPCADMIN] Lucas Winzenburg payroll distribution
+113386: Re: Vacation days
+113387: [MPCADMIN] Fwd: TRACY A MPLS-ST PAUL 20APR15
+113388: [MPCADMIN] Leave requests
+113389: [MPCADMIN] Fwd: Your Amazon.com order of "Systems Performance...".
+113390: [MPCADMIN] (half) vacation day request, 2/13
+113391: [MPCADMIN] vacation day request for 2/6
+113392: [MPCADMIN] Fwd: Registration Confirmed - Minneapolis Feb2015 - Chef Intermediate Topics
+113393: [MPCADMIN] Fwd: Registration Confirmed - Minneapolis Feb2015 - Chef Intermediate Topics
+113394: [MPCADMIN] Half Day Yesterday
+113395: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113396: [MPCADMIN] sick day
+113398: [MPCADMIN] Fwd: Purchase Confirmation No. 073280 (Minnesota Population Center)
+113399: [MPC-ADMINREQUEST] vacation time
+113400: Re: [MPCADMIN] Travel reimbursement for IDCC
+113401: [MPCADMIN] Medical Leave
+113402: [MPC-ADMINREQUEST] vacation today 2/16
+113403: [MPCADMIN] out sick today
+113404: [MPCADMIN] Fwd: Your Amazon.com order of "Seagate ST3500418AS 500GB..." has shipped!
+113405: [MPCADMIN] Fwd: Your Amazon.com order of "Apple Mighty Mouse Wireless..." has shipped!
+113406: [MPCADMIN] out sick today
+113407: [MPCADMIN] Vacation in April
+113410: [MPCADMIN] Sick leave
+113411: [MPCADMIN] Vacation Leave Request
+113412: Re: [MPCADMIN] Fabio out sick today
+113413: Re: [MPCADMIN] Vacation in April
+113414: [MPCADMIN] Sick leave for next Friday (2/27)
+113415: [MPC-ADMINREQUEST] Vacation request: 2/19/2015
+113416: [MPC-ADMINREQUEST] 1/2 SICK day Feb 6th 2015
+113417: [MPCADMIN] out feb 23 sick day
+113418: [MPCADMIN] sick leave
+113419: [MPCADMIN] Matt Nelson Vacation Leave 3/12/15
+113420: [MPCADMIN] Half Day Tomorrow Afternoon
+113421: [MPCADMIN] sick time
+113422: [MPCADMIN] vacation request
+113423: [MPCADMIN] vacation day friday
+113424: [MPCADMIN] 1/2 sick day
+113425: [MPCADMIN] Vacation Request
+113426: [MPCADMIN] Fwd: Your Amazon.com order of 2x "SanDisk Extreme 32 GB SDHC..." has shipped!
+113427: [MPCADMIN] p-card receipt Republic (2/13/15) - $45.77
+113428: [MPCADMIN] Fwd: When you get a chance...
+113429: [MPCADMIN] Riza PCard Purchase - On-site interview flight
+113430: [MPCADMIN] vacation request
+113431: [MPCADMIN] Travel request for NADDI
+113432: [MPCADMIN] Matt Nelson PAA travel request
+113433: Re: [MPCADMIN] Jason Goray Sick Time 02/18
+113434: [MPCADMIN] Vacation Leave Reporting 02/23 through 03/02
+113435: [MPCADMIN] Distribution Change - Fwd: billing question - STORE study
+113436: [MPCADMIN] Sick Leave
+113437: [MPCADMIN] Fwd: TRACY A MPLS-ST PAUL 28APR15
+113438: [MPCADMIN] Fwd: CLOUDNEXA INC: Receipt of Payment
+113439: [MPCADMIN] Receipt for Code School Feb 2015
+113440: [MPCADMIN] Fran Pcard: Fwd: Registration Confirmation for MinneWebCon 2015
+113441: [MPCADMIN] Fran Pcard: Fwd: Order # 588193 Order Confirmation
+113442: [MPCADMIN] Fran Pcard: Fwd: Order # 588194 Order Confirmation
+113443: [MPCADMIN] Fran Pcard: Fwd: Thank you for your order!
+113444: [MPCADMIN] Professional Development Request Form: Jason Goray, An Event Apart 2015
+113445: [MPCADMIN] Vacation leave request 3/6
+113447: [MPCADMIN] Fran Pcard receipt
+113448: [MPCADMIN] Sick
+113449: [MPCADMIN] Fran Pcard: Fwd: Online order confirmation from redminecrm.com
+113450: [MPCADMIN] sick this morning
+113451: [MPCADMIN] Back door near the lounge
+113452: [MPCADMIN] Sick
+113453: [MPCADMIN] vacation 3/13
+113454: [MPCADMIN] Vacation form for 2/13
+113455: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Packt Publishing Limited
+113456: [MPC-ADMINREQUEST] half day vacation for the afternoon
+113458: [MPCADMIN] Fran Pcard Receipt
+113459: [MPCADMIN] Fran Pcard Receipt Fwd: Newegg.com - Invoice
+113460: [MPCADMIN] Professional Development Request Form: Jayandra Pokharel, RailsConf 2015
+113461: [MPCADMIN] Sick day
+113462: [MPCADMIN] Sick leave
+113463: [MPCADMIN] out sick
+113464: [MPC-ADMINREQUEST] Sick day - 2/27/15
+113465: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113466: [MPCADMIN] PAA 2015 travel: Garcia/Charleroy
+113467: [MPCADMIN] Vacation Leave
+113468: [MPC-ADMINREQUEST] Vacation Time Request, 3/11/15
+113469: [MPCADMIN] Vacation leave before PAA
+113470: [MPCADMIN] Fwd: [IT@UMN] Please fill out the IT Input Survey
+113473: [MPCADMIN] Sick time
+113474: [MPCADMIN] Rodgers Professional Development Request
+113475: [MPCADMIN] Supervision designation for Ben Behar
+113476: [MPCADMIN] vacation request
+113477: [MPCADMIN] Vacation Reporting for Lucas Winzenburg
+113478: [MPCADMIN] out 3/13 afternoon
+113479: [MPCADMIN] David Van Riper - vacation request - March 20, 2015
+113480: Re: [MPCADMIN] Vacation Request 11/26/14
+113481: [MPCADMIN] Vacation Request Form
+113483: [MPCADMIN] Sick leave for March 10th and 11th
+113484: [MPCADMIN] sick day report
+113485: [MPCADMIN] Fran Pcard Receipt Fwd: Your UX Jobs Board receipt [#1309-3673]
+113486: [MPCADMIN] Fran Pcard Receipt Fwd: Online order confirmation from redminecrm.com
+113487: [MPCADMIN] Rodgers: PAA 2015 travel
+113488: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113489: [MPCADMIN] Fran Pcard Fwd: Thank you for your order
+113490: [MPCADMIN] Migraine days
+113491: [MPCADMIN] Fwd: AAG - Ding Fei
+113492: [MPCADMIN] Sick day
+113493: [MPCADMIN] Fran Pcard Fwd: order yhst-26845379110410-504614 from manning.com
+113495: [MPCADMIN] Vacation days
+113496: [MPCADMIN] Sick day again
+113497: [MPCADMIN] PCard form for PAA registration
+113498: [MPCADMIN] Fabrizio 1/2 sick day - family sick time
+113499: [MPCADMIN] Vacation Reporting for Gina Rumore
+113500: [MPCADMIN] vacation reporting
+113501: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Self Positioning LTD
+113502: [MPCADMIN] sick day
+113503: [MPCADMIN] Approved PAA Travel Funds Request for Kari Williams
+113504: [MPCADMIN] Thomas travel approved
+113505: [MPCADMIN] Vacation doc
+113506: [MPCADMIN] Reimbursement - Hotel for PAA
+113507: [MPCADMIN] 1/2 day of vacation - David Van Riper
+113508: [MPCADMIN] Fwd: Undeliverable mail
+113509: [MPCADMIN] I'm out sick today
+113510: [MPCADMIN] Half vacation day
+113511: [MPCADMIN] PCard form - AAG registration
+113512: [MPCADMIN] Vacation Leave
+113513: [MPCADMIN] Medical Leave
+113514: [MPCADMIN] Fwd: Order # 590151 Order Confirmation
+113515: [MPCADMIN] PCard receipt
+113516: [MPCADMIN] out sick today
+113517: [MPCADMIN] vacation report
+113518: [MPCADMIN] Vacation
+113519: [MPCADMIN] out sick today and tomorrow
+113520: [MPCADMIN] Vacation Day Tomorrow
+113521: [MPCADMIN] Sarkar PAA travel
+113522: [MPCADMIN] Distribution Correction
+113523: [MPCADMIN] Vacation day
+113524: [MPCADMIN] Jason Goray Sick Time 3/24 - part of 3/27
+113525: [MPCADMIN] Fwd: Your payment to Niche Job Boards LLC
+113526: [MPCADMIN] PCard receipt
+113527: [MPCADMIN] Fwd: Refund on order 109-4957454-7629052
+113528: [MPCADMIN] Fwd: Your Amazon.com order of "Python Essential Reference..." and 3 more items has shipped!
+113529: [MPCADMIN] Receipt for USENIX membership
+113530: [MPCADMIN] Fwd: usenix receipt
+113531: [MPCADMIN] Fwd: Your Amazon.com order of 3x "Maclocks Security Case and..." has shipped!
+113532: [MPCADMIN] Fwd: Order # 591126 Shipping Confirmation
+113533: [MPCADMIN] sick leave reporting
+113534: [MPCADMIN] Fwd: MacLocks: New Order # 400053478
+113535: [MPC-ADMINREQUEST] Sick day
+113536: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113537: [MPCADMIN] Fran Pcard CodeSchool March 2015
+113538: [MPCADMIN] Fran Pcard Dreamhost February Receipt
+113539: [MPCADMIN] Fran Pcard DreamHost March 2015
+113540: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113541: [MPCADMIN] Fran Pcard Fwd: Order # 588751 Order Confirmation
+113542: [MPCADMIN] Vacation request--Monday, April 6, 2015
+113543: [MPC-ADMINREQUEST] Vacation time request, Full day for 4/1/15
+113544: [MPCADMIN] mpc-staff list and payday reminder emails
+113546: [MPCADMIN] Fwd: MacLocks: New Order # 400053536
+113547: [MPC-ADMINREQUEST] half day vacation for the afternoon
+113548: [MPCADMIN] Vacation 4/2
+113549: [MPCADMIN] vacation request
+113550: [MPCADMIN] Fran Pcard Fwd: Order # 589465 Order Confirmation
+113551: [MPC-ADMINREQUEST] personal holiday tomorrow
+113552: [MPCADMIN] Sick day
+113553: [MPCADMIN] vacation day
+113554: [MPCADMIN] sick time
+113555: [MPC-ADMINREQUEST] half day vacation request for 4/3
+113556: [MPCADMIN] Time off request
+113557: [MPCADMIN] unbook a room?
+113558: [MPCADMIN] Fwd: Order # 592173 Order Confirmation
+113560: [MPCADMIN] conference call?
+113561: [MPCADMIN] Vacation request
+113563: [MPCADMIN] Out of Office on Friday 4/10
+113564: [MPCADMIN] Sick Leave
+113565: [MPCADMIN] Fwd: Order # 592484 Order Confirmation
+113566: [MPCADMIN] sick day
+113567: Re: [MPCADMIN] Vacation leave before PAA
+113568: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113569: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113570: [MPCADMIN] Time off
+113571: [MPCADMIN] Sick time today
+113572: [MPCADMIN] PAA travel on TerraPop
+113573: [MPCADMIN] PCard - On-site interview - airline ticket
+113574: [MPCADMIN] Out Thursday half day
+113575: [MPCADMIN] Fwd: Kind request for travel funds from student member
+113576: [MPCADMIN] Professional Development Request Form: Dan Elbert, RailsConf 2015
+113577: [MPCADMIN] Leave Request
+113578: [MPCADMIN] IPUMS-International travel to PAA
+113579: [MPCADMIN] Vacation time for 4/17/2015
+113580: [MPCADMIN] IDHS staff going to PAA
+113582: [MPCADMIN] IHIS project staff travel to PAA
+113583: [MPCADMIN] Bereavement leave for Friday (4/24/2015)
+113584: [MPCADMIN] Fwd: Conference presentation -- funding for Professional Development Travel
+113585: [MPCADMIN] Fwd: Professional Development Request for Pamela Vold
+113586: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113587: [MPCADMIN] Fwd: Erin Meyer effort
+113588: [MPCADMIN] vacation form for time in march
+113589: [MPCADMIN] Sick time
+113591: [MPCADMIN] SICK days: 4/16 & 4/20
+113592: [MPCADMIN] SICK Days: 4/16 & 4/20 (corrected)
+113593: [MPCADMIN] Pcard report
+113594: [MPCADMIN] Fwd: PAA travel
+113595: [MPCADMIN] Fwd: Do you know about table exhibits on the west bank
+113596: [MPCADMIN] Sick Leave
+113597: [MPCADMIN] Sick Leave
+113598: [MPCADMIN] PAA travel request
+113601: [MPCADMIN] Sick Days
+113602: [MPCADMIN] Sick time
+113603: [MPCADMIN] MPC Reimbursement-PAA Matt Nelson
+113604: [MPCADMIN] Reimbursement form
+113605: [MPC-ADMINREQUEST] SICK day -- 4/28/15
+113606: Re: [MPCADMIN] PAA Travel Reimbursement Request.
+113607: Re: [MPCADMIN] PAA Travel Reimbursement Request.
+113608: [MPCADMIN] Fran Pcard Fwd: Order # 595264 Order Confirmation
+113609: [MPCADMIN] Riza PCard Receipts
+113610: [MPCADMIN] Fran Pcard Fwd: Order # 595381 Order Confirmation
+113611: [MPCADMIN] Fran Pcard Fwd: Your Balsamiq Purchase Receipt 474754
+113612: [MPCADMIN] Sick leave - May 6
+113613: [MPCADMIN] Fran Pcard Fwd: Invoice for Axure RP Order: 8hxfvrw
+113615: Re: [MPCADMIN] ASA 2015 attendance
+113616: [MPCADMIN] reimbursement
+113617: [MPCADMIN] sick day
+113618: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113619: [MPCADMIN] Fwd: Renewal Contracts SUN-US1021418 & SUN-US1047843 - University of Minnesota
+113620: [MPCADMIN] sick day
+113621: Re: [MPCADMIN] ASA 2015 attendance
+113622: [MPCADMIN] PAA travel for Rumore
+113623: [MPCADMIN] Reimbursement form for AAG travel
+113624: [MPCADMIN] Kevin Horne sick time - Monday, May 11
+113625: [MPCADMIN] PAA taxi and per diem reimbursement
+113626: [MPCADMIN] Tuesday, May 12th
+113627: [MPCADMIN] PCard form - StrengthsQuest codes
+113628: [MPCADMIN] Expense sheet and receipts for Geocomputation
+113629: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113630: [MPCADMIN] my paycheck
+113631: [MPCADMIN] Kevin Horne sick time - Tuesday, May 12
+113632: [MPCADMIN] Medical Leave for Tuesday (5/19)
+113633: [MPCADMIN] Reimbursement form
+113634: [MPCADMIN] Fran Pcard Fwd: Order # 596109 Order Confirmation
+113635: [MPCADMIN] Fran Pcard Fwd: Invoice (No. 711146) - from Computer Intelligence Association, MN-University of Minnesota
+113636: [MPCADMIN] David Haynes - Friday 5/15/2015
+113637: [MPCADMIN] ArcGIS
+113639: [MPCADMIN] Half day for doctor's appointment
+113640: [MPCADMIN] Fran Pcard Fwd: Order # 596454 Order Confirmation
+113642: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113643: [MPCADMIN] Fran Pcard Code School Apr 2015
+113644: [MPCADMIN] Fran Pcard: Code School May 2015 charges
+113645: [MPCADMIN] vacation request: F 5/22 and W-F 6/10-12
+113646: Re: [MPCADMIN] vacation request: F 5/22 and W-F 6/10-12
+113647: Re: [MPCADMIN] vacation request: F 5/22 and W-F 6/10-12
+113648: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113649: [MPCADMIN] Fwd: Fran Pcard Fwd: Your Balsamiq Purchase Receipt 474754
+113650: [MPCADMIN] Fran Pcard Fwd: Order # 595381 Shipping Confirmation
+113651: [MPCADMIN] Fran Pcard DreamHost monthly charges
+113652: [MPCADMIN] Fran Pcard Fwd: Order # 593265 Order Confirmation
+113653: [MPCADMIN] Fran Pcard Fwd: Invoice (No. 711146) - from Computer Intelligence Association, MN-University of Minnesota
+113654: [MPCADMIN] Alex McWhinnie salary distribution
+113655: [MPCADMIN] Fran Pcard Fwd: BRIAN P MPLS-ST PAUL 06JUN15
+113657: [MPCADMIN] sick time
+113658: [MPCADMIN] Half day for doc appt
+113660: [MPCADMIN] Fwd: You sent an automatic payment of $200.00 USD
+113661: [MPCADMIN] Fran Pcard Fwd: [frafab1 103819893] DreamHost Automatic Rebill Receipt
+113663: [MPCADMIN] half sick day
+113666: [MPCADMIN] Another half day
+113667: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113668: [MPCADMIN] Visitor for Tracy
+113669: [MPCADMIN] Sick Day -- Gina Rumore 5/29/15
+113671: [MPCADMIN] Sick Leave for next Monday (6/8)
+113672: [MPCADMIN] p-card Sea Change and MSP parking 5-3-15
+113673: [MPCADMIN] Sick leave for 5/26 and 5/27
+113674: [MPCADMIN] Plans today and this week
+113675: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Packt Publishing Limited
+113677: [MPCADMIN] PCard form - AAG workshop
+113680: [MPCADMIN] David Van Riper - four hours of sick leave for Friday, June 5, 2015
+113681: [MPCADMIN] Travel request for DataONE DUG meeting
+113682: Re: [MPCADMIN] Travel request for DataONE DUG meeting
+113683: [MPCADMIN] PCard form
+113684: [MPCADMIN] Reimbursement form
+113685: [MPCADMIN] sick day
+113689: [MPCADMIN] SICK 1/2 day request (6/8/15)
+113690: [MPCADMIN] PCard reconciliation
+113691: [MPCADMIN] Hotel reimbursement
+113693: [MPCADMIN] Rumore--Sick Time
+113694: [MPCADMIN] Medical Leave
+113695: [MPCADMIN] vacation time tomorrow and Monday
+113696: [MPCADMIN] Reimbursement
+113698: [MPCADMIN] May be in a few minutes late this morning.
+113699: [MPCADMIN] professional development request for Jason Borah
+113700: [MPCADMIN] PCard form - flights to NCGE
+113701: [MPCADMIN] Fed MED/EE, Fed OASDI/EE
+113703: [MPCADMIN] Fabrizio sick time
+113704: [MPCADMIN] more time off
+113705: [MPCADMIN] p-card Afro Deli 6/9/2015
+113706: [MPC-ADMINREQUEST] Sick Day, Monday 6/22
+113707: [MPCADMIN] 4 hours if sick leave for David van riper
+113708: [MPCADMIN] Change in plans
+113709: Re: [MPCADMIN] Change in plans
+113710: [MPCADMIN] Sick day for medical appointment
+113711: [MPCADMIN] Visitor to MPC 6/14-6/17
+113712: [MPCADMIN] Fwd: [frafab1 105376978] DreamHost Automatic Rebill Receipt
+113713: [MPCADMIN] Today and Monday/Tuesday
+113715: [MPCADMIN] Fran Pcard Fwd: order yhst-26845379110410-528973 from manning.com
+113716: [MPCADMIN] Receipt for Intel SSD from Amazon
+113717: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113718: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113719: Re: [MPCADMIN] Funeral Leave
+113720: [MPCADMIN] Out sick today.
+113721: [MPCADMIN] PCard and Reimbursement forms
+113722: [MPCADMIN] Reporting a sick day
+113723: [MPCADMIN] Home today
+113724: [MPCADMIN] sick time
+113726: Re: [MPCADMIN] professional development request for Jason Borah
+113729: [MPCADMIN] Pamela out sick
+113730: [MPCADMIN] Fran Pcard Receipt: Ben Klaas Laptop Order #45000
+113731: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113732: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113733: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113734: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Self Positioning LTD
+113735: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113736: [MPCADMIN] Fran Pcard Receipt for annual dreamhost charges
+113737: [MPCADMIN] Fran Pcard Codeschool June AND July receipt
+113738: [MPCADMIN] Fran Pcard Fwd: Order # 599624 Order Confirmation
+113739: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Humble Bundle, Inc.
+113740: [MPCADMIN] Fran Pcard Fwd: Order # 599623 Order Confirmation
+113741: [MPCADMIN] Sick
+113742: [MPCADMIN] Current list of account strings
+113745: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113746: [MPCADMIN] Vacation day, sort of
+113749: [MPCADMIN] p-card D'Amico 7/21/05
+113753: [MPCADMIN] Sick Leave for Thursday, 8/27
+113754: [MPCADMIN] sick day today
+113755: [MPCADMIN] Sick Today
+113756: [MPCADMIN] Reimbursement form - NCGE in DC
+113757: [MPCADMIN] sick leave, Friday August 14
+113758: [MPCADMIN] Hugo is sick - out this morning - be in for the call with Kate this afternoon
+113759: [MPCADMIN] Travel and sick time
+113760: [MPCADMIN] travel request Sarkar
+113761: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113762: [MPC-ADMINREQUEST] Sick day (1/2) - 8/10/15
+113763: [MPCADMIN] ASA travel request form
+113764: [MPCADMIN] Fran Pcard OReilly Books Fwd: Thank you for your order!
+113765: [MPCADMIN] Fran Pcard ACM Fwd: Receipt for Your Payment to ACM, Inc.
+113767: [MPCADMIN] at home with sick child tomorrow
+113768: [MPCADMIN] home sick today
+113769: [MPCADMIN] Fran Pcard Fwd: Thank you for your order!
+113770: [MPCADMIN] Fran Pcard Receipt Elegant Themes Re: PCard Transaction - Information
+113771: [MPCADMIN] Tuesday 8/18/2015
+113772: [MPCADMIN] Professional development reimbursement - form and receipt
+113773: Re: [MPCADMIN] ASA travel request form
+113774: [MPCADMIN] Fran Pcard Fwd: Your Order at Packt Publishing
+113775: [MPCADMIN] Out sick today
+113776: Re: [MPCADMIN] Out sick today
+113777: Re: [MPCADMIN] Out sick today
+113778: [MPCADMIN] ugh, home with sick kid
+113779: [MPCADMIN] Sick Day
+113780: [MPCADMIN] Friday, 8/21/15
+113781: [MPCADMIN] Out sick 08/24/2015
+113782: [MPCADMIN] Sick day
+113783: [MPCADMIN] Out sick 8/25 & 8/26
+113784: [MPCADMIN] sick leave
+113785: [MPCADMIN] out aug 26 .5 sick day
+113786: [MPCADMIN] half sick day
+113787: [MPCADMIN] out aug 27 .5 sick day
+113788: [MPCADMIN] Sick day
+113789: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113790: [MPCADMIN] Vacation time
+113791: [MPCADMIN] out sick 09/01/2015
+113792: [MPCADMIN] Out sick 09/02/2015
+113793: [MPCADMIN] out 9/2 1 sick day
+113794: [MPCADMIN] Sick day yesterday, Sept 1st
+113796: [MPCADMIN] PCard form
+113798: [MPCADMIN] Medical Leave
+113799: [MPCADMIN] Sick day
+113800: [MPCADMIN] Fwd: Question about Job Opening ID 304295
+113801: [MPCADMIN] Out sick today
+113803: [MPCADMIN] Out sick
+113806: [MPCADMIN] PCard form
+113807: [MPCADMIN] SAS for Morrison (Luke) Smith
+113808: Re: [MPCADMIN] Pay Day Reminder
+113809: sick time
+113810: [MPCADMIN] Sick Leave
+113811: [MPCADMIN] Fabrizio sick time
+113812: [MPCADMIN] sick this afternoon
+113814: [MPCADMIN] Out sick
+113815: [MPCADMIN] Sick days, 9/21 and 9/22
+113816: [MPCADMIN] 4 hours of sock leave for David Van Riper
+113817: [MPCADMIN] Sick day
+113818: [MPCADMIN] Request for EndNote (full version) for Raphael Nawrotzki
+113819: [MPCADMIN] Fwd: Invoice from Cloudnexa
+113820: [MPCADMIN] Fran Pcard CodeSchool Aug 2015 charges
+113821: [MPCADMIN] CyberGIS travel expense report
+113822: [MPCADMIN] Fwd: Receipt for Your Payment to JetBrains s.r.o.
+113823: [MPCADMIN] Fran Pcard Fwd: Invoice from JetBrains INVCZ260736
+113824: [MPCADMIN] Fran Pcard Fwd: Invoice from Cloudnexa
+113825: [MPCADMIN] Fran Pcard Codeschool Sep 2015 Charges
+113826: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113827: [MPCADMIN] Fran Pcard Dreamhost charges Aug 2015
+113828: [MPCADMIN] Pamela out sick
+113829: [MPCADMIN] Sick day, September 25, 1915
+113832: [MPCADMIN] Rumore Sick Day September 2
+113833: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113834: [MPCADMIN] Printing services
+113835: [MPCADMIN] Professional development reimbursement request
+113836: [MPCADMIN] Cathy P-Card IKEA
+113837: [MPCADMIN] sick day
+113838: [MPCADMIN] Sick day
+113841: [MPCADMIN] missing a flash drive from Room 29
+113842: [MPCADMIN] Pcard reconciliation
+113843: [MPCADMIN] Fwd: Transaction Receipt from U OF M-EDC CSOM OL for 50.00 (USD)
+113844: [MPCADMIN] Fran Pcard DreamHost annual charge for blog.popdata.org
+113845: [MPCADMIN] Fran Pcard ISC2 receipt
+113846: [MPCADMIN] Sick day
+113848: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113849: [MPCADMIN] Sick day
+113850: [MPCADMIN] Fwd: SSHA Project Travel Form-Matt Nelson
+113851: [MPCADMIN] IT Prof Dev - Willy Lee
+113852: [MPCADMIN] Fran Pcard Fwd: Registration Confirmed - LISA15
+113853: [MPCADMIN] Fran Pcard Fwd: Your Flight Receipt - WILLY BRINK LEE 07NOV15
+113856: [MPCADMIN] Fran Pcard Fwd: Your easyDNS Technologies Inc. receipt [#1354-6492]
+113857: [MPCADMIN] Fran Pcard Fwd: Your easyDNS Technologies Inc. receipt [#1391-2472]
+113858: [MPCADMIN] Stata for Lizzy Goldsmith's computer
+113859: [MPCADMIN] Sick day
+113860: [MPCADMIN] out oct 15 sick day
+113861: [MPCADMIN] Sick leave for oct 1 to oct 6
+113862: [MPCADMIN] Sula Sarkar travel request for SSHA
+113863: [MPCADMIN] Sick time
+113864: [MPCADMIN] Vick travel request for SSHA
+113865: [MPCADMIN] sick leave
+113866: [MPCADMIN] Out sick today.
+113867: [MPCADMIN] Campus Club Reciepts
+113868: [MPCADMIN] Out sick today.
+113869: [MPCADMIN] Sick Leave
+113870: [MPCADMIN] Fran Pcard Fwd: Your easyDNS Technologies Inc. receipt [#1554-6026]
+113871: [MPCADMIN] Sick time
+113872: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113873: [MPCADMIN] Fran Pcard Fwd: Your easyDNS Technologies Inc. receipt [#1989-8900]
+113874: [MPCADMIN] sick leave
+113878: [MPCADMIN] Willy out sick today
+113879: Re: [MPCADMIN] Pay Day Reminder
+113880: [MPC-ADMINREQUEST] sick day
+113881: [MPCADMIN] Sick day
+113882: [MPCADMIN] Medical Leave
+113883: [MPCADMIN] PCard forms
+113884: [MPCADMIN] sick day
+113885: [MPCADMIN] Date of last charge from CLA for SPSS desktop licenses
+113886: [MPCADMIN] Delta.com Fitch MSP - MDW 02NOV15
+113887: [MPCADMIN] Delta.com Fitch MSP BWI DCA 12NOV15
+113888: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113891: [MPCADMIN] sick leave
+113893: [MPCADMIN] Out sick
+113894: [MPCADMIN] Vacation Day - Using "off the books" day
+113896: [MPCADMIN] SPSS Server license for new stats server
+113897: Re: [MPCADMIN] Pay Day Reminder
+113898: [MPC-ADMINREQUEST] sick time
+113899: [MPCADMIN] sick leave - 11/25
+113900: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113901: [MPCADMIN] IEEE for Big data expense report
+113904: [MPCADMIN] sick day
+113905: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113906: [MPCADMIN] PCard form
+113907: [MPCADMIN] Fwd: Invoice 1143699 - University of Michigan N992850 - Sponsor Award Number
+113908: [MPCADMIN] Fran Pcard Fwd: Order Status #256713927
+113910: [MPCADMIN] PCard Receipt - Fwd: Your LinkedIn Order 2324634764
+113911: [MPCADMIN] PCard Receipt Fwd: Stack Overflow Careers Order #128655 Confirmation
+113914: [MPCADMIN] Fran Pcard Code School Receipt Nov 2015
+113915: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Hootsuite
+113917: [MPCADMIN] Sick
+113918: [MPCADMIN] Sick Leave
+113919: Re: [MPCADMIN] Sick
+113920: [MPCADMIN] union leave Tuesday 11/24
+113921: [MPCADMIN] Fwd: Aloft Minneapolis Hotel - Invoices
+113923: [MPCADMIN] Sick day
+113925: [MPCADMIN] Pamela at home with sick kid
+113926: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113927: [MPCADMIN] sick leave
+113928: [MPCADMIN] Fwd: Expense report for T Osypuk
+113929: Re: [MPCADMIN] SPSS Server license for new stats server
+113930: [MPCADMIN] salary distribution change for Jake Wellington
+113931: [MPCADMIN] Fwd: distributions
+113932: Re: [MPCADMIN] salary distribution change for Jake Wellington
+113933: [MPC-ADMINREQUEST] Out sick today
+113934: [MPCADMIN] Sick
+113935: [MPCADMIN] Sick leave
+113936: [MPCADMIN] P-Card Fitch Delta.com
+113937: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+113938: [MPCADMIN] Fran Pcard Fwd: HipChat Payment Receipt
+113939: [MPCADMIN] Fran Pcard Code School Receipt Dec 2015
+113940: [MPC-ADMINREQUEST] Sick time for this afternoon
+113942: [MPCADMIN] Reimbursement form - Spatial 2015
+113943: [MPCADMIN] union leave 12/17
+113945: [MPCADMIN] Reimbursement form - EFGS
+113946: [MPCADMIN] Reimbursement
+113948: [MPCADMIN] Sick child
+113949: [MPC-ADMINREQUEST] Out sick
+113950: [MPCADMIN] Medical Leave
+113952: [MPCADMIN] 4 hours of sick leave for David Van Riper - 12/22/2015
+113953: [MPCADMIN] Resignation
+113955: [MPCADMIN] Sick day
+113956: [MPCADMIN] Ergonomic Equipment Purchase
+113957: [MPCADMIN] Sick day
+113958: Re: [MPCADMIN] Sick day
+113959: [MPCADMIN] Going home sick
+113960: [MPCADMIN] Half day--out sick
+113961: [MPCADMIN] out sick today.
+113962: [MPCADMIN] missed days in Dec
+113963: Out Monday Morning: Sick
+113964: [MPCADMIN] Sick day
+113965: [MPCADMIN] Fwd: Invoice for Software 8393679
+113966: [MPCADMIN] Sick day, agian
+113967: Re: [MPCADMIN] Pay Day Reminder
+113969: [MPCADMIN] union leave 1/7
+113971: Out Sick
+113974: [MPCADMIN] Sick day
+113975: [MPCADMIN] Authorizing purchases at UMN Bookstore
+113976: [MPCADMIN] Fwd: Reimbursement for Theresa Osypuk
+113977: [MPCADMIN] Sick
+113978: [MPCADMIN] Fabrizio sick time 1/12
+113980: [MPCADMIN] Sick
+113981: [MPCADMIN] union leave Friday 1/15
+113982: [MPCADMIN] officer's leave today 1/13
+113983: [MPCADMIN] sick leave
+113984: [MPCADMIN] Pamela out sick
+113986: [MPCADMIN] Fran Pcard Fwd: Your Flight Receipt - JONATHAN CHRISTO RENNER 27MAY16
+113987: [MPCADMIN] Fran Pcard Fwd: Your Flight Receipt - FRANCIS FABRIZIO 16FEB16
+113988: [MPCADMIN] Fran Pcard Fwd: Elastic Registration Confirmation
+113989: [MPCADMIN] Fran Pcard Fwd: Your Travel Insurance Request (ref:EUSP2065408601)
+113990: [MPCADMIN] Fran Pcard Fwd: Code Freeze 2016 Email Receipt
+113991: [MPCADMIN] Fran Pcard Fwd: You sent an automatic payment of $200.00 USD
+113992: [MPCADMIN] Fran Pcard Fwd: Your Amazon.com order of "Maclocks 13-Inch Lock and..." has shipped!
+113993: [MPCADMIN] out sick today
+113994: [MPCADMIN] Sick
+113995: Re: [MPCADMIN] Sick
+113996: [MPCADMIN] Pcard reconciliation
+113997: [MPCADMIN] Out sick
+113998: [MPCADMIN] Sick leave - January 22
+113999: [MPCADMIN] Pamela home with sick kid this morning - in around noon
+114000: [MPCADMIN] officers leave 1/26
+114001: [MPCADMIN] Fran Pcard Fwd: CLOUDNEXA INC: Receipt of Payment
+114002: [MPCADMIN] Fran Pcard Fwd: Your Amazon.com order of "Maclocks 13-Inch Lock and...".
+114005: [MPCADMIN] Sick Leave
+114006: [MPCADMIN] officers leave today (1/29)
+114007: [MPCADMIN] sick day for David Van Riper
+114008: [MPCADMIN] Kevin out sick on Monday
+114009: [MPCADMIN] sick time
+114011: [MPCADMIN] Kevin sick Tuesday Feb 2
+114013: [MPCADMIN] Pcard reconciliation
+114014: [MPCADMIN] Sick leave
+114015: [MPCADMIN] Sick leave for today
+114016: [MPCADMIN] Fran Pcard Fwd: Receipt for Your Payment to Packt Publishing Limited
+114018: [MPCADMIN] Kevin out sick Friday
+114019: [MPCADMIN] officers leave 2/5
+114020: [MPCADMIN] Fabrizio - 1/2 day family sick time
+114023: [MPCADMIN] Evan Roberts salary distribution
+114024: [MPCADMIN] Sick day
+114025: [MPCADMIN] Out sick today
+114028: [MPCADMIN] sick day
+114030: [MPCADMIN] Jason Goray Family Sick Time 2/12/2016
+114031: [MPCADMIN] officer's leave 2/19
+114032: [MPCADMIN] out feb 22 sick day
+114033: [MPCADMIN] Wiki access for Dan Backman
+114044: [MPCADMIN] sick time
+114045: Re: [MPCADMIN] sick time
+114046: [MPCADMIN] officers leave 2/26
+114047: [MPC-ADMINREQUEST] sick day
+114050: [MPCADMIN] Out Sick
+114051: [MPCADMIN] half-day sick leave today, 3/1
+114053: [MPC-ADMINREQUEST] home with sick kid
+114054: [MPCADMIN] union leave 3/3
+114058: [MPCADMIN] sick leave, Thurs., March 10
+114059: [MPCADMIN] Sick Day Notice
+114061: [MPCADMIN] Fabrizio 1/2 sick day 3/7/2016
+114067: Home sick
+114068: [MPCADMIN] union leave 3/11
+114069: [MPCADMIN] sick day
+114070: [MPCADMIN] Jason Goray Family Sick Time 3/14 - 3/15
+114071: [MPCADMIN] sick time
+114072: [MPCADMIN] Sick
+114075: [MPCADMIN] Home, sick kid
+114078: [MPCADMIN] Kevin out sick Thursday
+114079: [MPCADMIN] officers leave 3/17
+114080: [MPCADMIN] Kevin out sick Monday March 21
+114081: [MPCADMIN] sick time
+114082: [MPCADMIN] Invitation: All members meeting @ Thu Apr 14, 2016 2pm - 6:30pm (vold0011@umn.edu)
+114083: [MPCADMIN] Fabrizio sick time
+114086: [MPCADMIN] Sick day
+114087: [MPCADMIN] out sick 3/23/2016
+114088: [MPCADMIN] Testing to see if Tori is on the RT system
+114089: [MPCADMIN] out sick 3/24/20016
+114091: [MPCADMIN] In late
+114092: [MPCADMIN] correct info
+114093: [MPCADMIN] Fabrizio Bereavement Leave
+114094: [MPCADMIN] Officers Leave Thursday 3/31
+114097: [MPCADMIN] Half day sick day today
+114098: [MPCADMIN] jury duty day #1
+114102: [MPCADMIN] jury duty - day 2
+114104: [MPCADMIN] jury duty day 3
+114105: [MPCADMIN] Taking a sick day
+114107: [MPCADMIN] Sick leave for this afternoon
+114108: [MPCADMIN] Pamela out sick
+114109: [MPCADMIN] Half day sick leave
+114110: [MPCADMIN] Half Sick Day for Gina Rumore
+114111: [MPCADMIN] Sick day 4/14/16 for medical tests
+114112: Re: [MPCADMIN] Sick day 4/14/16 for medical tests
+114114: [MPCADMIN] FMLA absense
+114115: [MPCADMIN] union leave Friday 4/15
+114116: [MPCADMIN] Rumore 1/2 Sick Day 4/14
+114117: [MPCADMIN] FMLA leave
+114118: [MPCADMIN] Sick Time
+114120: [MPCADMIN] Out Sick 04/14/16
+114121: [MPCADMIN] Partial day.
+114123: [MPCADMIN] FMLA leave
+114124: Re: [MPCADMIN] Out
+114128: [MPCADMIN] Sick leave
+114129: [MPCADMIN] half day of sick leave for David Van Riper - 4/19/2016
+114130: [MPCADMIN] Half day sick leave tomorrow
+114131: [MPCADMIN] FMLA leave
+114132: [MPCADMIN] Officers Leave 4/21
+114134: [MPCADMIN] Sick day today
+114135: [MPCADMIN] union leave 4/22
+114136: [MPCADMIN] fmla
+114137: Re: [MPCADMIN] Jason Goray Family Sick Time 4/20 - 4/22
+114138: [MPCADMIN] out april 25 sick day
+114139: [MPCADMIN] Sick leave?
+114141: [MPCADMIN] Absense
+114142: [MPCADMIN] sick day
+114143: [MPCADMIN] Out today
+114145: [MPCADMIN] Officers Leave 4/28 & 4/29
+114146: [MPCADMIN] Today's leave
+114147: [MPCADMIN] sick time
+114151: [MPCADMIN] Humphrey printer cartridge
+114152: [MPCADMIN] sick today
+114153: [MPCADMIN] May 3
+114154: [MPCADMIN] union leave 5/4
+114156: [MPCADMIN] Officers Leave 5/5
+114157: [MPCADMIN] Leave
+114159: [MPCADMIN] afternoon off for likely pain recovery
+114160: [MPCADMIN] Sick leave
+114162: [MPCADMIN] tooth pain after dentist
+114163: [MPCADMIN] Hours from week of 4/11-4/17 need approval
+114164: [MPCADMIN] Sick Day Notice
+114165: [MPCADMIN] union leave 5/12
+114166: [MPCADMIN] Sick leave
+114167: [MPCADMIN] FMLA leave
+114170: [MPCADMIN] Sick leave - May 13
+114171: [MPCADMIN] Sick leave
+114177: [MPCADMIN] Fabrizio sick time 5/16 and 5/20
+114178: [MPCADMIN] Sick time
+114179: [MPCADMIN] union leave 5/23
+114180: [MPCADMIN] sick day today
+114181: [MPCADMIN] officers leave 5/24
+114182: [MPCADMIN] medical leave - 5/23/2016
+114183: [MPCADMIN] Pamela out - Henry sick
+114184: [MPCADMIN] Sick Time
+114186: [MPCADMIN] Sick Leave
+114187: [MPCADMIN] Sick leave
+114188: [MPCADMIN] Sick day today
+114189: [MPCADMIN] Sick leave
+114192: [MPCADMIN] union leave Tuesday 6/7
+114193: [MPCADMIN] Sick leave
+114194: [MPCADMIN] Out sick today
+114195: [MPCADMIN] Sick Day for Willy
+114197: Home sick
+114198: [MPCADMIN] sick
+114199: [MPCADMIN] union leave 6/2
+114201: [MPCADMIN] Fabrizio sick time
+114202: [MPCADMIN] union leave Th 6/16
+114203: [MPCADMIN] reporting sick leave
+114204: [MPCADMIN] officers leave 6/15
+114205: [MPCADMIN] Child Sick Days
+114206: [MPCADMIN] sick leave
+114207: [MPCADMIN] test ticket
+114208: [MPCADMIN] MPC Outstanding Research Award
+114211: [MPCADMIN] another FedEx shipment
+114212: [MPCADMIN] officers leave 6/21
+114213: [MPCADMIN] union leave Wed 6/22
+114214: [MPCADMIN] Sick day
+114215: [MPCADMIN] salary distribution changes: Fitch, Gottreu, Taylor, Fabrizio, Lee and Walker
+114216: [MPCADMIN] salary distribution changes
+114219: [MPCADMIN] Out Today
+114220: [MPCADMIN] union leave 6/29
+114221: [MPCADMIN] Leave for June 28 and 29
+114222: [MPCADMIN] FMLA leave
+114229: [MPCADMIN] Sick Leave
+114236: [MPCADMIN] Out Sick
+114237: [MPCADMIN] officers leave 7/13
+114239: [MPCADMIN] Out sick today
+114244: [MPCADMIN] MPC Outstanding Research Award
+114245: [MPCADMIN] Leaves
+114247: [MPCADMIN] Taking personal day on July 22
+114248: [MPCADMIN] Jason Goray Sick Time 7/20
+114249: [MPCADMIN] Pamela out sick
+114250: [MPCADMIN] officers/union leave 7/27
+114252: [MPCADMIN] Medical Leave
+114253: [MPCADMIN] Sick day today
+114254: [MPCADMIN] Kevin out today
+114256: [MPCADMIN] officers leave 8/3
+114257: [MPCADMIN] union leave 8/4
+114258: [MPCADMIN] Out Sick
