@@ -14,7 +14,7 @@ The scripts are pretty good about outputting status, since they can take a while
 
 We had a few thousand tickets in an RT instance that we needed to migrate to Redmine. In order to use the native language APIs on each side, I split this into two scripts. First, a Perl script to export RT via RT::Client::REST to a directory structure that captured ticket data as JSON files and dumped attachments. Second, a Ruby script to import that data into Redmine via ActiveResource. ActiveRespource had some annoying properties (not allowing me to update created_on and updated_on, nor an easy way to get at the HTTP response) so at times I used a simple REST client and even direct SQL connection to the backend DB.  I'm not proud of it, but it works.
 
-The process attempts to attribute updates to the actual person who did each creation and update (using Redmine's X-Redmine-Switch-User functionality), but falls back to using the user you connect to the API as if necessary.  The scripts also reset the creation and last updated dates. 
+The process attempts to attribute updates to the actual person who did each creation and update (using Redmine's X-Redmine-Switch-User functionality), but falls back to using the user you connect to the API as (e.g. Redmine Admin) if necessary.  The scripts also reset the creation and last updated dates for issue creation/updates so that they are chronologically at least semi-accurate (see Caveats below). 
 
 ## Installation
 
