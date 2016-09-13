@@ -6,8 +6,6 @@
 require 'rest-client'
 require 'JSON'
 require 'active_resource'
-require 'activeresource-response'
-require 'pp'
 require 'mysql'
 require 'yaml'
 
@@ -43,10 +41,8 @@ class RestAPI < ActiveResource::Base
   self.password = 'abcd'
   
   # this hack fixed a problem where I would get "Subject can't be blank" when trying
-  # to save the Issue
+  # to save the Issue. Thanks Google!
   self.include_root_in_json = true   
-  
-  add_response_method :my_response
   
   # ACTIVATE for DEBUGGING OUTPUT (not too useful, but somewhat)
   # RestAPI.logger = Logger.new(STDERR)
@@ -58,7 +54,7 @@ class Issue < RestAPI;
   self.element_name = "issue" 
 end
 
-# we will need a Pg DB connection - see why later
+# we will need a DB connection - see why later
 conn = Mysql.new($config['dbhost'], $config['dbuser'], $config['dbpass'], $config['database'])
 
 directories = Dir.entries($config['tickets_directory']).sort_by {|s| s.to_i } 
@@ -71,7 +67,7 @@ directories.each() do |ticketdir|
   jsonfile = $config['tickets_directory'] + ticketdir + '/' + ticketdir + '.json'
   file = File.read(jsonfile)
   ticket = JSON.parse(file)
-  #pp ticket 
+  
   # get RT ID
   rt_id = /ticket\/(\d+)/.match(ticket['id'])[1]
   

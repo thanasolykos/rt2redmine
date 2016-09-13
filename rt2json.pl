@@ -27,14 +27,14 @@ GetOptions ("start=i" => \$start,    # numeric
             "debug"  => \$debug)   # flag
 or die("Error in command line arguments\n");
 
-# real server
+# create REST client object
 my $rt = RT::Client::REST->new(server => $config->{'server'});
 
 # json coder
 my $json = new JSON->ascii->pretty;
 
 try {
-  # real server login
+  # server login
   $rt->login(username => $config->{'username'}, password => $config->{'password'});
 } catch Exception::Class::Base with {
   die "Can't login: ", shift->message;
@@ -97,7 +97,7 @@ foreach my $tid (sort {$a <=> $b} @ids) {
   # process attachments for this ticket, if any
   # this means both "real" attachments, as in someone put a file on the ticket, and incoming emails, which get
   # parsed into a series of attachments, and are not always reflected in the ticket history from the API like 
-  # you'd expect
+  # you'd expect.  All this business about parents refers to the way that RT breaks apart an email into various attachments that have parent-child relationships.
   my $current_parent;
   my $alt_parent; 
   foreach my $att_id (sort {$a <=> $b} @att_ids) {
