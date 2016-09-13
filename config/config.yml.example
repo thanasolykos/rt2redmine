@@ -1,0 +1,50 @@
+rt2json:
+  # RT queue to export
+  queue: "YOUR-QUEUE-NAME"
+  # RT ticket number to start with
+  start: 0
+
+  # RT server and credentials
+  server: "https://YOUR-SERVER-URL/"
+  username: "USERNAME"
+  password: "PASSWORD"
+
+  # enable debug mode for RT export
+  debug: false
+
+json2redmine:
+  # the directory containing the JSON representations of exported RT tickets
+  tickets_directory: "tickets/"
+  
+  # RT ticket number to start with
+  start: 0
+
+  # Redmine server and API key
+  url: https://YOUR-SERVER-URL/
+  key: "YOUR API KEY"
+  
+  # Redmine project ID
+  project_id: PROJECT_ID
+  
+  # Redmine closed and open status IDs
+  closed_status_id: CLOSED_STATUS_ID
+  open_status_id: OPEN_STATUS_ID
+  
+  # Redmine URLs for uploads and issues
+  upload_url: "https://YOUR_SERVER_URL/uploads.json"
+  issue_url_base: "https://YOUR_SERVER_URL/issues/"
+  
+  # Regular expression to capture the creator's email for a string 
+  # used to check for existing Redmine user by that name
+  username_regex: "(.*?)@YOUR.EMAIL.DOMAIN"
+
+  # connection info for Redmine's underlying MySQL database
+  # currently need this because some things do not work via 
+  # ActiveResource
+  database: 'DATABASE_NAME'
+  dbhost: 'DATABASE_SERVER'
+  dbuser: 'DATABASE_USER'
+  dbpass: 'DATABASE_PASSWORD'
+  
+  # enable debug mode for Redmine import
+  debug: false

@@ -1,2 +1,4 @@
 fran.login
 tickets**
+config/config.yml
+*.log
