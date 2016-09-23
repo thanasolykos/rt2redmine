@@ -1,3 +1,5 @@
+# Replace all STRINGS_IN_CAPS with appropriate values
+
 rt2json:
   # RT queue to export
   queue: "YOUR-QUEUE-NAME"
@@ -25,6 +27,9 @@ json2redmine:
   
   # Redmine project ID
   project_id: PROJECT_ID
+  
+  # Redmine tracker ID
+  tracker_id: TRACKER_ID
   
   # Redmine closed and open status IDs
   closed_status_id: CLOSED_STATUS_ID
