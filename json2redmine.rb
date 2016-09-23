@@ -53,6 +53,9 @@ end
 class Issue < RestAPI; 
   self.element_name = "issue" 
 end
+class User < RestAPI;
+  self.element_name = "user"
+end
 
 # we will need a DB connection - see why later
 conn = Mysql.new($config['dbhost'], $config['dbuser'], $config['dbpass'], $config['database'])
@@ -77,9 +80,9 @@ directories.each() do |ticketdir|
     :project_id => $config['project_id'],
     :description => (ticket['Description'] || ticket['Transactions'][0]['Content']),
     # tracker 6 is request
-    :tracker_id => 6
+    :tracker_id => $config['tracker_id']
   )
-
+    
   RestAPI.redmine_user = false
   # general pattern to follow when doing a .save - first try as the RT username (hoping
   # there is an equivalent Redmine login), then
@@ -106,6 +109,29 @@ directories.each() do |ticketdir|
       puts issue.errors.full_messages
     end    
   end 
+  
+  # get and set the assignee ID
+  puts "Attempting to identify Assignee using mail " + ticket['Owner']
+  # using rest-client and not ActiveResource because this is yet another area (see others below) where 
+  # ActiveResource is more trouble than it is worth.  It cannot handle the style of JSON response that the
+  # Redmine API returns in this case.
+  assignee_id = nil 
+  response = RestClient::Request.execute(:url => $config['user_url_base'] + "?key=#{$config['key']}&name=#{ticket['Owner']}", :method => :get, :verify_ssl => false)      
+  userhash = JSON.parse(response.body)
+  if userhash["total_count"] > 0
+    assignee_id = userhash["users"][0]["id"]
+  end
+  if assignee_id
+    puts "Found! Assigning to user ID #{assignee_id}"
+    id = issue.id 
+    issue_url = $config['issue_url_base'] + "#{id}.json"
+    puts issue_url
+    response = RestClient::Request.execute(:url => issue_url, :method => :put, :verify_ssl => false, 
+        :headers => {'X-Redmine-API-Key': $config['key'], 'Content-Type': 'application/json'}, :payload => 
+    {:issue => {:assigned_to_id => assignee_id.to_i }})
+  else
+    puts "Unable to determine assignee.  Assignee will be blank."
+  end
   
   # set status
   stat_id = 0
