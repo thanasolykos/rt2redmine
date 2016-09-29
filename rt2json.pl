@@ -146,12 +146,12 @@ foreach my $tid (sort {$a <=> $b} @ids) {
     
     # we have a real attachment, write it out
       print "  Yay! Real attachment. Saving.\n";    
-    make_path("tickets/$tid/attachments") if ! -d "tickets/$tid/attachments";
-    my $filename = "tickets/$tid/attachments/" . $att->{Filename};
+    make_path($config->{'tickets_directory'} . "$tid/attachments") if ! -d $config->{'tickets_directory'} . "$tid/attachments";
+    my $filename = $config->{'tickets_directory'} . "$tid/attachments/" . $att->{Filename};
     open OUT, ">", $filename or die "Can't open $filename for writing.\n";
     print OUT $att->{Content};
     close OUT;
-    open OUT, ">", "tickets/$tid/att" . $att->{id} .  ".json" or die "Can't open tickets/$tid/att" . $att->{id} .  ".json for writing.\n";
+    open OUT, ">", $config->{'tickets_directory'} . "$tid/att" . $att->{id} .  ".json" or die "Can't open $config->{'tickets_directory'}$tid/att" . $att->{id} .  ".json for writing.\n";
     print OUT $json->pretty->encode($att);
     close OUT;
     $debug && print Dumper($att);
@@ -167,8 +167,8 @@ foreach my $tid (sort {$a <=> $b} @ids) {
   }
   
   # write out ticket data in JSON
-  mkdir "tickets/$tid" if ! -d "tickets/$tid";
-  open OUTJSON, ">", "tickets/$tid/$tid.json" or die "Can't open JSON file for output.\n";
+  mkdir $config->{'tickets_directory'} . $tid if ! -d $config->{'tickets_directory'} . $tid;
+  open OUTJSON, ">", $config->{'tickets_directory'} . "$tid/$tid.json" or die "Can't open JSON file for output.\n";
   print OUTJSON $json->pretty->encode($ticket);
   close OUTJSON;
   $debug && print $json->pretty->encode($ticket);

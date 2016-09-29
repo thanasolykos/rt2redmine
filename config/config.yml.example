@@ -11,6 +11,9 @@ rt2json:
   username: "USERNAME"
   password: "PASSWORD"
 
+  # directory to write tickets out to
+  tickets_directory: "tickets/"
+
   # enable debug mode for RT export
   debug: false
 
