@@ -125,10 +125,37 @@ directories.each() do |ticketdir|
     puts "Found! Assigning to user ID #{assignee_id}"
     id = issue.id 
     issue_url = $config['issue_url_base'] + "#{id}.json"
-    puts issue_url
     response = RestClient::Request.execute(:url => issue_url, :method => :put, :verify_ssl => false, 
         :headers => {'X-Redmine-API-Key': $config['key'], 'Content-Type': 'application/json'}, :payload => 
     {:issue => {:assigned_to_id => assignee_id.to_i }})
+    
+    # Redmine's API will report a 200 OK even if it could not assign the issue - e.g. because the assignee
+    # is not in an assignable role.  So, we need to check for that here and bail out if necessary
+    issue.reload
+
+    # if you are wondering why not issue.has_attribute?(:assigned_to.to_s) it's because it doesn't seem to work
+    # at least not with ActiveResource 4.1.0
+    if (issue.attributes.has_key?(:assigned_to.to_s)) 
+      # reset the date for setting the assignee - modeled after resetting transaction dates from below
+      trans_id = -1
+      conn.query("SELECT max(id) FROM journals") do |result|
+          trans_id = result.fetch_row[0]       
+      end 
+      # connect to the DB and manually reset the updated_on date to the same time as ticket creation
+      # it's likely that the assignee was set later than ticket creation, but I don't have that metadata 
+      # to work with and this is a reasonable compromise
+      # tried many ways to do this in a Rails-y way but nothing seems to work for Rails 4 as it did for Rails 3
+      time = DateTime.parse(ticket['Created'])
+      sql = "UPDATE journals set created_on = '#{time}' where id = #{trans_id}"
+      conn.query( sql ) do |result|
+        if (result.result_status != 1)
+          puts "ERROR: FAILED TO UPDATE updated_on FOR TRANSACTION."
+        end
+      end 
+      last_trans_date = time
+    else
+      puts "RT ticket owner not assignable in Redmine. Assignee will be blank."
+    end
   else
     puts "Unable to determine assignee.  Assignee will be blank."
   end
@@ -159,14 +186,24 @@ directories.each() do |ticketdir|
   # add the ticket history
   ticket['Transactions'].drop(1).each do |trans|
     issue.notes = '[' + trans['Creator'] + '] ' + trans['Content']
+    # set private if this was an RT comment
+    if trans['Type'] == 'Comment'
+      issue.private_notes = true
+    else
+      issue.private_notes = false
+    end
     
     begin
       # attempt to impersonate user who created transaction
-      matcharray = (/$config['username_regex']/i).match(trans['Creator'])
+      username = nil
+      matcharray = nil
+      matcharray = (/#{$config['username_regex']}/i).match(trans['Creator'])
       username = matcharray[1] if matcharray
       if username   
         puts "Trying to add transaction as username #{username}"
         RestAPI.redmine_user = username
+      else
+        puts "Unable to regex username from #{trans['Creator']}. Adding transaction as default API user instead."
       end
       if res = issue.save
         puts "Added #{trans['Type']} transaction to #{issue.id}"
