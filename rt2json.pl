@@ -112,7 +112,8 @@ foreach my $tid (sort {$a <=> $b} @ids) {
   # process attachments for this ticket, if any
   # this means both "real" attachments, as in someone put a file on the ticket, and incoming emails, which get
   # parsed into a series of attachments, and are not always reflected in the ticket history from the API like
-  # you'd expect.  All this business about parents refers to the way that RT breaks apart an email into various attachments that have parent-child relationships.
+  # you'd expect.  All this business about parents refers to the way that RT breaks apart an email into various
+  # attachments that have parent-child relationships.
   my $current_parent;
   my $alt_parent;
   foreach my $att_id (sort {$a <=> $b} @att_ids) {
@@ -121,7 +122,14 @@ foreach my $tid (sort {$a <=> $b} @ids) {
     my $att = $rt->get_attachment(id => $att_id, parent_id => $tid, undecoded => 1);
     print "Processing attachment $att_id ($att->{ContentType}, Parent: $att->{Parent})\n";
 
-    # basic pattern is that an incoming email will have 1 or more 0b attachments as parents (multipart/mixed, or multipart/alternative content types, I believe) and then those will have multiple children (RT attachments have the concept of a parent attachment we can use to determine children) - basically, we MAY want to preserve text/plain children.  Some text/plain children are email footers - I believe at one time our incoming requests were routed through mailing list software before being forwarded to RT, and the mailing list added a footer - these can be distinguished from other text/plain children by looking at the Headers... for the footer attachments, the Headers had MIME information, whereas for the "real" content they did not seem to have that.
+    # basic pattern is that an incoming email will have 1 or more 0b attachments as parents
+    #(multipart/mixed, or multipart/alternative content types, I believe) and then those will have multiple
+    #children (RT attachments have the concept of a parent attachment we can use to determine children)
+    # - basically, we MAY want to preserve text/plain children.  Some text/plain children are email footers
+    # - I believe at one time our incoming requests were routed through mailing list software before being forwarded to RT,
+    # and the mailing list added a footer
+    # - these can be distinguished from other text/plain children by looking at the Headers...
+    # for the footer attachments, the Headers had MIME information, whereas for the "real" content they did not seem to have that.
 
     if ($att->{ContentType} eq 'multipart/mixed') {
       # we assume this is a parent attachment for an incoming email
