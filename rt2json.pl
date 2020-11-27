@@ -118,7 +118,7 @@ foreach my $tid (sort {$a <=> $b} @ids) {
   foreach my $att_id (sort {$a <=> $b} @att_ids) {
     # docs suggested we set undecoded to a TRUE value for binary data, but my experiements show the opposite.
     # if you set undecoded to TRUE, you get Base64-encoded data out, which garbles the binary.
-    my $att = $rt->get_attachment(id => $att_id, parent_id => $tid, undecoded => 0);
+    my $att = $rt->get_attachment(id => $att_id, parent_id => $tid, undecoded => 1);
     print "Processing attachment $att_id ($att->{ContentType}, Parent: $att->{Parent})\n";
 
     # basic pattern is that an incoming email will have 1 or more 0b attachments as parents (multipart/mixed, or multipart/alternative content types, I believe) and then those will have multiple children (RT attachments have the concept of a parent attachment we can use to determine children) - basically, we MAY want to preserve text/plain children.  Some text/plain children are email footers - I believe at one time our incoming requests were routed through mailing list software before being forwarded to RT, and the mailing list added a footer - these can be distinguished from other text/plain children by looking at the Headers... for the footer attachments, the Headers had MIME information, whereas for the "real" content they did not seem to have that.
@@ -164,7 +164,10 @@ foreach my $tid (sort {$a <=> $b} @ids) {
     make_path($config->{'tickets_directory'} . "$tid/attachments") if ! -d $config->{'tickets_directory'} . "$tid/attachments";
     my $filename = $config->{'tickets_directory'} . "$tid/attachments/" . $att->{Filename};
     open OUT, ">", $filename or die "Can't open $filename for writing.\n";
-    print OUT $att->{Content};
+    ###############################
+    #print OUT $att->{Content};
+    syswrite(OUT, $att->{'Content'});
+    ###############################
     close OUT;
     open OUT, ">", $config->{'tickets_directory'} . "$tid/att" . $att->{id} .  ".json" or die "Can't open $config->{'tickets_directory'}$tid/att" . $att->{id} .  ".json for writing.\n";
     print OUT $json->pretty->encode($att);
