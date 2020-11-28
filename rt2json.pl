@@ -37,8 +37,6 @@ or die("Error in command line arguments\n");
 my $rt = RT::Client::REST->new(
   server => $config->{'server'},
   basic_auth_cb => (sub {
-  #my ('RT access', 'rt.gl3:443') = @_;
-  # do some evil things
   return ($user, $pass);
 }),
 
